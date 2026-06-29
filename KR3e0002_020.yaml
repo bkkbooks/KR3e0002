@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0002/chant/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五邪第二十五邪第二十邪在肺則病皮膚痛寒熱上氣喘汗出咳動肩背取之膺中外腧背三節五藏之傍以手疾按之快然乃刺之取之缺盆中以越之邪在肝則兩脅中痛寒中惡血在內行善掣節時腳腫取之行間以引脅下補三里以溫胃中取血脈以散惡血取耳間青脈以去其掣邪在脾胃則病肌肉痛陽氣有餘陰氣不足則熱中善饑陽氣不足陰氣有餘則寒中腸鳴腹痛陰陽俱有餘若俱不足則有寒有熱皆調于三里邪在腎則病骨痛陰痺陰痺者按之而不得腹脹腰痛大便難肩背頸項痛時眩耳之湧泉崑崙視有血者盡取之邪在心則病心痛喜悲時眩仆視有餘不足而調之其輸也
+  hash: sha256:38819910503c94fcfb0a1d6e4d1a8967b9509edaf6eb0ec2221a6004c1a7b765
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0002_CHANT_020-1a.1-h}
+metadata:
+  title: 靈樞經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0002.xml
+hash: sha256:553364d17a9c0efa3facb18f463795e7da1d7a289472035dfecb9905176b0250

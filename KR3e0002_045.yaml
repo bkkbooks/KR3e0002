@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0002/chant/v1/juan/45
+seq: 45
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外揣第四十五外揣第四十五黃帝曰余聞九針九篇余親授其調頗得其意夫九針者始於一而終于九然未得其要道也夫九針者小之則無內大之則無外深不可為下高不可為蓋恍惚無窮流溢無極余知其合于天道人事四時之變也然余願雜之毫毛渾束為一可乎歧伯曰明乎哉問也非獨針道焉夫治國亦然黃帝曰余願聞針道非國事也歧伯曰夫治國者夫惟道焉非道何可小大深淺雜合而為一乎黃帝曰願卒聞之歧伯曰日與月焉水與鏡焉鼓與響焉夫日月之明不失其影水鏡之察不失其形鼓響之應不後其聲動搖則應和盡得其情黃帝曰窘乎哉昭昭之明不可蔽其不可蔽不失陰陽也合而察之切而驗之見而得之若清水明鏡之不失其形也五音不彰五色不明五藏波蕩若是則內外相襲若鼓之應桴響之應聲影之似形故遠者司外揣內近者司內揣外是謂陰陽之極天地之蓋請藏之靈蘭之室弗敢使泄也
+  hash: sha256:a5e0db5ec157cdee85191e259b62c8ca4c13c5f309a8f1f07a18d1ca6fe8a1a2
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0002_CHANT_045-1a.1-h}
+metadata:
+  title: 靈樞經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0002.xml
+hash: sha256:9c86c27a9cb45960bdcceefc13eb04e1e1b52832aadcfc92ef34ad42f4ebbd01

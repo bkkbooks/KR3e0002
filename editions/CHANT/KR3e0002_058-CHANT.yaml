@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0002/chant/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賊風第五十八賊風第五十八黃帝曰夫子言賊風邪氣之傷人也令人病焉今有其不離屏蔽不出空穴之中卒然病者非不離賊風邪氣其故何也歧伯曰此皆嘗有所傷于濕氣藏于血脈之中分肉之間久留而不去若有所墮墜惡血在內而不去卒然喜怒不節飲食不適寒溫不時腠理閉而不通其開而遇風寒則血氣凝結與故邪相襲則為寒痺其有熱則汗出汗出則受風雖不遇賊風邪氣必有因加而發焉黃帝曰今夫子之所言者皆病人之所自知也其毋所遇邪氣又毋怵惕之所志卒然而病者其故何也唯有因鬼神之事乎歧伯曰此亦有故邪留而未發因而志有所惡及有所慕血氣內亂兩氣相搏其所從來者微視之不見聽而不聞故似鬼神黃帝曰其祝而已者其故何也歧伯曰先巫者因知百病之勝先知其病之所從生者可祝而已也
+  hash: sha256:511b6590d082d7d4578f53cb9ae9fb7d23aa9ef91d56a6889f11e944bff704ee
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0002_CHANT_058-1a.1-h}
+metadata:
+  title: 靈樞經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0002.xml
+hash: sha256:d5e1239c9d963bf8920cac753516647e558efa45160e25ecef64aaa40d5da1f5

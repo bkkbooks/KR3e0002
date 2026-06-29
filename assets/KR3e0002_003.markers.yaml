@@ -1,0 +1,661 @@
+canonical_identifier: bkk:krp/KR3e0002/bkk/v1/markers/3
+seq: 3
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', SBCK: 黄帝素問靈樞經卷之三經脉第十雷公問於黄帝曰禁脉之言凡刺之理經脉爲始營其所行制其度量内次五藏外别六府願盡聞其道黄帝曰人始生先成精精成而腦髓生骨爲榦脉爲營筋爲剛肉爲牆皮膚堅而毛髮長榖入于胃脉道以通血氣乃行雷公曰願卒聞經脉之始生黄帝曰經脉者所以能决死生處百病調虛實不可不通肺手太隂之脉起于中焦下絡大腸還循胃口上膈屬肺從肺系横出腋下下循臑内行少隂心主之前下肘中循臂内上骨下廉入寸口上魚循魚際出大指之端其支者從腕後直出次指内廉出其端是動則病肺脹滿膨膨而喘欬缺盆中痛甚則交兩手而瞀此爲臂厥是主肺所生病者欬上氣喘渴煩心胷滿臑臂内前廉痛厥掌中􅀬氣盛有餘則肩背痛風寒汗出中風}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_SBCK_003-1a}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_SBCK_003-1b}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_SBCK_003-2a}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書靈樞經卷三宋史崧音釋經脈第十雷公問於黄帝曰禁脈之言凡刺之理經脈為始營其所行制其度量内次五藏外别六府願盡聞其道黄帝曰人始生先成精精成而腦髓生骨為幹脈為營筋為剛肉為牆皮膚堅而毛髮長榖入於胃脈道以通血氣乃行雷公曰願卒聞經脈之始生黄帝曰經脈者所以能决死生處百病調虚實不可不通肺手太隂之脈起于中焦下絡大腸還循胃口上膈屬肺從肺系横出腋下下循臑内行少隂心主之前下肘中循臂内上骨下亷入寸口上魚循魚際出大指之端其支者從腕後直出次指内亷出其端是動則病肺脹滿膨膨而喘欬缺盆中痛甚則交兩手而瞀此為臂厥是主肺所生病者欬上氣喘渴煩心胷滿臑臂内前亷痛厥掌中熱氣盛有餘則肩背痛風寒汗出中風}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_WYG_003-1a, image: WYG0733/WYG0733-0340c.png}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_WYG_003-1b, image: WYG0733/WYG0733-0340d.png}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_WYG_003-2a, image: WYG0733/WYG0733-0341a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 黄帝素問靈樞經卷之三經脉第十雷公問於黄帝曰禁脉之言凡刺之理經脉爲始營其所行制其度量内次五藏外别六府願盡聞其道黄帝曰人始生先成精精成而腦髓生骨爲榦脉爲營筋爲剛肉爲牆皮膚堅而毛髮長榖入于胃脉道以通血氣乃行雷公曰願卒聞經脉之始生黄帝曰經脉者所以能决死生處百病調虛實不可不通肺手太隂之脉起于中焦下絡大腸還循胃口上膈屬肺從肺系横出腋下下循臑内行少隂心主之前下肘中循臂内上骨下廉入寸口上魚循魚際出大指之端其支者從腕後直出次指内廉出其端是動則病肺脹滿膨膨而喘欬缺盆中痛甚則交兩手而瞀此爲臂厥是主肺所生病者欬上氣喘渴煩心胷滿臑臂内前廉痛厥掌中熱氣盛有餘則肩背痛風寒汗出中風}
+  body:
+  - {type: punctuation, offset: 0, content: 〈, id: KR3e0002_CHANT_003-bkkpn1}
+  - {type: variant, offset: 1, length: 3, content: 鍼解第, SBCK: 便數而欠氣虛則肩背痛寒少氣不足以息溺色變為此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大}
+  - {type: variant, offset: 1, length: 3, content: 鍼解第, WYG: 便數而欠氣虚則肩背痛寒少氣不足以息溺色變為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者寸口大}
+  - {type: variant, offset: 1, length: 3, content: 鍼解第, krp: 便數而欠氣虛則肩背痛寒少氣不足以息溺色變為此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大}
+  - {type: substitution, offset: 1, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 3, content: 〉, id: KR3e0002_CHANT_003-bkkpn2}
+  - {type: xml-element, offset: 5, content: '', id: KR3e0002_CHANT_003-bkkxmlele1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3e0002_CHANT_003-1a.1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3e0002_CHANT_003-1a.2}
+  - {type: variant, offset: 5, length: 18, content: 小鍼解第三所謂易陳者易言也難入者難著, SBCK: 倍}
+  - {type: variant, offset: 5, length: 18, content: 小鍼解第三所謂易陳者易言也難入者難著, WYG: 倍}
+  - {type: variant, offset: 5, length: 18, content: 小鍼解第三所謂易陳者易言也難入者難著, krp: 倍}
+  - {type: substitution, offset: 6, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: xml-element, offset: 10, content: '', id: KR3e0002_CHANT_003-bkkxmlele2}
+  - {type: xml-element, offset: 10, content: '', id: KR3e0002_CHANT_003-bkkxmlele3}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3e0002_CHANT_003-1a.3}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3e0002_CHANT_003-1a.4}
+  - {type: punctuation, offset: 15, content: ，, id: KR3e0002_CHANT_003-bkkpn3}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3e0002_CHANT_003-1a.5}
+  - {type: punctuation, offset: 18, content: 。, id: KR3e0002_CHANT_003-bkkpn4}
+  - {type: 'tls:seg', offset: 18, content: '', id: KR3e0002_CHANT_003-1a.6}
+  - {type: punctuation, offset: 21, content: ，, id: KR3e0002_CHANT_003-bkkpn5}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3e0002_CHANT_003-1a.7}
+  - {type: variant, offset: 25, length: 0, content: '', SBCK: 迎虛者則寸口反小于人迎}
+  - {type: variant, offset: 25, length: 0, content: '', WYG: 迎虚者則寸口反小于人迎}
+  - {type: variant, offset: 25, length: 0, content: '', krp: 迎虛者則寸口反小于人迎}
+  - {type: punctuation, offset: 26, content: 。, id: KR3e0002_CHANT_003-bkkpn6}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3e0002_CHANT_003-1a.8}
+  - {type: variant, offset: 26, length: 3, content: 麤守形, SBCK: 大腸手陽朙之脉起于大指次指之端循指上廉出合谷兩骨之間上入兩筋之中循臂上廉入肘外廉上臑外前廉上肩出髃骨之前廉上出于柱骨之㑹上下入缺盆絡肺下膈屬大腸其支}
+  - {type: page-break, offset: 26, content: '', id: KR3e0002_SBCK_003-2b}
+  - {type: variant, offset: 26, length: 3, content: 麤守形, WYG: 大腸手陽明之脈起于大指次指之端循指上亷出合谷兩骨之間上入兩節之中循臂上亷入肘外亷上臑外前亷上肩出髃骨之前亷上出于柱骨之㑹上下入缺盆絡肺下膈屬大腸其支}
+  - {type: variant, offset: 26, length: 3, content: 麤守形, krp: 大腸手陽朙之脉起于大指次指之端循指上廉出合谷兩骨之間上入兩筋之中循臂上廉入肘外廉上臑外前廉上肩出髃骨之前廉上出于柱骨之㑹上下入缺盆絡肺下膈屬大腸其支}
+  - {type: substitution, offset: 26, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1132}}
+  - {type: punctuation, offset: 30, content: ，, id: KR3e0002_CHANT_003-bkkpn7}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR3e0002_CHANT_003-1a.9}
+  - {type: variant, offset: 30, length: 4, content: 守刺法也, SBCK: 從缺盆}
+  - {type: variant, offset: 30, length: 4, content: 守刺法也, WYG: 從缺盆}
+  - {type: variant, offset: 30, length: 4, content: 守刺法也, krp: 從缺盆}
+  - {type: punctuation, offset: 34, content: 。, id: KR3e0002_CHANT_003-bkkpn8}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR3e0002_CHANT_003-1a.10}
+  - {type: variant, offset: 35, length: 2, content: 守神, SBCK: 頸貫頰入下齒中還出挾口交人中左之右右之左上挾鼻孔是動則病齒痛頸腫是主津液所生病}
+  - {type: variant, offset: 35, length: 2, content: 守神, WYG: 頸貫頰入下齒中還出挾口交人中左之右右之左上挾鼻孔是動則病齒痛頸腫是主津液所生病}
+  - {type: page-break, offset: 35, content: '', id: KR3e0002_WYG_003-2b, image: WYG0733/WYG0733-0341b.png}
+  - {type: variant, offset: 35, length: 2, content: 守神, krp: 頸貫頰入下齒中還出挾口交人中左之右右之左上挾鼻孔是動則病齒痛頸腫是主津液所生病}
+  - {type: punctuation, offset: 38, content: ，, id: KR3e0002_CHANT_003-bkkpn9}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3e0002_CHANT_003-1a.11}
+  - {type: variant, offset: 38, length: 4, content: 守人之血, SBCK: 目黄口乾鼽衂喉痺肩前臑痛大指次指痛不用}
+  - {type: variant, offset: 38, length: 4, content: 守人之血, WYG: 目黄口乾鼽衂喉痺肩前臑痛大指次指痛不用}
+  - {type: variant, offset: 38, length: 4, content: 守人之血, krp: 目黄口乾鼽衂喉痺肩前臑痛大指次指痛不用}
+  - {type: variant, offset: 45, length: 0, content: '', SBCK: 則當脉所過者熱腫虛則寒慄不復爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大三倍于寸口虛者人迎反小於寸口也胃足陽朙之脉起於鼻之交頞中旁納約字一本作太陽之脉下循鼻外入上齒中還出挾口環脣下交承漿却循頥後下廉出大迎循頰車上耳前過客主人循髮際至額顱其支者從大迎前下人迎循喉嚨入缺盆下膈屬胃絡脾其直者從缺盆下乳内廉下挾臍入氣街中其支者起于胃口下循腹裏下至氣街中而合以下髀關抵伏兎下膝臏中下循脛外廉下足跗入中指内間其支者下廉三寸而别下入中指外間其支者别跗上入大指間出其端是動則病洒洒振寒善呻數欠顔黒病至則惡人與火聞木聲則愓然而驚心欲動獨􅐬戸塞牖而處甚則欲上高而歌棄衣而走賁響腹脹是為骭厥是主血所生病者狂瘧温淫汗出鼽衂口喎脣胗頸腫喉痺大腹水腫膝臏腫痛循膺乳氣街股伏兎骭外廉足跗上皆痛中指不用氣盛則身以前皆熱其有餘于胃則消榖善饑溺色黄氣}
+  - {type: page-break, offset: 45, content: '', id: KR3e0002_SBCK_003-3a}
+  - {type: page-break, offset: 45, content: '', id: KR3e0002_SBCK_003-3b}
+  - {type: page-break, offset: 45, content: '', id: KR3e0002_SBCK_003-4a}
+  - {type: variant, offset: 45, length: 0, content: '', WYG: 則當脈所過者熱腫虚則寒慄不復為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者人迎大三倍于寸口虚者人迎反小於寸口也胃足陽明之脈起於鼻之交頞中分納一本作約字太陽之脈下循鼻外入上齒中還出挾口環唇下交承漿却循頥後下亷出大迎前頰車上耳前過客主人循髮際至額顱其支者從大迎前下人迎循喉嚨入缺盆下膈屬胃絡脾其直者從缺盆下乳内亷下挾臍入氣街中其支者起于胃口下循腹裏下至氣街中而合以下髀闗抵伏免下膝臏中下循脛外亷下足跗入中指内間其支者下亷三寸而别下入中指外間其支者别跗上入大指間出其端是動則病洒洒振寒善呻數欠顔黒病至則惡人與火聞木聲則愓然而驚心欲動獨閉戸塞牖而處甚則欲上髙而歌棄衣而走賁響腹脹是為骭厥是主血所生病者狂瘧温淫汗出鼽衂口喎唇胗頸腫喉痺大腹水腫膝臏腫痛循膺乳氣街股伏免骭外亷足跗上皆痛中指不用氣盛則身以前皆熱其有餘于胃則消榖善饑溺色黄氣}
+  - {type: page-break, offset: 45, content: '', id: KR3e0002_WYG_003-3a, image: WYG0733/WYG0733-0341c.png}
+  - {type: page-break, offset: 45, content: '', id: KR3e0002_WYG_003-3b, image: WYG0733/WYG0733-0341d.png}
+  - {type: variant, offset: 45, length: 0, content: '', krp: 則當脉所過者熱腫虛則寒慄不復爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大三倍于寸口虛者人迎反小於寸口也胃足陽朙之脉起於鼻之交頞中旁納約字一本作太陽之脉下循鼻外入上齒中還出挾口環脣下交承漿却循頥後下廉出大迎循頰車上耳前過客主人循髮際至額顱其支者從大迎前下人迎循喉嚨入缺盆下膈屬胃絡脾其直者從缺盆下乳内廉下挾臍入氣街中其支者起于胃口下循腹裏下至氣街中而合以下髀關抵伏兎下膝臏中下循脛外廉下足跗入中指内間其支者下廉三寸而别下入中指外間其支者别跗上入大指間出其端是動則病洒洒振寒善呻數欠顔黒病至則惡人與火聞木聲則愓然而驚心欲動獨閉戸塞牖而處甚則欲上高而歌棄衣而走賁響腹脹是為骭厥是主血所生病者狂瘧温淫汗出鼽衂口喎脣胗頸腫喉痺大腹水腫膝臏腫痛循膺乳氣街股伏兎骭外廉足跗上皆痛中指不用氣盛則身以前皆熱其有餘于胃則消榖善饑溺色黄氣}
+  - {type: punctuation, offset: 47, content: ，, id: KR3e0002_CHANT_003-bkkpn10}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3e0002_CHANT_003-1a.12}
+  - {type: variant, offset: 47, length: 0, content: '', SBCK: 則身以前皆寒慄胃中寒則脹滿爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大三倍于寸口虛者人迎反小于寸口也脾足太隂之脉起于大指之端循指内側白肉際過核骨後上内踝前廉上踹内循脛骨後交出厥隂之前上膝股内前廉入腹屬脾絡胃上膈挾咽連舌本散舌下其支者復從胃别上膈注心中是動則病舌本強食則嘔胃脘痛腹脹善噫得後與氣則快然如衰身體皆重是主脾所生病者舌本痛體不能動摇食不下煩心心下急痛溏瘕泄水閉黄疸不能臥强立股膝内腫厥足大指不用爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大三倍于人迎虛者寸口反小于人迎心手少隂之脉起于心中出屬心系下膈絡小腸其支者從心系上挾咽繫目系其直者復從心系却上肺下出腋下下循臑内後廉行太隂心主之後下肘内循臂内後廉抵掌後脱骨之端入掌内後亷循小指之内出其端是動則病嗌乾心痛渇而欲飲是爲臂厥是主心所生病者目黄脇痛臑臂内後廉痛厥掌中熱痛爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大再倍於人迎虛者寸口反小于人迎也小腸手太陽之脉起于小指之端循手外側上腕出踝中直上循臂骨下廉出肘内側兩筋之間上循臑外後廉出肩解繞肩胛交肩上入缺盆絡心循咽下膈抵胃屬小腸其支者從缺盆循頸上頰至目鋭眥却入耳中其支者别頰上䪼抵鼻至目内眥斜絡于顴是動則病嗌痛頷腫不}
+  - {type: page-break, offset: 47, content: '', id: KR3e0002_SBCK_003-4b}
+  - {type: page-break, offset: 47, content: '', id: KR3e0002_SBCK_003-5a}
+  - {type: page-break, offset: 47, content: '', id: KR3e0002_SBCK_003-5b}
+  - {type: page-break, offset: 47, content: '', id: KR3e0002_SBCK_003-6a}
+  - {type: variant, offset: 47, length: 0, content: '', WYG: 則身以前皆寒慄胃中寒則脹滿為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者人迎大三倍于寸口虚者人迎反小于寸口也脾足太隂之脈起於大指之端循指内側白肉際過核骨後上内踝前亷上踹内循脛骨後交出厥隂之前上膝股内前亷入腹属脾絡胃上膈挾咽連舌本散舌下其支者復從胃别上膈注心中是動則病舌本強食則嘔胃脘痛腹脹善噫得後與氣則快然如衰身體皆重是主脾所生病者舌本痛體不能動摇食不下煩心心下急痛溏瘕泄水閉黄疸不能卧强立股膝内腫厥足大指不用為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者寸口大三倍于人迎虚者寸口反小於人迎心手少隂之脈起于心中出屬心系下膈絡小腸其支者從心系上挾咽繫目系其直者復從心系却上肺下出腋下下循臑内後亷行太隂心主之後下肘内循臂内後亷抵掌後脱骨之端入掌内後亷循小指之内出其端是動則病嗌乾心痛渇而欲飲是為臂厥是主心所生病者目黄脇痛臑臂内後亷痛厥掌中熱痛為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虛以經取之盛者寸口大再倍於人迎虚者寸口反小於人迎也小腸手太陽之脈起于小指之端循手外側上腕出踝中直上循臂骨下亷出肘内側兩筋之間上循臑外後亷出肩解繞肩胛交肩上入缺盆絡心循咽下膈抵胃屬小腸其支者從缺盆循頸上頰至日鋭眥却入耳中其支者别頰上䪼抵鼻至目内眥斜絡于顧是動則病嗌痛頷腫不}
+  - {type: page-break, offset: 47, content: '', id: KR3e0002_WYG_003-4a, image: WYG0733/WYG0733-0342a.png}
+  - {type: page-break, offset: 47, content: '', id: KR3e0002_WYG_003-4b, image: WYG0733/WYG0733-0342b.png}
+  - {type: page-break, offset: 47, content: '', id: KR3e0002_WYG_003-5a, image: WYG0733/WYG0733-0342c.png}
+  - {type: variant, offset: 47, length: 0, content: '', krp: 則身以前皆寒慄胃中寒則脹滿爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大三倍于寸口虛者人迎反小于寸口也脾足太隂之脉起于大指之端循指内側白肉際過核骨後上内踝前廉上踹内循脛骨後交出厥隂之前上膝股内前廉入腹屬脾絡胃上膈挾咽連舌本散舌下其支者復從胃别上膈注心中是動則病舌本強食則嘔胃脘痛腹脹善噫得後與氣則快然如衰身體皆重是主脾所生病者舌本痛體不能動摇食不下煩心心下急痛溏瘕泄水閉黄疸不能臥强立股膝内腫厥足大指不用爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大三倍于人迎虛者寸口反小于人迎心手少隂之脉起于心中出屬心系下膈絡小腸其支者從心系上挾咽繫目系其直者復從心系却上肺下出腋下下循臑内後廉行太隂心主之後下肘内循臂内後廉抵掌後脱骨之端入掌内後亷循小指之内出其端是動則病嗌乾心痛渇而欲飲是爲臂厥是主心所生病者目黄脇痛臑臂内後廉痛厥掌中熱痛爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大再倍於人迎虛者寸口反小于人迎也小腸手太陽之脉起于小指之端循手外側上腕出踝中直上循臂骨下廉出肘内側兩筋之間上循臑外後廉出肩解繞肩胛交肩上入缺盆絡心循咽下膈抵胃屬小腸其支者從缺盆循頸上頰至目鋭眥却入耳中其支者别頰上䪼抵鼻至目内眥斜絡于顴是動則病嗌痛頷腫不}
+  - {type: variant, offset: 48, length: 0, content: '', SBCK: 以顧肩似拔臑似折是主液所生病者耳聾目黄頰腫頸頷肩臑肘臂外後廉痛爲此諸病盛則寫之虛則}
+  - {type: variant, offset: 48, length: 0, content: '', WYG: 以顧肩似技臑似折是主液所生病者耳聾目黄頰腫頸頷肩臑肘臂外後亷痛為此諸病盛則寫之虚則}
+  - {type: page-break, offset: 48, content: '', id: KR3e0002_WYG_003-5b, image: WYG0733/WYG0733-0342d.png}
+  - {type: variant, offset: 48, length: 0, content: '', krp: 以顧肩似拔臑似折是主液所生病者耳聾目黄頰腫頸頷肩臑肘臂外後廉痛爲此諸病盛則寫之虛則}
+  - {type: variant, offset: 49, length: 0, content: '', SBCK: 之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大再倍于寸口虛者人迎反小于寸口也膀胱足太陽之脉起于目内眥上額交巔其支者從巔至耳上循其直者從巔入絡腦還出别下項循肩髆内挾脊抵腰中入循膂絡腎屬膀胱其支者從腰中下挾脊貫臀入膕中其支者從髆内左右别下貫胛挾脊内過髀樞循髀外從後廉下合膕中以下貫踹内出外踝之後循京骨至小指外側是動則病衝頭痛目似脫項如拔脊痛腰似折髀不可以曲膕如結踹如裂是爲踝厥是主筋所生病者痔瘧狂癲疾頭􅇟項痛目黄淚出􅍠衂項背腰尻膕踹脚皆痛小指不用為此諸病盛則}
+  - {type: page-break, offset: 49, content: '', id: KR3e0002_SBCK_003-6b}
+  - {type: page-break, offset: 49, content: '', id: KR3e0002_SBCK_003-7a}
+  - {type: variant, offset: 49, length: 0, content: '', WYG: 之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者人迎大再倍于寸口虚者人迎反小于寸口也膀胱足太陽之脈起于目内眥上額交巔其支者從巔至耳上角其直者從巔入絡腦還出别下項循肩髆内挾脊抵腰中入循膂絡腎屬膀胱其支者從腰中下挾脊貫臀入膕中其支者從髆内左右别下貫胛挾脊内過髀樞循髀外從後亷下合膕中以下貫踹内出外踝之後循京骨至小指外側是動則病衝頭痛目似脫項如拔脊痛腰似折髀不可以曲膕如結踹如裂是為踝厥是主筋所生病者痔瘧狂癲疾頭􅀈項痛目黄淚出􅍠衂項背腰尻膕踹脚皆痛小指不用為此諸病盛則}
+  - {type: page-break, offset: 49, content: '', id: KR3e0002_WYG_003-6a, image: WYG0733/WYG0733-0343a.png}
+  - {type: variant, offset: 49, length: 0, content: '', krp: 之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大再倍于寸口虛者人迎反小于寸口也膀胱足太陽之脉起于目内眥上額交巔其支者從巔至耳上循其直者從巔入絡腦還出别下項循肩髆内挾脊抵腰中入循膂絡腎屬膀胱其支者從腰中下挾脊貫臀入膕中其支者從髆内左右别下貫胛挾脊内過髀樞循髀外從後廉下合膕中以下貫踹内出外踝之後循京骨至小指外側是動則病衝頭痛目似脫項如拔脊痛腰似折髀不可以曲膕如結踹如裂是爲踝厥是主筋所生病者痔瘧狂癲疾頭𩕄項痛目黄淚出􅍠衂項背腰尻膕踹脚皆痛小指不用為此諸病盛則}
+  - {type: variant, offset: 50, length: 0, content: '', SBCK: 之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大再倍于寸口虛者人迎反小于寸口}
+  - {type: page-break, offset: 50, content: '', id: KR3e0002_SBCK_003-7b}
+  - {type: variant, offset: 50, length: 0, content: '', WYG: 之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者人迎大再倍于寸口虚者人迎反小于寸口}
+  - {type: variant, offset: 50, length: 0, content: '', krp: 之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大再倍于寸口虛者人迎反小于寸口}
+  - {type: punctuation, offset: 51, content: 。, id: KR3e0002_CHANT_003-bkkpn11}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3e0002_CHANT_003-1a.13}
+  - {type: variant, offset: 51, length: 1, content: 神, SBCK: 腎足少隂之脉起于小指之下邪走足心出于然谷之下循内踝之後别入跟中以上踹内出膕内廉上股内後廉貫脊屬腎絡膀胱其直者從腎上貫肝膈入肺中循喉嚨挾舌本其支者從肺出絡心注胷中是動則病饑不欲食面如漆柴欬唾則有血喝喝而喘坐而欲起目􅉩􅉩如無所見心如懸若饑狀氣不足則善恐心愓愓如人將捕之是爲骨厥是主腎所生病者口熱舌乾咽腫上氣嗌乾及痛煩心心痛黄疽腸澼脊股内後廉痛痿厥嗜臥足下熱而痛爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之灸則強食生肉緩帶披髮大杖重履而步盛者寸口大再倍于人迎虛者寸口反小于人迎也心主手厥隂心包絡之脉起于胷中出屬心包絡下膈歷絡三膲其支者循胷出脇下腋三寸上抵腋下循臑内行太隂少隂之間入肘中下臂行兩筋之間入掌中循中指出其端其支者别掌中循小指次指出其端是動則病手心熱臂肘攣急腋腫甚則胷脇支滿心中憺憺火動面赤目黄喜笑不休是主脉所生病者煩心心痛掌中熱爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大一倍于人迎虛者寸口反小于人迎也三焦手少陽之脉起于小指次指之端上出兩指之間循手表腕出臂外兩骨之間上貫肘循臑外上肩而交出足少陽之後入缺盆布膻中散落心包下膈循屬三焦其支者從膻中上出缺盆上項繫耳後直上出耳上角以屈下頰至䪼其支者從耳後入耳中出走耳前過}
+  - {type: page-break, offset: 51, content: '', id: KR3e0002_SBCK_003-8a}
+  - {type: page-break, offset: 51, content: '', id: KR3e0002_SBCK_003-8b}
+  - {type: page-break, offset: 51, content: '', id: KR3e0002_SBCK_003-9a}
+  - {type: variant, offset: 51, length: 1, content: 神, WYG: 腎足少隂之脈起于小指之下邪走足心出于然谷之下循内踝之後别入跟中以上踹内出膕内亷上股内後亷貫脊屬腎絡膀胱其直者從腎上貫肝膈入肺中循喉嚨挾舌本其支者從肺出絡心注胷中是動則病饑不欲食面如漆柴欬唾則有血喝喝而喘坐而欲起目􅀈􅀈如無所見心如懸若饑狀氣不足則善恐心愓愓如人将捕之是為骨厥是主腎所生病者口熱舌乾咽腫上氣嗌乾及痛煩心心痛黄疸腸澼脊朘内後亷痛痿厥嗜卧足下熱而痛為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之炙則強食生肉緩帶被髮大杖重履而步盛者寸口大再倍于人迎虚者寸口反小于人迎也心主手厥隂心包絡之脈起于胷中出屬心包絡下膈歴絡三膲其支者循胷出脇下腋三寸上抵腋下循臑内行太隂少隂之間入肘中下臂行兩筋之間入掌中循中指出其端其支者别掌中循小指次指出其端是動則病手心熱臂肘攣急腋腫甚則胷脇支滿心中憺憺大動面赤目黄喜笑不休是主脈所生病者煩心心痛掌中熱為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虛以經取之盛者寸口大一倍于人迎虚者寸口反小于人迎也三焦手少陽之脈起于小指次指之端上出兩指之間循手表腕出臂外兩骨之間上貫肘循臑外上肩而交出足少陽之後入缺盆布膻中散落心包下膈循屬三焦其支者從膻中上出缺盆上項繫耳後直上出耳上角以屈下頰至䪼其支者從耳後入耳中出走耳前過}
+  - {type: page-break, offset: 51, content: '', id: KR3e0002_WYG_003-6b, image: WYG0733/WYG0733-0343b.png}
+  - {type: page-break, offset: 51, content: '', id: KR3e0002_WYG_003-7a, image: WYG0733/WYG0733-0343c.png}
+  - {type: page-break, offset: 51, content: '', id: KR3e0002_WYG_003-7b, image: WYG0733/WYG0733-0343d.png}
+  - {type: page-break, offset: 51, content: '', id: KR3e0002_WYG_003-8a, image: WYG0733/WYG0733-0344a.png}
+  - {type: variant, offset: 51, length: 1, content: 神, krp: 腎足少隂之脉起于小指之下邪走足心出于然谷之下循内踝之後别入跟中以上踹内出膕内廉上股内後廉貫脊屬腎絡膀胱其直者從腎上貫肝膈入肺中循喉嚨挾舌本其支者從肺出絡心注胷中是動則病饑不欲食面如漆柴欬唾則有血喝喝而喘坐而欲起目􅉩􅉩如無所見心如懸若饑狀氣不足則善恐心愓愓如人將捕之是爲骨厥是主腎所生病者口熱舌乾咽腫上氣嗌乾及痛煩心心痛黄疽腸澼脊股内後廉痛痿厥嗜臥足下熱而痛爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之灸則強食生肉緩帶披髮大杖重履而步盛者寸口大再倍于人迎虛者寸口反小于人迎也心主手厥隂心包絡之脉起于胷中出屬心包絡下膈歷絡三膲其支者循胷出脇下腋三寸上抵腋下循臑内行太隂少隂之間入肘中下臂行兩筋之間入掌中循中指出其端其支者别掌中循小指次指出其端是動則病手心熱臂肘攣急腋腫甚則胷脇支滿心中憺憺火動面赤目黄喜笑不休是主脉所生病者煩心心痛掌中熱爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大一倍于人迎虛者寸口反小于人迎也三焦手少陽之脉起于小指次指之端上出兩指之間循手表腕出臂外兩骨之間上貫肘循臑外上肩而交出足少陽之後入缺盆布膻中散落心包下膈循屬三焦其支者從膻中上出缺盆上項繫耳後直上出耳上角以屈下頰至䪼其支者從耳後入耳中出走耳前過}
+  - {type: variant, offset: 53, length: 0, content: '', SBCK: 主人前交頰至目鋭眥是動則病耳聾渾渾焞焞嗌腫喉痺是主氣所生病}
+  - {type: page-break, offset: 53, content: '', id: KR3e0002_SBCK_003-9b}
+  - {type: variant, offset: 53, length: 0, content: '', WYG: 主人前交頰至自鋭眥是動則病耳聾渾渾焞焞嗌腫喉痺是主氣所生病}
+  - {type: variant, offset: 53, length: 0, content: '', krp: 主人前交頰至目鋭眥是動則病耳聾渾渾焞焞嗌腫喉痺是主氣所生病}
+  - {type: punctuation, offset: 54, content: ，, id: KR3e0002_CHANT_003-bkkpn12}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR3e0002_CHANT_003-1a.14}
+  - {type: variant, offset: 54, length: 1, content: 正, SBCK: 汗出目鋭眥痛頰痛耳後肩臑肘臂外皆痛小指次指不用爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大一倍于寸口虛者人迎反小于寸口也膽足少陽之脉起于目鋭眥上抵頭角下耳後循頸行手少陽之前至肩上却交出手少陽之後入缺盆其支者從耳後入耳中出走耳前至目鋭眥後其支者别銃眥下大迎合于手少陽抵于䪼下加頰車下頸合缺盆以下胷中貫膈絡肝屬膽循脇裏出氣街繞毛際横入髀厭中其直者從缺盆下腋循胷過季脇下合髀厭中以下循髀陽出膝外廉下外輔骨之前直下抵絶骨之端下出外踝之前循足跗上入小指次指之間其支者别跗上入大指之間循大指歧骨内出其端還貫爪甲出三毛是動則病口苦善太息心脇痛不能轉側甚則面微有塵體無膏澤足外反熱是爲陽厥是主骨所生病者頭痛頷痛目銳眥痛缺盆中腫痛腋下腫馬刁俠癭汗出振寒瘧胷脇肋髀膝外至脛絶骨外髁前及諸節皆痛小指次指不用爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大一倍于寸口虛者人迎反小于寸口也肝足厥隂之脉起于大指叢毛之際上循足跗上廉去内踝一寸上踝八寸交出太隂之後上膕内廉循股隂入毛中過隂器抵小腹挾胃屬肝絡膽上貫膈布脇肋循喉嚨之後上入頏顙連目系上出額與督脉㑹于巔其支者從目系下頰裏環脣内其支者復從肝别貫膈上注肺是動則病腰痛不可以俛仰丈夫㿉疝婦人少腹腫甚則嗌乾面塵脱色是肝所生病者胷滿嘔逆飱泄狐疝遺溺閉癃為此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大一倍于人迎虛者寸口反小于人迎也手太隂氣絶則皮毛焦太隂者行氣温于皮毛者也故氣不榮則皮毛焦皮毛焦則津液去皮節津液去皮節者則爪枯毛折毛折者則毛先死丙篤丁死火勝金也手少隂氣絶則脉不通脉不通則血不流血不流則髦色不澤故其面黒如漆柴者血先死壬篤癸死水勝火也足太隂氣絶者則脉不榮肌肉脣舌者肌肉之本也脉不榮則肌肉軟肌肉軟則舌萎人中滿人中滿則脣反脣反者肉先死甲篤乙死木勝土也足少隂氣絶則骨枯少隂者冬脉也伏行而濡骨髓者也故骨不濡則肉不能著也骨肉不相親則肉軟却肉軟却故齒長而垢髮無澤髮無澤者骨先死戊篤已死土勝水也足厥隂氣絶則筋絶厥隂者肝脉也肝者筋之合也筋者聚于隂氣而脉絡于舌本也故脉弗榮則筋急筋急則引舌與卵故脣青舌卷卵縮則筋先死庚篤辛死金勝木也五隂氣俱絶則目系轉轉則目運目運者爲志先死志先死則遠一日半死矣六陽氣絶則隂與陽相離離則腠理發泄絶汗乃出故旦占夕死夕占旦死經脉十二者伏行分肉之間深而不見其常見者足太隂過于外踝之上無所隠故也諸脉之浮而常見者皆絡脉也六經絡手陽朙少陽之大絡起于五指間上合肘中飲酒者衛氣先行皮膚先充絡脉絡脉先盛故衛氣已平營氣乃滿而經脉大盛脉之卒然動者皆}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-10a}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-10b}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-11a}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-11b}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-12a}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-12b}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-13a}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_SBCK_003-13b}
+  - {type: variant, offset: 54, length: 1, content: 正, WYG: 汗出目鋭眥痛頰痛耳後肩臑肘臂外皆痛小指次指不用為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者人迎大一倍于寸口虚者人迎反小于寸口也膽足少陽之脈起于目鋭􅗃上抵頭角下耳後循頸行手少陽之前至肩上却交出手少陽之後入缺盆其支者從耳後入耳中出走耳前至目鋭􅗃後其支者别鋭背下大迎合于手少陽抵于䪼下加頰車下頸合缺盆以下胷中貫膈絡肝屬膽循脇裏出氣街繞毛際横入髀厭中其直者從缺盆下腋循胷過季脇下合髀厭中以下循髀陽出膝外亷下外輔骨之前直下抵絶骨之端下出外踝之前循足跗上入小指次指之間其支者别跗上入大指之間循大指歧骨内出其端還貫爪甲出三毛是動則病口苦善太息心脇痛不能轉側甚則面微有塵體無膏澤足外反熱是為陽厥是主骨所生病者頭痛頷痛目銳􅗃痛缺盆中腫痛腋下腫馬刁俠癭汗出振寒瘧胷脇肋髀膝外至脛絶骨外踝前及諸節皆痛小指次指不用為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者人迎大一倍于寸口虚者人迎反小于寸口也肝足厥隂之脈起于大指叢毛之際上循足跗上亷去内踝一寸上踝八寸交出太隂之後上膕内亷循股隂入毛中過隂器抵小腹挾胃屬肝絡膽上貫膈布脇肋循喉嚨之後上入頏顙連目系上出額與督脈㑹于巔其支者從目系下頰裏環唇内其支者復從肝别貫膈上注肺是動則病腰痛不可以俛仰丈夫㿉疝婦人少腹腫甚則嗌乾面塵脱色是肝所生病者胷滿嘔逆飱泄狐疝遺溺閉癃為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者寸口大一倍于人迎虚者寸口反小于人迎也手太隂氣絶則皮毛焦太隂者行氣温于皮毛者也故氣不榮則皮毛焦皮毛焦則津液去皮節津液去皮節者則爪枯毛折毛折者則毛先死丙篤丁死火勝金也手少隂氣絶則脈不通脈不通則血不流血不流則髦色不澤故其面黒如漆柴者血先死壬篤癸死水勝火也足太隂氣絶者則脈不榮肌肉唇舌者肌肉之本也脈不榮則肌肉軟肌肉軟則舌萎人中滿人中滿則唇反唇反者肉先死甲篤乙死木勝土也足少隂氣絶則骨枯少隂者冬脈也伏行而濡骨髓者也故骨不濡則肉不能著也骨肉不相親則肉軟却肉軟却故齒長而垢髮無澤髮無澤者骨先死戊篤已死土勝水也足厥隂氣絶則筋絶厥隂者肝脈也肝者筋之合也筋者聚于隂氣而脈絡于舌本也故脈弗榮則筋急筋急則引舌與卵故唇青舌卷卵縮則筋先死庚篤辛死金勝木也五隂氣俱絶則目系轉轉則目運目運者為志先死志先死則逺一日半死矣六陽氣絶則隂與陽相離離則腠理發泄絶汗乃出故旦占夕死夕占旦死經脈十二者伏行分肉之間深而不見其常見者足太隂過于外踝之上無所隠故也諸脈之浮而常見者皆絡脈也六經絡手陽明少陽之大絡起于五指間上合肘中飲酒者衛氣先行皮膚先充絡脈絡脈先盛故衛氣已平營氣乃滿而經脈大盛脈之卒然動者皆}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_WYG_003-8b, image: WYG0733/WYG0733-0344b.png}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_WYG_003-9a, image: WYG0733/WYG0733-0344c.png}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_WYG_003-9b, image: WYG0733/WYG0733-0344d.png}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_WYG_003-10a, image: WYG0733/WYG0733-0345a.png}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_WYG_003-10b, image: WYG0733/WYG0733-0345b.png}
+  - {type: page-break, offset: 54, content: '', id: KR3e0002_WYG_003-11a, image: WYG0733/WYG0733-0345c.png}
+  - {type: variant, offset: 54, length: 1, content: 正, krp: 汗出目鋭眥痛頰痛耳後肩臑肘臂外皆痛小指次指不用爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大一倍于寸口虛者人迎反小于寸口也膽足少陽之脉起于目鋭眥上抵頭角下耳後循頸行手少陽之前至肩上却交出手少陽之後入缺盆其支者從耳後入耳中出走耳前至目鋭眥後其支者别銃眥下大迎合于手少陽抵于䪼下加頰車下頸合缺盆以下胷中貫膈絡肝屬膽循脇裏出氣街繞毛際横入髀厭中其直者從缺盆下腋循胷過季脇下合髀厭中以下循髀陽出膝外廉下外輔骨之前直下抵絶骨之端下出外踝之前循足跗上入小指次指之間其支者别跗上入大指之間循大指歧骨内出其端還貫爪甲出三毛是動則病口苦善太息心脇痛不能轉側甚則面微有塵體無膏澤足外反熱是爲陽厥是主骨所生病者頭痛頷痛目銳眥痛缺盆中腫痛腋下腫馬刁俠癭汗出振寒瘧胷脇肋髀膝外至脛絶骨外髁前及諸節皆痛小指次指不用爲此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者人迎大一倍于寸口虛者人迎反小于寸口也肝足厥隂之脉起于大指叢毛之際上循足跗上廉去内踝一寸上踝八寸交出太隂之後上膕内廉循股隂入毛中過隂器抵小腹挾胃屬肝絡膽上貫膈布脇肋循喉嚨之後上入頏顙連目系上出額與督脉㑹于巔其支者從目系下頰裏環脣内其支者復從肝别貫膈上注肺是動則病腰痛不可以俛仰丈夫㿉疝婦人少腹腫甚則嗌乾面塵脱色是肝所生病者胷滿嘔逆飱泄狐疝遺溺閉癃為此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大一倍于人迎虛者寸口反小于人迎也手太隂氣絶則皮毛焦太隂者行氣温于皮毛者也故氣不榮則皮毛焦皮毛焦則津液去皮節津液去皮節者則爪枯毛折毛折者則毛先死丙篤丁死火勝金也手少隂氣絶則脉不通脉不通則血不流血不流則髦色不澤故其面黒如漆柴者血先死壬篤癸死水勝火也足太隂氣絶者則脉不榮肌肉脣舌者肌肉之本也脉不榮則肌肉軟肌肉軟則舌萎人中滿人中滿則脣反脣反者肉先死甲篤乙死木勝土也足少隂氣絶則骨枯少隂者冬脉也伏行而濡骨髓者也故骨不濡則肉不能著也骨肉不相親則肉軟却肉軟却故齒長而垢髮無澤髮無澤者骨先死戊篤已死土勝水也足厥隂氣絶則筋絶厥隂者肝脉也肝者筋之合也筋者聚于隂氣而脉絡于舌本也故脉弗榮則筋急筋急則引舌與卵故脣青舌卷卵縮則筋先死庚篤辛死金勝木也五隂氣俱絶則目系轉轉則目運目運者爲志先死志先死則遠一日半死矣六陽氣絶則隂與陽相離離則腠理發泄絶汗乃出故旦占夕死夕占旦死經脉十二者伏行分肉之間深而不見其常見者足太隂過于外踝之上無所隠故也諸脉之浮而常見者皆絡脉也六經絡手陽朙少陽之大絡起于五指間上合肘中飲酒者衛氣先行皮膚先充絡脉絡脉先盛故衛氣已平營氣乃滿而經脉大盛脉之卒然動者皆}
+  - {type: variant, offset: 56, length: 2, content: 共會, SBCK: 氣居之留于本末不動則熱不堅則䧟且空不與衆同是以知其何脉之動}
+  - {type: variant, offset: 56, length: 2, content: 共會, WYG: 氣居之留于本末不動則熱不堅則陷且空不與衆同是以知其何脈之動}
+  - {type: variant, offset: 56, length: 2, content: 共會, krp: 氣居之留于本末不動則熱不堅則䧟且空不與衆同是以知其何脉之動}
+  - {type: punctuation, offset: 59, content: 。, id: KR3e0002_CHANT_003-bkkpn13}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR3e0002_CHANT_003-1a.15}
+  - {type: variant, offset: 59, length: 1, content: 神, SBCK: 雷公曰何以知經脉之與絡脉異也黄帝曰經脉}
+  - {type: variant, offset: 59, length: 1, content: 神, WYG: 雷公曰何以知經脈之與絡脈異也黄帝曰經脈}
+  - {type: variant, offset: 59, length: 1, content: 神, krp: 雷公曰何以知經脉之與絡脉異也黄帝曰經脉}
+  - {type: punctuation, offset: 61, content: ，, id: KR3e0002_CHANT_003-bkkpn14}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3e0002_CHANT_003-1a.16}
+  - {type: variant, offset: 61, length: 1, content: 正, SBCK: 常不可見也其虛實也以氣口知之脉之見者皆絡脉也雷公曰細子無以朙其然也黄帝曰諸絡脉皆不能經大節之間必行絶道而出入復合于皮中其㑹皆見于外故諸刺絡脉者必刺其結上甚血者雖無結急取之以寫其邪而出其血留之發爲痺也凡診絡脉脉色青則寒且痛赤則有熱胃中寒手魚之絡多青矣胃中有熱魚際絡赤其㬥黒者留久痺也其有赤有黒有青者寒熱}
+  - {type: page-break, offset: 61, content: '', id: KR3e0002_SBCK_003-14a}
+  - {type: variant, offset: 61, length: 1, content: 正, WYG: 常不可見也其虚實也以氣口知之脈之見者皆絡脈也雷公曰細子無以明其然也黄帝曰諸絡脈皆不能經大節之間必行絶道而出入復合于皮中其㑹皆見于外故諸刺絡脈者必刺其結上甚血者雖無結急取之以寫其邪而出其血留之發為痺也凡診絡脈脈色青則寒且痛赤則有熱胃中寒手魚之絡多青矣胃中有熱魚際絡赤其暴黒者留乆痺也其有赤有黒有青者寒熱}
+  - {type: page-break, offset: 61, content: '', id: KR3e0002_WYG_003-11b, image: WYG0733/WYG0733-0345d.png}
+  - {type: variant, offset: 61, length: 1, content: 正, krp: 常不可見也其虛實也以氣口知之脉之見者皆絡脉也雷公曰細子無以朙其然也黄帝曰諸絡脉皆不能經大節之間必行絶道而出入復合于皮中其㑹皆見于外故諸刺絡脉者必刺其結上甚血者雖無結急取之以寫其邪而出其血留之發爲痺也凡診絡脉脉色青則寒且痛赤則有熱胃中寒手魚之絡多青矣胃中有熱魚際絡赤其㬥黒者留久痺也其有赤有黒有青者寒熱}
+  - {type: punctuation, offset: 64, content: 。, id: KR3e0002_CHANT_003-bkkpn15}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3e0002_CHANT_003-1a.17}
+  - {type: variant, offset: 64, length: 1, content: 客, SBCK: 其青短}
+  - {type: variant, offset: 64, length: 1, content: 客, WYG: 其青短}
+  - {type: variant, offset: 64, length: 1, content: 客, krp: 其青短}
+  - {type: punctuation, offset: 66, content: ，, id: KR3e0002_CHANT_003-bkkpn16}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR3e0002_CHANT_003-1a.18}
+  - {type: variant, offset: 66, length: 1, content: 邪, SBCK: 少}
+  - {type: variant, offset: 66, length: 1, content: 邪, WYG: 少}
+  - {type: variant, offset: 66, length: 1, content: 邪, krp: 少}
+  - {type: punctuation, offset: 69, content: 。, id: KR3e0002_CHANT_003-bkkpn17}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3e0002_CHANT_003-1a.19}
+  - {type: variant, offset: 69, length: 0, content: '', SBCK: 凡刺寒熱者皆多血絡必間日而一取之血盡而止乃調其虛實其小而短者少氣甚者寫之則悶悶甚則仆不得言悶則急坐之也手太隂之别名曰列缺起于腕上分間並太隂之經直入掌中散入于魚際其病實則手鋭掌熱虛則欠㰦小便遺數取之去腕半寸别走陽朙也手少隂之别名曰通里去腕一寸半别而上行循經入于心中繫舌本屬目系其實則支膈虛則不能言取之掌後一寸别走太陽也手心主之别名曰内關去腕二寸出于兩筋之間循經以上繫于心包絡心系實則心痛虛則爲頭强取之兩筋間也手太陽之别名曰支正上腕五寸内注少隂其别者上走肘絡肩髃實則節㢮肘廢虛則生肬小者如指痂疥取之所别也手陽朙之别名曰偏歷去腕三寸别入太隂其别者上循臂乘肩髃上曲頰偏齒其别者入耳合于宗脉實則齲聾虛則齒寒痺隔取之所别也手少陽之别名曰外關去腕二寸外遶臂注胷中合心主病實則肘攣虛則不收取之所别也足太陽之别名曰飛陽去踝七寸别走少隂實則鼽窒頭背痛虛則􅍠衂取之所别也足少陽之别名曰光朙去踝五寸别走厥隂下絡足跗實則厥虛則痿躄坐不能起取之所别也足陽朙之别名曰豐隆去踝八寸别走太隂其别者循脛骨外廉上絡頭項合諸經之氣下絡喉嗌其病氣逆則喉痺瘁瘖實則狂巔虛則足不收脛枯取之所别也足太隂之别名曰公孫去本節之後一寸别走陽朙其别者入絡腸胃厥氣上逆則霍亂實則腸中切痛虛則鼓脹取之所别也足少隂之别名曰大鍾當踝後繞跟别走太陽其别者并經上走于心包下外貫腰脊其病氣逆則煩悶實則閉癃虛則腰痛取之所别者也足厥隂之别名曰蠡溝去内踝五寸别走少陽其别者徑脛上睪結于莖其病氣逆則睪腫卒疝實則挺長虛則㬥癢取之所别也住脉之别名曰尾翳下鳩尾散于腹實則腹皮痛虛則癢搔取之所别也督脉之别名曰長强挾膂上項散頭上下當肩胛左右别走太陽入貫膂實則脊強虛則頭重高摇之挾脊之有過者取之所别也脾之大絡名曰大包出淵腋下三寸布胷脇實則身盡痛虛則百節盡皆縱此脉若羅絡之血者皆取之脾之大絡脉也凡此十五絡者實則必見虛則必下視之不見求之上下人經不同絡脉異所别也瞀務音䪼切之劣髀箄音骭旱音憺憺淡音邪同與斜焞焞切土渾肬由音經别第十一黄帝問于歧伯曰余聞人之合于天道也内有五藏以應五音五色五時五味五位也外有六府以應六律六律建隂陽諸經而合之十二月十二辰十二節十二經水十二時十二經脉者此五藏六府之所以應天道夫十二經脉者人之所以生病之所以成人之所以治病之所以起學之所始工之所止也麤之所易上之所難也請問其離合出入奈何歧伯稽首再拜曰朙乎哉問也此麤之所過上之所息也請卒言之足太陽之正别入于膕中其一道下尻五寸别入于肛屬于膀胱散之腎循膂當心入散直者從膂上出于項復屬于太陽此爲一經也足少隂之正至膕中别走太陽而合上至腎當十四顀出屬帶脉直者繫舌本復出于項合于太陽此爲一合成以諸隂之别皆爲正也足少陽之正繞髀入毛際合于厥隂别者入季脇之間循胷裏屬膽散之上肝貫心以上挾咽出頥頷中散于面繫目系合少陽于外眥也足厥隂之正别跗上上至毛際合于少陽與别俱行此爲一合也足陽朙之正上至髀入于腹裏屬胃散之脾上通于心上循咽出于口上頞䪼還繫目系合于陽朙也足太隂之正上至髀合于陽朙與别俱行上結于咽貫舌中此爲三合也手太陽之正指地别于肩解入腋走心繫小腸也手少隂之正别入于淵腋兩筋之間屬于心上走喉嚨出于面合目内眥此爲四合也手少陽之正指天别于巔入缺盆下走三焦散于胷中也手心主之正别下淵腋三寸入胷中别屬三焦出循喉嚨出耳後合少陽完骨之下此爲五合也手陽朙之正從手循膺乳别于肩髃入柱骨下走大腸屬于肺上循喉嚨出缺盆合于陽朙也手太隂之正别入淵腋少隂之前入走肺散之太陽上出缺盆循喉嚨復合陽朙此六合也尻切枯毛肛切胡公頥頷下戸感切上以之切經水第十二黄帝問于歧伯曰經脉十二者外合于十二經水而内屬于五藏六府夫十二經水者其有大小深淺廣狹遠近各不固五藏六府之高下小大受榖之多少亦不等相應奈何夫經水者受水而行之五藏者合神氣魂魄而藏之六府者受榖而行之受氣而􅀭之經脉者受血而營之合而以治奈何刺之深淺灸之壯數可得聞乎歧伯荅曰善哉問也天至高不可度地至廣不可量此之謂也且夫人生于天地之間六合之内此天之高地之廣也非人力之所能度量而至也若夫八尺之士皮肉}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-14b}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-15a}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-15b}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-16a}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-16b}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-17a}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-17b}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-18a}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-18b}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-19a}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-19b}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-20a}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_SBCK_003-20b}
+  - {type: variant, offset: 69, length: 0, content: '', WYG: 凡刺寒熱者皆多血絡必間日而一取之血盡而止乃調其虚實其小而短者少氣甚者寫之則悶悶甚則仆不得言悶則急坐之也手太隂之别名曰列缺起於腕上分間並太隂之經直入掌中散入於魚際其病實則手鋭掌熱虚則欠㰦小便遺數取之去腕半寸别走陽明也手少隂之别名曰通里去腕一寸半别而上行循經入於心中繫舌本屬目系其實則支膈虚則不能言取之掌後一寸别走太陽也手心主之别名曰内關去腕二寸出於兩筋之間循經以上繫於心包絡心系實則心痛虚則為頭强取之兩筋間也手太陽之别名曰支正上腕五寸内注少隂其别者上走肘絡肩髃實則節㢮肘廢虚則生肬小者如指痂疥取之所别也手陽明之别名曰偏歴去腕三寸别入太隂其别者上循臂乘肩髃上曲頰偏齒其别者入耳合於宗脈實則齲聾虚則齒寒痺隔取之所别也手少陽之别名曰外闗去腕二寸外遶臂注胷中合心主病實則肘攣虚則不收取之所别也足太陽之别名曰飛陽去踝七寸别走少隂實則鼽窒頭背痛虚則􅍠衂取之所别也足少陽之别名曰光明去踝五寸别走厥隂下絡足跗實則厥虚則痿躄坐不能起取之所别也足陽明之别名曰豐隆去踝八寸别走太隂其别者循脛骨外亷上絡頭項合諸經之氣下絡喉嗌其病氣逆則喉痺瘁瘖實則狂巔虚則足不收脛枯取之所别也足太隂之别名曰公孫去本節之後一寸别走陽明其别者入絡腸胃厥氣上逆則霍亂實則腸中切痛虛則鼓脹取之所别也足少隂之别名曰大鍾當踝後繞跟别走太陽其别者并經上走于心包下外貫腰脊其病氣逆則煩悶實則閉癃虛則腰痛取之所别者也足厥隂之别名曰蠡溝去内踝五寸别走少陽其别者徑脛上睪結於莖其病氣逆則睪腫卒疝實則挺長虛則暴癢取之所别也任脈之别名曰尾翳下鳩尾散於腹實則腹皮痛虚則癢搔取之所别也督脈之别名曰長强挾膂上項散頭上下當肩胛左右别走太陽入貫膂實則脊強虚則頭重髙摇之挾脊之有過者取之所别也脾之大絡名曰大包出淵腋下三寸布胸脇實則身盡痛虛則百節盡皆縱此脉若羅絡之血者皆取之脾之大絡脈也凡此十五絡者實則必見虛則必下視之不見求之上下人經不同絡脉異所别也瞀音務䪼之劣切髀音箄骭音旱憺憺音淡邪與斜同焞焞土渾切肬音由經别第十一黄帝問於岐伯曰余聞人之合於天道也内有五藏以應五音五色五時五味五位也外有六府以應六律六律建隂陽諸經而合之十二月十二辰十二節十二經水十二時十二經脈者此五藏六府之所以應天道夫十二經脈者人之所以生病之所以成人之所以治病之所以起學之所始工之所止也粗之所易上之所難也請問其離合出入柰何岐伯稽首再拜曰明乎哉問也此粗之所過上之所息也請卒言之足太陽之正别入於膕中其一道下尻五寸别入於肛屬於膀胱散之腎循膂當心入散直者從膂上出於項復屬於太陽此為一經也足少隂之正至膕中别走太陽而合上至腎當十四顴出屬帶脉直者繫舌本復出於項合於太陽此為一合成以諸隂之别皆為正也足少陽之正繞髀入毛際合於厥隂别走入季脇之間循胷裏屬膽散之上肝貫心以上挾咽出頥頷中散於面繫目系合少陽於外􅗃也足厥隂之正别跗上上至毛際合於少陽與别俱行此為一合也足陽明之正上至髀入於腹裏及胃散之脾上通於心上循咽出於口上頞䪼還繫目系合於陽明也足太隂之正上至髀合於陽明與别俱行上結於咽貫舌中此為三合也手太陽之正指地别於肩解入腋走心繫小腸也手少隂之正别入於淵腋兩筋之間屬於心上走喉嚨出於面合目内􅗃此為四合也手少陽之正指天别於巔入缺盆下走三焦散於胷中也手心主之正别下淵腋三寸入胷中别屬三焦出循喉嚨出耳後合少陽完骨之下此為五合也手陽明之正從手循膺乳别於肩髃入柱骨下走大腸屬於肺上循喉嚨出缺盆合於陽明也手太隂之正别入淵腋少隂之前入走肺散之太陽上出缺盆循喉嚨復合陽明此六合也尻枯毛切肛胡公切頥頷上以之切下户上切經水第十二黄帝問於岐伯曰經脈十二者外合於十二經水而内屬於五藏六府夫十二經水者其有大小深淺廣狹逺近各不同五藏六府之髙下小大受榖之多少亦不等相應奈何夫經水者受水而行之五藏者合神氣魂魄而藏之六府者受榖而行之受氣而揚之經脈者受血而營之合而以治奈何刺之深淺灸之壯數可得聞乎岐伯答曰善哉問也天至髙不可度地至廣不可量此之謂也且夫人生於天地之間六合之内此天之髙地之廣也非人力之所能度量而至也若夫八尺之士皮肉}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-12a, image: WYG0733/WYG0733-0346a.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-12b, image: WYG0733/WYG0733-0346b.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-13a, image: WYG0733/WYG0733-0346c.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-13b, image: WYG0733/WYG0733-0346d.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-14a, image: WYG0733/WYG0733-0347a.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-14b, image: WYG0733/WYG0733-0347b.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-15a, image: WYG0733/WYG0733-0347c.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-15b, image: WYG0733/WYG0733-0347d.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-16a, image: WYG0733/WYG0733-0348a.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-16b, image: WYG0733/WYG0733-0348b.png}
+  - {type: page-break, offset: 69, content: '', id: KR3e0002_WYG_003-17a, image: WYG0733/WYG0733-0348c.png}
+  - {type: variant, offset: 69, length: 0, content: '', krp: 凡刺寒熱者皆多血絡必間日而一取之血盡而止乃調其虛實其小而短者少氣甚者寫之則悶悶甚則仆不得言悶則急坐之也手太隂之别名曰列缺起于腕上分間並太隂之經直入掌中散入于魚際其病實則手鋭掌熱虛則欠㰦小便遺數取之去腕半寸别走陽朙也手少隂之别名曰通里去腕一寸半别而上行循經入于心中繫舌本屬目系其實則支膈虛則不能言取之掌後一寸别走太陽也手心主之别名曰内關去腕二寸出于兩筋之間循經以上繫于心包絡心系實則心痛虛則爲頭强取之兩筋間也手太陽之别名曰支正上腕五寸内注少隂其别者上走肘絡肩髃實則節㢮肘廢虛則生肬小者如指痂疥取之所别也手陽朙之别名曰偏歷去腕三寸别入太隂其别者上循臂乘肩髃上曲頰偏齒其别者入耳合于宗脉實則齲聾虛則齒寒痺隔取之所别也手少陽之别名曰外關去腕二寸外遶臂注胷中合心主病實則肘攣虛則不收取之所别也足太陽之别名曰飛陽去踝七寸别走少隂實則鼽窒頭背痛虛則􅍠衂取之所别也足少陽之别名曰光朙去踝五寸别走厥隂下絡足跗實則厥虛則痿躄坐不能起取之所别也足陽朙之别名曰豐隆去踝八寸别走太隂其别者循脛骨外廉上絡頭項合諸經之氣下絡喉嗌其病氣逆則喉痺瘁瘖實則狂巔虛則足不收脛枯取之所别也足太隂之别名曰公孫去本節之後一寸别走陽朙其别者入絡腸胃厥氣上逆則霍亂實則腸中切痛虛則鼓脹取之所别也足少隂之别名曰大鍾當踝後繞跟别走太陽其别者并經上走于心包下外貫腰脊其病氣逆則煩悶實則閉癃虛則腰痛取之所别者也足厥隂之别名曰蠡溝去内踝五寸别走少陽其别者徑脛上睪結于莖其病氣逆則睪腫卒疝實則挺長虛則㬥癢取之所别也住脉之别名曰尾翳下鳩尾散于腹實則腹皮痛虛則癢搔取之所别也督脉之别名曰長强挾膂上項散頭上下當肩胛左右别走太陽入貫膂實則脊強虛則頭重高摇之挾脊之有過者取之所别也脾之大絡名曰大包出淵腋下三寸布胷脇實則身盡痛虛則百節盡皆縱此脉若羅絡之血者皆取之脾之大絡脉也凡此十五絡者實則必見虛則必下視之不見求之上下人經不同絡脉異所别也瞀務音䪼切之劣髀箄音骭旱音憺憺淡音邪同與斜焞焞切土渾肬由音經别第十一黄帝問于歧伯曰余聞人之合于天道也内有五藏以應五音五色五時五味五位也外有六府以應六律六律建隂陽諸經而合之十二月十二辰十二節十二經水十二時十二經脉者此五藏六府之所以應天道夫十二經脉者人之所以生病之所以成人之所以治病之所以起學之所始工之所止也麤之所易上之所難也請問其離合出入奈何歧伯稽首再拜曰朙乎哉問也此麤之所過上之所息也請卒言之足太陽之正别入于膕中其一道下尻五寸别入于肛屬于膀胱散之腎循膂當心入散直者從膂上出于項復屬于太陽此爲一經也足少隂之正至膕中别走太陽而合上至腎當十四顀出屬帶脉直者繫舌本復出于項合于太陽此爲一合成以諸隂之别皆爲正也足少陽之正繞髀入毛際合于厥隂别者入季脇之間循胷裏屬膽散之上肝貫心以上挾咽出頥頷中散于面繫目系合少陽于外眥也足厥隂之正别跗上上至毛際合于少陽與别俱行此爲一合也足陽朙之正上至髀入于腹裏屬胃散之脾上通于心上循咽出于口上頞䪼還繫目系合于陽朙也足太隂之正上至髀合于陽朙與别俱行上結于咽貫舌中此爲三合也手太陽之正指地别于肩解入腋走心繫小腸也手少隂之正别入于淵腋兩筋之間屬于心上走喉嚨出于面合目内眥此爲四合也手少陽之正指天别于巔入缺盆下走三焦散于胷中也手心主之正别下淵腋三寸入胷中别屬三焦出循喉嚨出耳後合少陽完骨之下此爲五合也手陽朙之正從手循膺乳别于肩髃入柱骨下走大腸屬于肺上循喉嚨出缺盆合于陽朙也手太隂之正别入淵腋少隂之前入走肺散之太陽上出缺盆循喉嚨復合陽朙此六合也尻切枯毛肛切胡公頥頷下戸感切上以之切經水第十二黄帝問于歧伯曰經脉十二者外合于十二經水而内屬于五藏六府夫十二經水者其有大小深淺廣狹遠近各不固五藏六府之高下小大受榖之多少亦不等相應奈何夫經水者受水而行之五藏者合神氣魂魄而藏之六府者受榖而行之受氣而揚之經脉者受血而營之合而以治奈何刺之深淺灸之壯數可得聞乎歧伯荅曰善哉問也天至高不可度地至廣不可量此之謂也且夫人生于天地之間六合之内此天之高地之廣也非人力之所能度量而至也若夫八尺之士皮肉}
+  - {type: variant, offset: 70, length: 3, content: 門者邪, SBCK: 此外可度量切}
+  - {type: variant, offset: 70, length: 3, content: 門者邪, WYG: 此外可度量切}
+  - {type: variant, offset: 70, length: 3, content: 門者邪, krp: 此外可度量切}
+  - {type: punctuation, offset: 72, content: ，, id: KR3e0002_CHANT_003-bkkpn18}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3e0002_CHANT_003-1a.20}
+  - {type: variant, offset: 74, length: 1, content: 正, SBCK: 而得之其死可解剖而視之其藏之堅脆府之大小榖之多少脉之長短血之清濁}
+  - {type: variant, offset: 74, length: 1, content: 正, WYG: 而得之其死可解剖而視之其蔵之堅脆府之大小榖之多少脈之長短血之清濁}
+  - {type: variant, offset: 74, length: 1, content: 正, krp: 而得之其死可解剖而視之其藏之堅脆府之大小榖之多少脉之長短血之清濁}
+  - {type: variant, offset: 77, length: 14, content: 所出入也未覩其疾者先知邪正何, SBCK: 多少十二}
+  - {type: variant, offset: 77, length: 14, content: 所出入也未覩其疾者先知邪正何, WYG: 多少十二}
+  - {type: variant, offset: 77, length: 14, content: 所出入也未覩其疾者先知邪正何, krp: 多少十二}
+  - {type: punctuation, offset: 81, content: 。, id: KR3e0002_CHANT_003-bkkpn19}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR3e0002_CHANT_003-1a.21}
+  - {type: punctuation, offset: 86, content: ，, id: KR3e0002_CHANT_003-bkkpn20}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR3e0002_CHANT_003-1a.22}
+  - {type: variant, offset: 93, length: 4, content: 疾也惡知, SBCK: 多血少氣與}
+  - {type: variant, offset: 93, length: 4, content: 疾也惡知, WYG: 多血少氣與}
+  - {type: variant, offset: 93, length: 4, content: 疾也惡知, krp: 多血少氣與}
+  - {type: punctuation, offset: 95, content: 。, id: KR3e0002_CHANT_003-bkkpn21}
+  - {type: 'tls:seg', offset: 95, content: '', id: KR3e0002_CHANT_003-1a.23}
+  - {type: variant, offset: 98, length: 35, content: 原者先知何經之病所取之處也刺之微在數遲者徐疾之意也麤守關者守四肢而不知, SBCK: 少血多氣與其皆多}
+  - {type: variant, offset: 98, length: 35, content: 原者先知何經之病所取之處也刺之微在數遲者徐疾之意也麤守關者守四肢而不知, WYG: 少血多氣與其皆多}
+  - {type: variant, offset: 98, length: 35, content: 原者先知何經之病所取之處也刺之微在數遲者徐疾之意也麤守關者守四肢而不知, krp: 少血多氣與其皆多}
+  - {type: punctuation, offset: 100, content: ，, id: KR3e0002_CHANT_003-bkkpn22}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR3e0002_CHANT_003-1a.24}
+  - {type: punctuation, offset: 106, content: ，, id: KR3e0002_CHANT_003-bkkpn23}
+  - {type: 'tls:seg', offset: 106, content: '', id: KR3e0002_CHANT_003-1a.25}
+  - {type: punctuation, offset: 111, content: 。, id: KR3e0002_CHANT_003-bkkpn24}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR3e0002_CHANT_003-1a.26}
+  - {type: punctuation, offset: 118, content: ，, id: KR3e0002_CHANT_003-bkkpn25}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR3e0002_CHANT_003-1a.27}
+  - {type: punctuation, offset: 123, content: 。, id: KR3e0002_CHANT_003-bkkpn26}
+  - {type: 'tls:seg', offset: 123, content: '', id: KR3e0002_CHANT_003-1a.28}
+  - {type: substitution, offset: 123, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1132}}
+  - {type: punctuation, offset: 127, content: ，, id: KR3e0002_CHANT_003-bkkpn27}
+  - {type: 'tls:seg', offset: 127, content: '', id: KR3e0002_CHANT_003-1a.29}
+  - {type: variant, offset: 135, length: 2, content: 正邪, SBCK: 與其皆少血氣皆有大數其治以鍼艾各調其經氣固其常有合乎黄帝曰余聞}
+  - {type: variant, offset: 135, length: 2, content: 正邪, WYG: 與其皆少血氣皆有大數其治以針艾各調其經氣固其常有合乎黄帝曰余聞}
+  - {type: variant, offset: 135, length: 2, content: 正邪, krp: 與其皆少血氣皆有大數其治以鍼艾各調其經氣固其常有合乎黄帝曰余聞}
+  - {type: variant, offset: 138, length: 12, content: 往來也上守機者知守氣也機, SBCK: 快于耳不解于心願卒聞}
+  - {type: variant, offset: 138, length: 12, content: 往來也上守機者知守氣也機, WYG: 快於耳不解於心願卒聞}
+  - {type: variant, offset: 138, length: 12, content: 往來也上守機者知守氣也機, krp: 快于耳不解于心願卒聞}
+  - {type: punctuation, offset: 141, content: 。, id: KR3e0002_CHANT_003-bkkpn28}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR3e0002_CHANT_003-1a.30}
+  - {type: punctuation, offset: 145, content: ，, id: KR3e0002_CHANT_003-bkkpn29}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR3e0002_CHANT_003-1a.31}
+  - {type: punctuation, offset: 149, content: 。, id: KR3e0002_CHANT_003-bkkpn30}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR3e0002_CHANT_003-1a.32}
+  - {type: variant, offset: 151, length: 9, content: 動不離其空中者知氣, SBCK: 歧伯荅曰此人}
+  - {type: variant, offset: 151, length: 9, content: 動不離其空中者知氣, WYG: 岐伯答曰此人}
+  - {type: variant, offset: 151, length: 9, content: 動不離其空中者知氣, krp: 歧伯荅曰此人}
+  - {type: punctuation, offset: 152, content: ，, id: KR3e0002_CHANT_003-bkkpn31}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR3e0002_CHANT_003-1a.33}
+  - {type: punctuation, offset: 158, content: ，, id: KR3e0002_CHANT_003-bkkpn32}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR3e0002_CHANT_003-1a.34}
+  - {type: variant, offset: 161, length: 14, content: 虛實用鍼之徐疾也空中之機清淨, SBCK: 所}
+  - {type: variant, offset: 161, length: 14, content: 虛實用鍼之徐疾也空中之機清淨, WYG: 所}
+  - {type: variant, offset: 161, length: 14, content: 虛實用鍼之徐疾也空中之機清淨, krp: 所}
+  - {type: punctuation, offset: 163, content: ，, id: KR3e0002_CHANT_003-bkkpn33}
+  - {type: 'tls:seg', offset: 163, content: '', id: KR3e0002_CHANT_003-1a.35}
+  - {type: substitution, offset: 164, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 169, content: 。, id: KR3e0002_CHANT_003-bkkpn34}
+  - {type: 'tls:seg', offset: 169, content: '', id: KR3e0002_CHANT_003-1a.36}
+  - {type: punctuation, offset: 173, content: ，, id: KR3e0002_CHANT_003-bkkpn35}
+  - {type: 'tls:seg', offset: 173, content: '', id: KR3e0002_CHANT_003-1a.37}
+  - {type: variant, offset: 176, length: 36, content: 微者鍼以得氣密意守氣勿失也其來不可逢者氣盛不可補也其往不可追者氣虛不可寫, SBCK: 參天地而應隂陽}
+  - {type: page-break, offset: 176, content: '', id: KR3e0002_SBCK_003-21a}
+  - {type: variant, offset: 176, length: 36, content: 微者鍼以得氣密意守氣勿失也其來不可逢者氣盛不可補也其往不可追者氣虛不可寫, WYG: 參天地而應隂陽}
+  - {type: variant, offset: 176, length: 36, content: 微者鍼以得氣密意守氣勿失也其來不可逢者氣盛不可補也其往不可追者氣虛不可寫, krp: 參天地而應隂陽}
+  - {type: punctuation, offset: 178, content: ，, id: KR3e0002_CHANT_003-bkkpn36}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR3e0002_CHANT_003-1a.38}
+  - {type: substitution, offset: 178, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 182, content: ，, id: KR3e0002_CHANT_003-bkkpn37}
+  - {type: 'tls:seg', offset: 182, content: '', id: KR3e0002_CHANT_003-1a.39}
+  - {type: punctuation, offset: 189, content: 。, id: KR3e0002_CHANT_003-bkkpn38}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR3e0002_CHANT_003-1a.40}
+  - {type: punctuation, offset: 195, content: ，, id: KR3e0002_CHANT_003-bkkpn39}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR3e0002_CHANT_003-1a.41}
+  - {type: punctuation, offset: 201, content: 。, id: KR3e0002_CHANT_003-bkkpn40}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR3e0002_CHANT_003-1a.42}
+  - {type: punctuation, offset: 207, content: ，, id: KR3e0002_CHANT_003-bkkpn41}
+  - {type: 'tls:seg', offset: 207, content: '', id: KR3e0002_CHANT_003-1a.43}
+  - {type: punctuation, offset: 213, content: ，, id: KR3e0002_CHANT_003-bkkpn42}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR3e0002_CHANT_003-1a.44}
+  - {type: variant, offset: 215, length: 1, content: 掛, SBCK: 不察足太陽外合清水内屬膀胱而通水道焉足少陽外合于渭水内屬于膽足陽朙外合于海水内屬于胃足太隂外合于湖水内屬于脾足少隂外合于汝水内屬于腎足厥隂外合于澠水内屬于肝手太陽外合淮水内屬小腸而水道出焉手少陽外合于漯水内屬于三焦手陽朙外合于江水内屬于大腸手太隂外合于河水内屬于肺手少隂外合于濟水内屬于心手心主外合于漳水内屬于心包凡此五藏六府十二經水者外有源泉而内有所禀此皆内外相貫如環無端人經亦然故天爲陽地爲隂腰}
+  - {type: page-break, offset: 215, content: '', id: KR3e0002_SBCK_003-21b}
+  - {type: variant, offset: 215, length: 1, content: 掛, WYG: 不察足太陽外合於清水内屬於膀胱而通水道焉足少陽外合於渭水内屬於膽足陽明外合於海水内屬於胃足太隂外合於湖水内屬於脾足少隂外合於汝水内屬於腎足厥隂外合於澠水内屬於肝手太陽外合於淮水内屬於小腸而水道出焉手少陽外合於漯水内屬於三焦手陽明外合於江水内屬於大腸手太隂外合於河水内屬於肺手少隂外合於濟水内屬於心手心主外合於漳水内屬於心包凡此五蔵六府十二經水者外有源泉而内有所稟此皆内外相貫如環無端人經亦然故天為陽地為隂腰}
+  - {type: page-break, offset: 215, content: '', id: KR3e0002_WYG_003-17b, image: WYG0733/WYG0733-0348d.png}
+  - {type: page-break, offset: 215, content: '', id: KR3e0002_WYG_003-18a, image: WYG0733/WYG0733-0349a.png}
+  - {type: variant, offset: 215, length: 1, content: 掛, krp: 不察足太陽外合清水内屬膀胱而通水道焉足少陽外合于渭水内屬于膽足陽朙外合于海水内屬于胃足太隂外合于湖水内屬于脾足少隂外合于汝水内屬于腎足厥隂外合于澠水内屬于肝手太陽外合淮水内屬小腸而水道出焉手少陽外合于漯水内屬于三焦手陽朙外合于江水内屬于大腸手太隂外合于河水内屬于肺手少隂外合于濟水内屬于心手心主外合于漳水内屬于心包凡此五藏六府十二經水者外有源泉而内有所禀此皆内外相貫如環無端人經亦然故天爲陽地爲隂腰}
+  - {type: variant, offset: 217, length: 1, content: 髮, SBCK: 上爲天腰以下爲地故海以北}
+  - {type: page-break, offset: 217, content: '', id: KR3e0002_SBCK_003-22a}
+  - {type: variant, offset: 217, length: 1, content: 髮, WYG: 上為天腰以下為地故海以北}
+  - {type: variant, offset: 217, length: 1, content: 髮, krp: 上爲天腰以下爲地故海以北}
+  - {type: punctuation, offset: 219, content: ，, id: KR3e0002_CHANT_003-bkkpn43}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3e0002_CHANT_003-1a.45}
+  - {type: variant, offset: 219, length: 1, content: 言, SBCK: 爲隂湖以北者爲隂中之隂漳以南者爲陽河以北至漳者爲陽中之隂漯以南至江者爲陽中之太陽此一隅之隂陽也所以人與天地相參也黄帝曰夫經水之應經脉也其遠近淺深水血之多少各不同合而以刺之奈何歧伯荅曰足陽朙五藏六府之海也其脉大血多}
+  - {type: variant, offset: 219, length: 1, content: 言, WYG: 為隂湖以北者為隂中之隂漳以南者為陽河以北至漳者為陽中之隂漯以南至江者為陽中之太陽此一隅之隂陽也所以人與天地相參也黄帝曰夫經水之應經脈也其逺近淺深水血之多少各不同合而以刺之奈何岐伯答曰足陽明五藏六府之海也其脈大血多}
+  - {type: page-break, offset: 219, content: '', id: KR3e0002_WYG_003-18b, image: WYG0733/WYG0733-0349b.png}
+  - {type: variant, offset: 219, length: 1, content: 言, krp: 爲隂湖以北者爲隂中之隂漳以南者爲陽河以北至漳者爲陽中之隂漯以南至江者爲陽中之太陽此一隅之隂陽也所以人與天地相參也黄帝曰夫經水之應經脉也其遠近淺深水血之多少各不同合而以刺之奈何歧伯荅曰足陽朙五藏六府之海也其脉大血多}
+  - {type: variant, offset: 221, length: 2, content: 易失, SBCK: 盛熱壯刺此者不深弗散不留不寫}
+  - {type: variant, offset: 221, length: 2, content: 易失, WYG: 盛熱壯刺此者不深弗散不留不寫}
+  - {type: variant, offset: 221, length: 2, content: 易失, krp: 盛熱壯刺此者不深弗散不留不寫}
+  - {type: punctuation, offset: 224, content: 。, id: KR3e0002_CHANT_003-bkkpn44}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR3e0002_CHANT_003-1a.46}
+  - {type: variant, offset: 224, length: 1, content: 扣, SBCK: 足陽朙刺深六分留十呼足太陽深五分留七呼足少陽深四分留五呼足太隂深三分留四呼足少隂深二分留三呼足厥隂深一分留二呼手}
+  - {type: page-break, offset: 224, content: '', id: KR3e0002_SBCK_003-22b}
+  - {type: variant, offset: 224, length: 1, content: 扣, WYG: 足陽明刺深六分留十呼足太陽深五分留七呼足少陽深四分留五呼足太隂深三分留四呼足少隂深二分留三呼足厥隂深一分留二呼手}
+  - {type: variant, offset: 224, length: 1, content: 扣, krp: 足陽朙刺深六分留十呼足太陽深五分留七呼足少陽深四分留五呼足太隂深三分留四呼足少隂深二分留三呼足厥隂深一分留二呼手}
+  - {type: variant, offset: 226, length: 21, content: 不發者言不知補寫之意也血氣已盡而氣不下也知, SBCK: 隂陽}
+  - {type: variant, offset: 226, length: 21, content: 不發者言不知補寫之意也血氣已盡而氣不下也知, WYG: 隂陽}
+  - {type: variant, offset: 226, length: 21, content: 不發者言不知補寫之意也血氣已盡而氣不下也知, krp: 隂陽}
+  - {type: punctuation, offset: 229, content: ，, id: KR3e0002_CHANT_003-bkkpn45}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR3e0002_CHANT_003-1a.47}
+  - {type: punctuation, offset: 237, content: ，, id: KR3e0002_CHANT_003-bkkpn46}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR3e0002_CHANT_003-1a.48}
+  - {type: punctuation, offset: 246, content: 。, id: KR3e0002_CHANT_003-bkkpn47}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3e0002_CHANT_003-1a.49}
+  - {type: variant, offset: 248, length: 4, content: 往來者知, SBCK: 受}
+  - {type: variant, offset: 248, length: 4, content: 往來者知, WYG: 受}
+  - {type: variant, offset: 248, length: 4, content: 往來者知, krp: 受}
+  - {type: punctuation, offset: 251, content: ，, id: KR3e0002_CHANT_003-bkkpn48}
+  - {type: 'tls:seg', offset: 251, content: '', id: KR3e0002_CHANT_003-1a.50}
+  - {type: variant, offset: 254, length: 223, content: 逆順盛虛也要與之期者知氣之可取之時也麤之闇者冥冥不知氣之微密也妙哉工獨有之者盡知鍼意也往者為逆者言氣之虛而小小者逆也來者為順者言形氣之平平者順也明知逆順正行無間者言知所取之處也迎而奪之者寫也追而濟之者補也所謂虛則實之者氣口虛而當補之也滿則泄之者氣口盛而當寫之也宛陳則除之者去血脈也邪勝則虛之者言諸經有盛者皆寫其邪也徐而疾則實者言徐內而疾出也疾而徐則虛者言疾內而徐出也言實與虛若有若無者言實者有氣虛者無氣也察後與先若亡若存者言氣之虛實補寫之先後也察, SBCK: 道近}
+  - {type: variant, offset: 254, length: 223, content: 逆順盛虛也要與之期者知氣之可取之時也麤之闇者冥冥不知氣之微密也妙哉工獨有之者盡知鍼意也往者為逆者言氣之虛而小小者逆也來者為順者言形氣之平平者順也明知逆順正行無間者言知所取之處也迎而奪之者寫也追而濟之者補也所謂虛則實之者氣口虛而當補之也滿則泄之者氣口盛而當寫之也宛陳則除之者去血脈也邪勝則虛之者言諸經有盛者皆寫其邪也徐而疾則實者言徐內而疾出也疾而徐則虛者言疾內而徐出也言實與虛若有若無者言實者有氣虛者無氣也察後與先若亡若存者言氣之虛實補寫之先後也察, WYG: 道近}
+  - {type: variant, offset: 254, length: 223, content: 逆順盛虛也要與之期者知氣之可取之時也麤之闇者冥冥不知氣之微密也妙哉工獨有之者盡知鍼意也往者為逆者言氣之虛而小小者逆也來者為順者言形氣之平平者順也明知逆順正行無間者言知所取之處也迎而奪之者寫也追而濟之者補也所謂虛則實之者氣口虛而當補之也滿則泄之者氣口盛而當寫之也宛陳則除之者去血脈也邪勝則虛之者言諸經有盛者皆寫其邪也徐而疾則實者言徐內而疾出也疾而徐則虛者言疾內而徐出也言實與虛若有若無者言實者有氣虛者無氣也察後與先若亡若存者言氣之虛實補寫之先後也察, krp: 道近}
+  - {type: punctuation, offset: 259, content: 。, id: KR3e0002_CHANT_003-bkkpn49}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR3e0002_CHANT_003-1a.51}
+  - {type: punctuation, offset: 264, content: ，, id: KR3e0002_CHANT_003-bkkpn50}
+  - {type: 'tls:seg', offset: 264, content: '', id: KR3e0002_CHANT_003-1a.52}
+  - {type: punctuation, offset: 272, content: 。, id: KR3e0002_CHANT_003-bkkpn51}
+  - {type: 'tls:seg', offset: 272, content: '', id: KR3e0002_CHANT_003-1a.53}
+  - {type: substitution, offset: 272, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1132}}
+  - {type: substitution, offset: 274, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
+  - {type: punctuation, offset: 276, content: ，, id: KR3e0002_CHANT_003-bkkpn52}
+  - {type: 'tls:seg', offset: 276, content: '', id: KR3e0002_CHANT_003-1a.54}
+  - {type: punctuation, offset: 285, content: 。, id: KR3e0002_CHANT_003-bkkpn53}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR3e0002_CHANT_003-1a.55}
+  - {type: punctuation, offset: 292, content: ，, id: KR3e0002_CHANT_003-bkkpn54}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR3e0002_CHANT_003-1a.56}
+  - {type: substitution, offset: 294, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 297, content: 。, id: KR3e0002_CHANT_003-bkkpn55}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR3e0002_CHANT_003-1a.57}
+  - {type: punctuation, offset: 302, content: ，, id: KR3e0002_CHANT_003-bkkpn56}
+  - {type: 'tls:seg', offset: 302, content: '', id: KR3e0002_CHANT_003-1a.58}
+  - {type: punctuation, offset: 308, content: ，, id: KR3e0002_CHANT_003-bkkpn57}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR3e0002_CHANT_003-1a.59}
+  - {type: punctuation, offset: 310, content: ，, id: KR3e0002_CHANT_003-bkkpn58}
+  - {type: 'tls:seg', offset: 310, content: '', id: KR3e0002_CHANT_003-1a.60}
+  - {type: punctuation, offset: 312, content: 。, id: KR3e0002_CHANT_003-bkkpn59}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR3e0002_CHANT_003-1a.61}
+  - {type: punctuation, offset: 317, content: ，, id: KR3e0002_CHANT_003-bkkpn60}
+  - {type: 'tls:seg', offset: 317, content: '', id: KR3e0002_CHANT_003-1a.62}
+  - {type: punctuation, offset: 322, content: ，, id: KR3e0002_CHANT_003-bkkpn61}
+  - {type: 'tls:seg', offset: 322, content: '', id: KR3e0002_CHANT_003-1a.63}
+  - {type: punctuation, offset: 324, content: ，, id: KR3e0002_CHANT_003-bkkpn62}
+  - {type: 'tls:seg', offset: 324, content: '', id: KR3e0002_CHANT_003-1a.64}
+  - {type: punctuation, offset: 326, content: ，, id: KR3e0002_CHANT_003-bkkpn63}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR3e0002_CHANT_003-1a.65}
+  - {type: punctuation, offset: 330, content: ，, id: KR3e0002_CHANT_003-bkkpn64}
+  - {type: 'tls:seg', offset: 330, content: '', id: KR3e0002_CHANT_003-1a.66}
+  - {type: punctuation, offset: 335, content: ，, id: KR3e0002_CHANT_003-bkkpn65}
+  - {type: 'tls:seg', offset: 335, content: '', id: KR3e0002_CHANT_003-1a.67}
+  - {type: punctuation, offset: 342, content: 。, id: KR3e0002_CHANT_003-bkkpn66}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR3e0002_CHANT_003-1a.68}
+  - {type: punctuation, offset: 347, content: ，, id: KR3e0002_CHANT_003-bkkpn67}
+  - {type: 'tls:seg', offset: 347, content: '', id: KR3e0002_CHANT_003-1a.69}
+  - {type: punctuation, offset: 349, content: 。, id: KR3e0002_CHANT_003-bkkpn68}
+  - {type: 'tls:seg', offset: 349, content: '', id: KR3e0002_CHANT_003-1a.70}
+  - {type: punctuation, offset: 354, content: ，, id: KR3e0002_CHANT_003-bkkpn69}
+  - {type: 'tls:seg', offset: 354, content: '', id: KR3e0002_CHANT_003-1a.71}
+  - {type: punctuation, offset: 356, content: 。, id: KR3e0002_CHANT_003-bkkpn70}
+  - {type: xml-element, offset: 356, content: '', id: KR3e0002_CHANT_003-bkkxmlele4}
+  - {type: xml-element, offset: 356, content: '', id: KR3e0002_CHANT_003-bkkxmlele5}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR3e0002_CHANT_003-2a.1}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR3e0002_CHANT_003-2a.2}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR3e0002_CHANT_003-2a.3}
+  - {type: punctuation, offset: 363, content: ，, id: KR3e0002_CHANT_003-bkkpn71}
+  - {type: 'tls:seg', offset: 363, content: '', id: KR3e0002_CHANT_003-2a.4}
+  - {type: punctuation, offset: 371, content: 。, id: KR3e0002_CHANT_003-bkkpn72}
+  - {type: 'tls:seg', offset: 371, content: '', id: KR3e0002_CHANT_003-2a.5}
+  - {type: punctuation, offset: 376, content: ，, id: KR3e0002_CHANT_003-bkkpn73}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR3e0002_CHANT_003-2a.6}
+  - {type: punctuation, offset: 384, content: 。, id: KR3e0002_CHANT_003-bkkpn74}
+  - {type: 'tls:seg', offset: 384, content: '', id: KR3e0002_CHANT_003-2a.7}
+  - {type: punctuation, offset: 390, content: ，, id: KR3e0002_CHANT_003-bkkpn75}
+  - {type: 'tls:seg', offset: 390, content: '', id: KR3e0002_CHANT_003-2a.8}
+  - {type: punctuation, offset: 394, content: 。, id: KR3e0002_CHANT_003-bkkpn76}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR3e0002_CHANT_003-2a.9}
+  - {type: punctuation, offset: 400, content: ，, id: KR3e0002_CHANT_003-bkkpn77}
+  - {type: 'tls:seg', offset: 400, content: '', id: KR3e0002_CHANT_003-2a.10}
+  - {type: punctuation, offset: 406, content: ，, id: KR3e0002_CHANT_003-bkkpn78}
+  - {type: 'tls:seg', offset: 406, content: '', id: KR3e0002_CHANT_003-2a.11}
+  - {type: punctuation, offset: 411, content: 。, id: KR3e0002_CHANT_003-bkkpn79}
+  - {type: 'tls:seg', offset: 411, content: '', id: KR3e0002_CHANT_003-2a.12}
+  - {type: punctuation, offset: 417, content: ，, id: KR3e0002_CHANT_003-bkkpn80}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR3e0002_CHANT_003-2a.13}
+  - {type: punctuation, offset: 424, content: 。, id: KR3e0002_CHANT_003-bkkpn81}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR3e0002_CHANT_003-2a.14}
+  - {type: punctuation, offset: 430, content: ，, id: KR3e0002_CHANT_003-bkkpn82}
+  - {type: 'tls:seg', offset: 430, content: '', id: KR3e0002_CHANT_003-2a.15}
+  - {type: punctuation, offset: 437, content: 。, id: KR3e0002_CHANT_003-bkkpn83}
+  - {type: 'tls:seg', offset: 437, content: '', id: KR3e0002_CHANT_003-2a.16}
+  - {type: punctuation, offset: 441, content: ，, id: KR3e0002_CHANT_003-bkkpn84}
+  - {type: 'tls:seg', offset: 441, content: '', id: KR3e0002_CHANT_003-2a.17}
+  - {type: punctuation, offset: 446, content: ，, id: KR3e0002_CHANT_003-bkkpn85}
+  - {type: 'tls:seg', offset: 446, content: '', id: KR3e0002_CHANT_003-2a.18}
+  - {type: punctuation, offset: 451, content: ，, id: KR3e0002_CHANT_003-bkkpn86}
+  - {type: 'tls:seg', offset: 451, content: '', id: KR3e0002_CHANT_003-2a.19}
+  - {type: punctuation, offset: 456, content: 。, id: KR3e0002_CHANT_003-bkkpn87}
+  - {type: 'tls:seg', offset: 456, content: '', id: KR3e0002_CHANT_003-2a.20}
+  - {type: punctuation, offset: 460, content: ，, id: KR3e0002_CHANT_003-bkkpn88}
+  - {type: 'tls:seg', offset: 460, content: '', id: KR3e0002_CHANT_003-2a.21}
+  - {type: punctuation, offset: 465, content: ，, id: KR3e0002_CHANT_003-bkkpn89}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR3e0002_CHANT_003-2a.22}
+  - {type: punctuation, offset: 470, content: ，, id: KR3e0002_CHANT_003-bkkpn90}
+  - {type: 'tls:seg', offset: 470, content: '', id: KR3e0002_CHANT_003-2a.23}
+  - {type: punctuation, offset: 476, content: ，, id: KR3e0002_CHANT_003-bkkpn91}
+  - {type: 'tls:seg', offset: 476, content: '', id: KR3e0002_CHANT_003-2a.24}
+  - {type: variant, offset: 480, length: 14, content: 已下與常存也為虛與實若得若失, SBCK: 來疾其刺深}
+  - {type: variant, offset: 480, length: 14, content: 已下與常存也為虛與實若得若失, WYG: 來疾其刺深}
+  - {type: variant, offset: 480, length: 14, content: 已下與常存也為虛與實若得若失, krp: 來疾其刺深}
+  - {type: punctuation, offset: 486, content: 。, id: KR3e0002_CHANT_003-bkkpn92}
+  - {type: 'tls:seg', offset: 486, content: '', id: KR3e0002_CHANT_003-2a.25}
+  - {type: punctuation, offset: 490, content: ，, id: KR3e0002_CHANT_003-bkkpn93}
+  - {type: 'tls:seg', offset: 490, content: '', id: KR3e0002_CHANT_003-2a.26}
+  - {type: punctuation, offset: 495, content: ，, id: KR3e0002_CHANT_003-bkkpn94}
+  - {type: 'tls:seg', offset: 495, content: '', id: KR3e0002_CHANT_003-2a.27}
+  - {type: variant, offset: 495, length: 19, content: 言補者佖然若有得也寫則怳然若有失也夫氣, SBCK: 皆無過二分其留皆無過一呼其少長大小肥瘦以心撩}
+  - {type: variant, offset: 495, length: 19, content: 言補者佖然若有得也寫則怳然若有失也夫氣, WYG: 皆無過二分其留皆無過一呼其少長大小肥瘦以心撩}
+  - {type: page-break, offset: 495, content: '', id: KR3e0002_WYG_003-19a, image: WYG0733/WYG0733-0349c.png}
+  - {type: variant, offset: 495, length: 19, content: 言補者佖然若有得也寫則怳然若有失也夫氣, krp: 皆無過二分其留皆無過一呼其少長大小肥瘦以心撩}
+  - {type: punctuation, offset: 504, content: ，, id: KR3e0002_CHANT_003-bkkpn95}
+  - {type: 'tls:seg', offset: 504, content: '', id: KR3e0002_CHANT_003-2a.28}
+  - {type: substitution, offset: 506, original: 怳, replacement: 恍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0814}}
+  - {type: punctuation, offset: 512, content: 。, id: KR3e0002_CHANT_003-bkkpn96}
+  - {type: xml-element, offset: 512, content: '', id: KR3e0002_CHANT_003-bkkxmlele6}
+  - {type: xml-element, offset: 512, content: '', id: KR3e0002_CHANT_003-bkkxmlele7}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3e0002_CHANT_003-3a.1}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3e0002_CHANT_003-3a.2}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3e0002_CHANT_003-3a.3}
+  - {type: variant, offset: 515, length: 62, content: 在脈也邪氣在上者言邪氣之中人也高故邪氣在上也濁氣在中者言水穀皆入于胃其精氣上注於肺濁溜于腸胃言寒溫不適飲食不節而病生于腸胃故, SBCK: ''}
+  - {type: variant, offset: 515, length: 62, content: 在脈也邪氣在上者言邪氣之中人也高故邪氣在上也濁氣在中者言水穀皆入于胃其精氣上注於肺濁溜于腸胃言寒溫不適飲食不節而病生于腸胃故, WYG: ''}
+  - {type: variant, offset: 515, length: 62, content: 在脈也邪氣在上者言邪氣之中人也高故邪氣在上也濁氣在中者言水穀皆入于胃其精氣上注於肺濁溜于腸胃言寒溫不適飲食不節而病生于腸胃故, krp: ''}
+  - {type: punctuation, offset: 518, content: ，, id: KR3e0002_CHANT_003-bkkpn97}
+  - {type: 'tls:seg', offset: 518, content: '', id: KR3e0002_CHANT_003-3a.4}
+  - {type: punctuation, offset: 523, content: ，, id: KR3e0002_CHANT_003-bkkpn98}
+  - {type: 'tls:seg', offset: 523, content: '', id: KR3e0002_CHANT_003-3a.5}
+  - {type: punctuation, offset: 531, content: ，, id: KR3e0002_CHANT_003-bkkpn99}
+  - {type: 'tls:seg', offset: 531, content: '', id: KR3e0002_CHANT_003-3a.6}
+  - {type: punctuation, offset: 537, content: 。, id: KR3e0002_CHANT_003-bkkpn100}
+  - {type: 'tls:seg', offset: 537, content: '', id: KR3e0002_CHANT_003-3a.7}
+  - {type: punctuation, offset: 542, content: ，, id: KR3e0002_CHANT_003-bkkpn101}
+  - {type: 'tls:seg', offset: 542, content: '', id: KR3e0002_CHANT_003-3a.8}
+  - {type: punctuation, offset: 549, content: ，, id: KR3e0002_CHANT_003-bkkpn102}
+  - {type: 'tls:seg', offset: 549, content: '', id: KR3e0002_CHANT_003-3a.9}
+  - {type: punctuation, offset: 556, content: ，, id: KR3e0002_CHANT_003-bkkpn103}
+  - {type: 'tls:seg', offset: 556, content: '', id: KR3e0002_CHANT_003-3a.10}
+  - {type: punctuation, offset: 561, content: ，, id: KR3e0002_CHANT_003-bkkpn104}
+  - {type: 'tls:seg', offset: 561, content: '', id: KR3e0002_CHANT_003-3a.11}
+  - {type: punctuation, offset: 566, content: ，, id: KR3e0002_CHANT_003-bkkpn105}
+  - {type: 'tls:seg', offset: 566, content: '', id: KR3e0002_CHANT_003-3a.12}
+  - {type: punctuation, offset: 570, content: ，, id: KR3e0002_CHANT_003-bkkpn106}
+  - {type: 'tls:seg', offset: 570, content: '', id: KR3e0002_CHANT_003-3a.13}
+  - {type: punctuation, offset: 576, content: ，, id: KR3e0002_CHANT_003-bkkpn107}
+  - {type: 'tls:seg', offset: 576, content: '', id: KR3e0002_CHANT_003-3a.14}
+  - {type: variant, offset: 579, length: 1, content: 濁, SBCK: 法天之常灸之亦然灸而過此者得惡火則骨枯脉濇刺而過此者則脫}
+  - {type: variant, offset: 579, length: 1, content: 濁, WYG: 法天之常灸之亦然灸而過此者得惡火則骨枯脈濇刺而過此者則脫}
+  - {type: variant, offset: 579, length: 1, content: 濁, krp: 法天之常灸之亦然灸而過此者得惡火則骨枯脉濇刺而過此者則脫}
+  - {type: variant, offset: 581, length: 13, content: 在中也清氣在下者言清濕地氣, SBCK: 黄帝曰夫經脉}
+  - {type: variant, offset: 581, length: 13, content: 在中也清氣在下者言清濕地氣, WYG: 黄帝曰夫經脈}
+  - {type: variant, offset: 581, length: 13, content: 在中也清氣在下者言清濕地氣, krp: 黄帝曰夫經脉}
+  - {type: punctuation, offset: 584, content: 。, id: KR3e0002_CHANT_003-bkkpn108}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR3e0002_CHANT_003-3a.15}
+  - {type: punctuation, offset: 589, content: ，, id: KR3e0002_CHANT_003-bkkpn109}
+  - {type: 'tls:seg', offset: 589, content: '', id: KR3e0002_CHANT_003-3a.16}
+  - {type: variant, offset: 595, length: 8, content: 中人也必從足始故, SBCK: 小大血之多少膚之厚薄肉之堅脆及膕之大小可爲量度乎歧伯荅}
+  - {type: page-break, offset: 595, content: '', id: KR3e0002_SBCK_003-23a}
+  - {type: variant, offset: 595, length: 8, content: 中人也必從足始故, WYG: 小大血之多少膚之厚薄肉之堅脆及膕之大小可為量度乎岐伯答}
+  - {type: variant, offset: 595, length: 8, content: 中人也必從足始故, krp: 小大血之多少膚之厚薄肉之堅脆及膕之大小可爲量度乎歧伯荅}
+  - {type: punctuation, offset: 598, content: ，, id: KR3e0002_CHANT_003-bkkpn110}
+  - {type: 'tls:seg', offset: 598, content: '', id: KR3e0002_CHANT_003-3a.17}
+  - {type: punctuation, offset: 602, content: ，, id: KR3e0002_CHANT_003-bkkpn111}
+  - {type: 'tls:seg', offset: 602, content: '', id: KR3e0002_CHANT_003-3a.18}
+  - {type: variant, offset: 604, length: 12, content: 清氣在下也鍼陷脈則邪氣出, SBCK: 其可爲度量}
+  - {type: variant, offset: 604, length: 12, content: 清氣在下也鍼陷脈則邪氣出, WYG: 其可為度量}
+  - {type: variant, offset: 604, length: 12, content: 清氣在下也鍼陷脈則邪氣出, krp: 其可爲度量}
+  - {type: punctuation, offset: 609, content: 。, id: KR3e0002_CHANT_003-bkkpn112}
+  - {type: 'tls:seg', offset: 609, content: '', id: KR3e0002_CHANT_003-3a.19}
+  - {type: substitution, offset: 609, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 617, content: ，, id: KR3e0002_CHANT_003-bkkpn113}
+  - {type: 'tls:seg', offset: 617, content: '', id: KR3e0002_CHANT_003-3a.20}
+  - {type: variant, offset: 618, length: 3, content: 之上鍼, SBCK: 其}
+  - {type: variant, offset: 618, length: 3, content: 之上鍼, WYG: 其}
+  - {type: variant, offset: 618, length: 3, content: 之上鍼, krp: 其}
+  - {type: punctuation, offset: 620, content: 。, id: KR3e0002_CHANT_003-bkkpn114}
+  - {type: 'tls:seg', offset: 620, content: '', id: KR3e0002_CHANT_003-3a.21}
+  - {type: substitution, offset: 620, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: variant, offset: 622, length: 11, content: 脈則濁氣出者取之陽明合, SBCK: 度}
+  - {type: variant, offset: 622, length: 11, content: 脈則濁氣出者取之陽明合, WYG: 度}
+  - {type: variant, offset: 622, length: 11, content: 脈則濁氣出者取之陽明合, krp: 度}
+  - {type: punctuation, offset: 628, content: ，, id: KR3e0002_CHANT_003-bkkpn115}
+  - {type: 'tls:seg', offset: 628, content: '', id: KR3e0002_CHANT_003-3a.22}
+  - {type: punctuation, offset: 634, content: 。, id: KR3e0002_CHANT_003-bkkpn116}
+  - {type: 'tls:seg', offset: 634, content: '', id: KR3e0002_CHANT_003-3a.23}
+  - {type: variant, offset: 634, length: 14, content: 鍼大深則邪氣反沉者言淺浮之病, SBCK: ''}
+  - {type: variant, offset: 634, length: 14, content: 鍼大深則邪氣反沉者言淺浮之病, WYG: ''}
+  - {type: variant, offset: 634, length: 14, content: 鍼大深則邪氣反沉者言淺浮之病, krp: ''}
+  - {type: substitution, offset: 634, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 643, content: ，, id: KR3e0002_CHANT_003-bkkpn117}
+  - {type: 'tls:seg', offset: 643, content: '', id: KR3e0002_CHANT_003-3a.24}
+  - {type: punctuation, offset: 648, content: ，, id: KR3e0002_CHANT_003-bkkpn118}
+  - {type: 'tls:seg', offset: 648, content: '', id: KR3e0002_CHANT_003-3a.25}
+  - {type: variant, offset: 649, length: 17, content: 欲深刺也深則邪氣從之入故曰反沉也皮, SBCK: 甚脱}
+  - {type: variant, offset: 649, length: 17, content: 欲深刺也深則邪氣從之入故曰反沉也皮, WYG: 甚脱}
+  - {type: variant, offset: 649, length: 17, content: 欲深刺也深則邪氣從之入故曰反沉也皮, krp: 甚脱}
+  - {type: punctuation, offset: 653, content: ，, id: KR3e0002_CHANT_003-bkkpn119}
+  - {type: 'tls:seg', offset: 653, content: '', id: KR3e0002_CHANT_003-3a.26}
+  - {type: punctuation, offset: 660, content: ，, id: KR3e0002_CHANT_003-bkkpn120}
+  - {type: 'tls:seg', offset: 660, content: '', id: KR3e0002_CHANT_003-3a.27}
+  - {type: punctuation, offset: 665, content: 。, id: KR3e0002_CHANT_003-bkkpn121}
+  - {type: 'tls:seg', offset: 665, content: '', id: KR3e0002_CHANT_003-3a.28}
+  - {type: variant, offset: 667, length: 24, content: 筋脈各有所處者言經絡各有所主也取五脈者死言病在中, SBCK: 而血}
+  - {type: variant, offset: 667, length: 24, content: 筋脈各有所處者言經絡各有所主也取五脈者死言病在中, WYG: 而血}
+  - {type: variant, offset: 667, length: 24, content: 筋脈各有所處者言經絡各有所主也取五脈者死言病在中, krp: 而血}
+  - {type: punctuation, offset: 669, content: ，, id: KR3e0002_CHANT_003-bkkpn122}
+  - {type: 'tls:seg', offset: 669, content: '', id: KR3e0002_CHANT_003-3a.29}
+  - {type: punctuation, offset: 674, content: ，, id: KR3e0002_CHANT_003-bkkpn123}
+  - {type: 'tls:seg', offset: 674, content: '', id: KR3e0002_CHANT_003-3a.30}
+  - {type: punctuation, offset: 682, content: 。, id: KR3e0002_CHANT_003-bkkpn124}
+  - {type: 'tls:seg', offset: 682, content: '', id: KR3e0002_CHANT_003-3a.31}
+  - {type: punctuation, offset: 687, content: ，, id: KR3e0002_CHANT_003-bkkpn125}
+  - {type: 'tls:seg', offset: 687, content: '', id: KR3e0002_CHANT_003-3a.32}
+  - {type: punctuation, offset: 691, content: ，, id: KR3e0002_CHANT_003-bkkpn126}
+  - {type: 'tls:seg', offset: 691, content: '', id: KR3e0002_CHANT_003-3a.33}
+  - {type: variant, offset: 693, length: 7, content: 足但用鍼盡大寫, SBCK: 衰也若夫度之人痟瘦而形肉脱者惡可以度量刺乎審切循捫按視}
+  - {type: variant, offset: 693, length: 7, content: 足但用鍼盡大寫, WYG: 衰也若夫度之人消瘦而形肉脱者惡可以度量刺乎審切循捫按視}
+  - {type: variant, offset: 693, length: 7, content: 足但用鍼盡大寫, krp: 衰也若夫度之人痟瘦而形肉脱者惡可以度量刺乎審切循捫按視}
+  - {type: punctuation, offset: 694, content: ，, id: KR3e0002_CHANT_003-bkkpn127}
+  - {type: 'tls:seg', offset: 694, content: '', id: KR3e0002_CHANT_003-3a.34}
+  - {type: substitution, offset: 696, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: variant, offset: 701, length: 2, content: 諸陰, SBCK: 寒温盛衰而調}
+  - {type: variant, offset: 701, length: 2, content: 諸陰, WYG: 寒温盛衰而調}
+  - {type: variant, offset: 701, length: 2, content: 諸陰, krp: 寒温盛衰而調}
+  - {type: variant, offset: 704, length: 1, content: 脈, SBCK: 是謂因適而爲之眞}
+  - {type: variant, offset: 704, length: 1, content: 脈, WYG: 是謂因適而為之真}
+  - {type: variant, offset: 704, length: 1, content: 脈, krp: 是謂因適而爲之眞}
+  - {type: punctuation, offset: 706, content: 。, id: KR3e0002_CHANT_003-bkkpn128}
+  - {type: 'tls:seg', offset: 706, content: '', id: KR3e0002_CHANT_003-3a.35}
+  - {type: variant, offset: 706, length: 1, content: 取, SBCK: 澠切彌善漯切通合以心撩之意料之一本作以黄帝素問靈樞經卷之}
+  - {type: variant, offset: 706, length: 1, content: 取, WYG: 澠弥善切漯通合切以心撩之一本作以意料之靈樞經卷}
+  - {type: page-break, offset: 706, content: '', id: KR3e0002_WYG_003-19b, image: WYG0733/WYG0733-0349d.png}
+  - {type: variant, offset: 706, length: 1, content: 取, krp: 澠切彌善漯切通合以心撩之意料之一本作以黄帝素問靈樞經卷之}
+  - {type: variant, offset: 708, length: 305, content: 陽之脈者唯言盡寫三陽之氣令病人恇然不復也奪陰者死言取尺之五里五往者也奪陽者狂正言也覩其色察其目知其散復一其形聽其動靜者言上工知相五色于目有知調尺寸小大緩急滑濇以言所病也知其邪正者知論虛邪與正邪之風也右主推之左持而御之者言持鍼而出入也氣至而去之者言補寫氣調而去之也調氣在于終始一者持心也節之交三百六十五會者絡脈之滲灌諸節者也所謂五藏之氣已絕于內者脈口氣內絕不至反取其外之病處與陽經之合有留鍼以致陽氣陽氣至則內重竭重竭則死矣其死也無氣以動故靜所謂五藏之氣已絕于外者脈口氣外絕不至反取其四末之輸有留鍼以致其陰氣陰氣至則陽氣反入入則逆逆則死矣其死也陰氣有餘故躁所以察其目者五藏使五色循明循明則聲章聲章者則言聲與平生異也, SBCK: ''}
+  - {type: variant, offset: 708, length: 305, content: 陽之脈者唯言盡寫三陽之氣令病人恇然不復也奪陰者死言取尺之五里五往者也奪陽者狂正言也覩其色察其目知其散復一其形聽其動靜者言上工知相五色于目有知調尺寸小大緩急滑濇以言所病也知其邪正者知論虛邪與正邪之風也右主推之左持而御之者言持鍼而出入也氣至而去之者言補寫氣調而去之也調氣在于終始一者持心也節之交三百六十五會者絡脈之滲灌諸節者也所謂五藏之氣已絕于內者脈口氣內絕不至反取其外之病處與陽經之合有留鍼以致陽氣陽氣至則內重竭重竭則死矣其死也無氣以動故靜所謂五藏之氣已絕于外者脈口氣外絕不至反取其四末之輸有留鍼以致其陰氣陰氣至則陽氣反入入則逆逆則死矣其死也陰氣有餘故躁所以察其目者五藏使五色循明循明則聲章聲章者則言聲與平生異也, WYG: ''}
+  - {type: variant, offset: 708, length: 305, content: 陽之脈者唯言盡寫三陽之氣令病人恇然不復也奪陰者死言取尺之五里五往者也奪陽者狂正言也覩其色察其目知其散復一其形聽其動靜者言上工知相五色于目有知調尺寸小大緩急滑濇以言所病也知其邪正者知論虛邪與正邪之風也右主推之左持而御之者言持鍼而出入也氣至而去之者言補寫氣調而去之也調氣在于終始一者持心也節之交三百六十五會者絡脈之滲灌諸節者也所謂五藏之氣已絕于內者脈口氣內絕不至反取其外之病處與陽經之合有留鍼以致陽氣陽氣至則內重竭重竭則死矣其死也無氣以動故靜所謂五藏之氣已絕于外者脈口氣外絕不至反取其四末之輸有留鍼以致其陰氣陰氣至則陽氣反入入則逆逆則死矣其死也陰氣有餘故躁所以察其目者五藏使五色循明循明則聲章聲章者則言聲與平生異也, krp: ''}
+  - {type: punctuation, offset: 713, content: ，, id: KR3e0002_CHANT_003-bkkpn129}
+  - {type: 'tls:seg', offset: 713, content: '', id: KR3e0002_CHANT_003-3a.36}
+  - {type: punctuation, offset: 720, content: ，, id: KR3e0002_CHANT_003-bkkpn130}
+  - {type: 'tls:seg', offset: 720, content: '', id: KR3e0002_CHANT_003-3a.37}
+  - {type: punctuation, offset: 728, content: 。, id: KR3e0002_CHANT_003-bkkpn131}
+  - {type: 'tls:seg', offset: 728, content: '', id: KR3e0002_CHANT_003-3a.38}
+  - {type: punctuation, offset: 732, content: ，, id: KR3e0002_CHANT_003-bkkpn132}
+  - {type: 'tls:seg', offset: 732, content: '', id: KR3e0002_CHANT_003-3a.39}
+  - {type: punctuation, offset: 738, content: ，, id: KR3e0002_CHANT_003-bkkpn133}
+  - {type: 'tls:seg', offset: 738, content: '', id: KR3e0002_CHANT_003-3a.40}
+  - {type: punctuation, offset: 742, content: 。, id: KR3e0002_CHANT_003-bkkpn134}
+  - {type: 'tls:seg', offset: 742, content: '', id: KR3e0002_CHANT_003-3a.41}
+  - {type: punctuation, offset: 746, content: ，, id: KR3e0002_CHANT_003-bkkpn135}
+  - {type: 'tls:seg', offset: 746, content: '', id: KR3e0002_CHANT_003-3a.42}
+  - {type: punctuation, offset: 749, content: 。, id: KR3e0002_CHANT_003-bkkpn136}
+  - {type: xml-element, offset: 749, content: '', id: KR3e0002_CHANT_003-bkkxmlele8}
+  - {type: xml-element, offset: 749, content: '', id: KR3e0002_CHANT_003-bkkxmlele9}
+  - {type: 'tls:seg', offset: 749, content: '', id: KR3e0002_CHANT_003-4a.1}
+  - {type: 'tls:seg', offset: 749, content: '', id: KR3e0002_CHANT_003-4a.2}
+  - {type: 'tls:seg', offset: 749, content: '', id: KR3e0002_CHANT_003-4a.3}
+  - {type: punctuation, offset: 752, content: ，, id: KR3e0002_CHANT_003-bkkpn137}
+  - {type: 'tls:seg', offset: 752, content: '', id: KR3e0002_CHANT_003-4a.4}
+  - {type: punctuation, offset: 755, content: ，, id: KR3e0002_CHANT_003-bkkpn138}
+  - {type: 'tls:seg', offset: 755, content: '', id: KR3e0002_CHANT_003-4a.5}
+  - {type: punctuation, offset: 759, content: ，, id: KR3e0002_CHANT_003-bkkpn139}
+  - {type: 'tls:seg', offset: 759, content: '', id: KR3e0002_CHANT_003-4a.6}
+  - {type: punctuation, offset: 762, content: ，, id: KR3e0002_CHANT_003-bkkpn140}
+  - {type: 'tls:seg', offset: 762, content: '', id: KR3e0002_CHANT_003-4a.7}
+  - {type: punctuation, offset: 767, content: ，, id: KR3e0002_CHANT_003-bkkpn141}
+  - {type: 'tls:seg', offset: 767, content: '', id: KR3e0002_CHANT_003-4a.8}
+  - {type: punctuation, offset: 776, content: ，, id: KR3e0002_CHANT_003-bkkpn142}
+  - {type: 'tls:seg', offset: 776, content: '', id: KR3e0002_CHANT_003-4a.9}
+  - {type: substitution, offset: 786, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
+  - {type: punctuation, offset: 787, content: ，, id: KR3e0002_CHANT_003-bkkpn143}
+  - {type: 'tls:seg', offset: 787, content: '', id: KR3e0002_CHANT_003-4a.10}
+  - {type: punctuation, offset: 792, content: 。, id: KR3e0002_CHANT_003-bkkpn144}
+  - {type: 'tls:seg', offset: 792, content: '', id: KR3e0002_CHANT_003-4a.11}
+  - {type: punctuation, offset: 797, content: ，, id: KR3e0002_CHANT_003-bkkpn145}
+  - {type: 'tls:seg', offset: 797, content: '', id: KR3e0002_CHANT_003-4a.12}
+  - {type: punctuation, offset: 807, content: 。, id: KR3e0002_CHANT_003-bkkpn146}
+  - {type: 'tls:seg', offset: 807, content: '', id: KR3e0002_CHANT_003-4a.13}
+  - {type: punctuation, offset: 811, content: ，, id: KR3e0002_CHANT_003-bkkpn147}
+  - {type: 'tls:seg', offset: 811, content: '', id: KR3e0002_CHANT_003-4a.14}
+  - {type: punctuation, offset: 817, content: ，, id: KR3e0002_CHANT_003-bkkpn148}
+  - {type: 'tls:seg', offset: 817, content: '', id: KR3e0002_CHANT_003-4a.15}
+  - {type: substitution, offset: 819, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 824, content: 。, id: KR3e0002_CHANT_003-bkkpn149}
+  - {type: 'tls:seg', offset: 824, content: '', id: KR3e0002_CHANT_003-4a.16}
+  - {type: punctuation, offset: 830, content: ，, id: KR3e0002_CHANT_003-bkkpn150}
+  - {type: 'tls:seg', offset: 830, content: '', id: KR3e0002_CHANT_003-4a.17}
+  - {type: punctuation, offset: 839, content: 。, id: KR3e0002_CHANT_003-bkkpn151}
+  - {type: 'tls:seg', offset: 839, content: '', id: KR3e0002_CHANT_003-4a.18}
+  - {type: punctuation, offset: 847, content: ，, id: KR3e0002_CHANT_003-bkkpn152}
+  - {type: 'tls:seg', offset: 847, content: '', id: KR3e0002_CHANT_003-4a.19}
+  - {type: punctuation, offset: 850, content: 。, id: KR3e0002_CHANT_003-bkkpn153}
+  - {type: 'tls:seg', offset: 850, content: '', id: KR3e0002_CHANT_003-4a.20}
+  - {type: punctuation, offset: 860, content: ，, id: KR3e0002_CHANT_003-bkkpn154}
+  - {type: 'tls:seg', offset: 860, content: '', id: KR3e0002_CHANT_003-4a.21}
+  - {type: punctuation, offset: 869, content: 。, id: KR3e0002_CHANT_003-bkkpn155}
+  - {type: 'tls:seg', offset: 869, content: '', id: KR3e0002_CHANT_003-4a.22}
+  - {type: punctuation, offset: 875, content: ，, id: KR3e0002_CHANT_003-bkkpn156}
+  - {type: 'tls:seg', offset: 875, content: '', id: KR3e0002_CHANT_003-4a.23}
+  - {type: substitution, offset: 876, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 880, content: ，, id: KR3e0002_CHANT_003-bkkpn157}
+  - {type: 'tls:seg', offset: 880, content: '', id: KR3e0002_CHANT_003-4a.24}
+  - {type: substitution, offset: 884, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 887, content: ，, id: KR3e0002_CHANT_003-bkkpn158}
+  - {type: 'tls:seg', offset: 887, content: '', id: KR3e0002_CHANT_003-4a.25}
+  - {type: punctuation, offset: 899, content: ，, id: KR3e0002_CHANT_003-bkkpn159}
+  - {type: 'tls:seg', offset: 899, content: '', id: KR3e0002_CHANT_003-4a.26}
+  - {type: substitution, offset: 901, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 906, content: ，, id: KR3e0002_CHANT_003-bkkpn160}
+  - {type: 'tls:seg', offset: 906, content: '', id: KR3e0002_CHANT_003-4a.27}
+  - {type: punctuation, offset: 913, content: ，, id: KR3e0002_CHANT_003-bkkpn161}
+  - {type: 'tls:seg', offset: 913, content: '', id: KR3e0002_CHANT_003-4a.28}
+  - {type: punctuation, offset: 918, content: ，, id: KR3e0002_CHANT_003-bkkpn162}
+  - {type: 'tls:seg', offset: 918, content: '', id: KR3e0002_CHANT_003-4a.29}
+  - {type: punctuation, offset: 921, content: ，, id: KR3e0002_CHANT_003-bkkpn163}
+  - {type: 'tls:seg', offset: 921, content: '', id: KR3e0002_CHANT_003-4a.30}
+  - {type: punctuation, offset: 925, content: ，, id: KR3e0002_CHANT_003-bkkpn164}
+  - {type: 'tls:seg', offset: 925, content: '', id: KR3e0002_CHANT_003-4a.31}
+  - {type: punctuation, offset: 927, content: 。, id: KR3e0002_CHANT_003-bkkpn165}
+  - {type: 'tls:seg', offset: 927, content: '', id: KR3e0002_CHANT_003-4a.32}
+  - {type: punctuation, offset: 933, content: ，, id: KR3e0002_CHANT_003-bkkpn166}
+  - {type: 'tls:seg', offset: 933, content: '', id: KR3e0002_CHANT_003-4a.33}
+  - {type: substitution, offset: 934, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 938, content: ，, id: KR3e0002_CHANT_003-bkkpn167}
+  - {type: 'tls:seg', offset: 938, content: '', id: KR3e0002_CHANT_003-4a.34}
+  - {type: substitution, offset: 942, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 952, content: ，, id: KR3e0002_CHANT_003-bkkpn168}
+  - {type: 'tls:seg', offset: 952, content: '', id: KR3e0002_CHANT_003-4a.35}
+  - {type: substitution, offset: 954, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 960, content: ，, id: KR3e0002_CHANT_003-bkkpn169}
+  - {type: 'tls:seg', offset: 960, content: '', id: KR3e0002_CHANT_003-4a.36}
+  - {type: punctuation, offset: 968, content: ，, id: KR3e0002_CHANT_003-bkkpn170}
+  - {type: 'tls:seg', offset: 968, content: '', id: KR3e0002_CHANT_003-4a.37}
+  - {type: punctuation, offset: 971, content: ，, id: KR3e0002_CHANT_003-bkkpn171}
+  - {type: 'tls:seg', offset: 971, content: '', id: KR3e0002_CHANT_003-4a.38}
+  - {type: punctuation, offset: 975, content: 。, id: KR3e0002_CHANT_003-bkkpn172}
+  - {type: 'tls:seg', offset: 975, content: '', id: KR3e0002_CHANT_003-4a.39}
+  - {type: punctuation, offset: 978, content: ，, id: KR3e0002_CHANT_003-bkkpn173}
+  - {type: 'tls:seg', offset: 978, content: '', id: KR3e0002_CHANT_003-4a.40}
+  - {type: punctuation, offset: 982, content: ，, id: KR3e0002_CHANT_003-bkkpn174}
+  - {type: 'tls:seg', offset: 982, content: '', id: KR3e0002_CHANT_003-4a.41}
+  - {type: punctuation, offset: 984, content: 。, id: KR3e0002_CHANT_003-bkkpn175}
+  - {type: 'tls:seg', offset: 984, content: '', id: KR3e0002_CHANT_003-4a.42}
+  - {type: punctuation, offset: 990, content: ，, id: KR3e0002_CHANT_003-bkkpn176}
+  - {type: 'tls:seg', offset: 990, content: '', id: KR3e0002_CHANT_003-4a.43}
+  - {type: punctuation, offset: 997, content: ，, id: KR3e0002_CHANT_003-bkkpn177}
+  - {type: 'tls:seg', offset: 997, content: '', id: KR3e0002_CHANT_003-4a.44}
+  - {type: punctuation, offset: 1002, content: ，, id: KR3e0002_CHANT_003-bkkpn178}
+  - {type: 'tls:seg', offset: 1002, content: '', id: KR3e0002_CHANT_003-4a.45}
+  - {type: punctuation, offset: 1005, content: ，, id: KR3e0002_CHANT_003-bkkpn179}
+  - {type: 'tls:seg', offset: 1005, content: '', id: KR3e0002_CHANT_003-4a.46}
+  - {type: punctuation, offset: 1013, content: 。, id: KR3e0002_CHANT_003-bkkpn180}
+  - {type: xml-element, offset: 1013, content: '', id: KR3e0002_CHANT_003-bkkxmlele10}
+  - {type: page-break, offset: 1013, content: '', id: KR3e0002_SBCK_003-23b}
+  back: []
+hash: sha256:2b7641452617ca52497089113f14ba7a47bb7f1f3baf7147cd10b47b48e57684

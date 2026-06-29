@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0002/chant/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 病本第二十五病本第二十五先病而後逆者治其本先逆而後病者治其本先寒而後生病者治其本先病而後生寒者治其本先熱而後生病者治其本先泄而後生他病者治其本必且調之乃治其他病先病而後中滿者治其標先病後泄者治其本先中滿而後煩心者治其本有客氣有同氣大小便不利治其標大小便利治其本病發而有餘本而標之先治其本後治其標病發而不足標而本之先治其標後治其本謹詳察間甚以意調之間者并行甚為獨行先大小便不利而後生他病者治其本也
+  hash: sha256:ba527a5d83e5bec15c28994990afd8f8088610c1e8678a22fd32eacf0c99e7e8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0002_CHANT_025-1a.1-h}
+metadata:
+  title: 靈樞經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0002.xml
+hash: sha256:57ebd9fba13effda1aca984cde32bfbd5241bc7f678e8a3e3b177675f2ca1f97

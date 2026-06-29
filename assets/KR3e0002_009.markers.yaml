@@ -1,0 +1,1201 @@
+canonical_identifier: bkk:krp/KR3e0002/bkk/v1/markers/9
+seq: 9
+markers:
+  front:
+  - {type: variant, offset: 0, length: 1, content: 終, SBCK: 黃帝素問靈樞經巻之九水脹第五十七黄帝問于歧伯曰水與膚脹鼓脹腸覃石瘕石水何以别之歧伯荅曰水}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_SBCK_009-1a}
+  - {type: variant, offset: 0, length: 1, content: 終, WYG: 欽定四庫全書靈樞經巻九宋史崧音釋水脹第五十七黄帝問于岐伯曰水與膚脹鼓脹腸覃石瘕石水何以别之岐伯答曰水}
+  - {type: page-break, offset: 0, content: '', id: KR3e0002_WYG_009-1a, image: WYG0733/WYG0733-0393c.png}
+  - {type: variant, offset: 0, length: 1, content: 終, krp: 黃帝素問靈樞經巻之九水脹第五十七黄帝問于歧伯曰水與膚脹鼓脹腸覃石瘕石水何以别之歧伯荅曰水}
+  body:
+  - {type: punctuation, offset: 0, content: 〈, id: KR3e0002_CHANT_009-bkkpn1}
+  - {type: punctuation, offset: 2, content: 〉, id: KR3e0002_CHANT_009-bkkpn2}
+  - {type: variant, offset: 2, length: 0, content: '', SBCK: 起也目窠上微腫如新臥起之狀其頸脉動時欬隂股間寒足脛瘇腹乃大其水已成矣以手按其腹隨手而起如裹水之狀此其候也黄帝曰膚脹何以候之歧伯曰膚脹者寒氣客于皮膚之間􅠻􅠻然不堅腹大身盡腫皮厚按其腹窅而不起腹色不變此其候也鼓脹何如歧伯曰腹脹身皆大大與膚脹等也色蒼黄腹筋起此其候也腸覃何如歧伯曰寒氣客于腸外與衛氣相摶氣不得榮因有所繫癖而内著惡氣乃起瘜肉乃生其始生也大如雞卵稍以益大至其成如懷子之狀久者離歲按之則堅推之則移月事以時下此其候也石瘕何如歧伯曰石瘕生于胞中寒氣客于子門子門閉塞氣不得通惡血當寫不寫衃以留止日以益大狀如懷子月事不以時下皆生于女子可導而下黄帝曰膚脹鼓脹可刺邪歧伯曰先寫其脹之血絡後調其經刺去其血絡也賊風}
+  - {type: page-break, offset: 2, content: '', id: KR3e0002_SBCK_009-1b}
+  - {type: page-break, offset: 2, content: '', id: KR3e0002_SBCK_009-2a}
+  - {type: variant, offset: 2, length: 0, content: '', WYG: 起也目窠上微腫如新臥起之狀其頸脉動時欬隂股間寒足脛腫腹乃大其水已成矣以手按其腹隨手而起如裹水之狀此其候也黄帝曰膚脹何以候之岐伯曰膚脹者寒氣客于皮膚之間􅠻􅠻然不堅腹大身盡腫皮厚按其腹窅而不起腹色不變此其候也鼓脹何如岐伯曰鼔脹身皆大大與膚脹等也色蒼黄腹筋起此其候也腸覃何如岐伯曰寒氣客于腸外與衛氣相搏氣不得榮因有所繫癖而内著惡氣乃起瘜肉乃生其始生也大如雞卵稍以益大至其成如懷子之狀久者離歲按之則堅推之則移月事以時下此其候也石瘕何如岐伯曰石瘕生于胞中寒氣客于子門子門閉塞氣不得通惡血當寫不寫衃以留止日以益大狀如懷子月事不以時下皆生于女子可導而下黄帝曰膚脹鼓脹可刺邪岐伯曰先寫其脹之血絡後調其經刺去其血絡也賊風}
+  - {type: page-break, offset: 2, content: '', id: KR3e0002_WYG_009-1b, image: WYG0733/WYG0733-0393d.png}
+  - {type: page-break, offset: 2, content: '', id: KR3e0002_WYG_009-2a, image: WYG0733/WYG0733-0394a.png}
+  - {type: variant, offset: 2, length: 0, content: '', krp: 起也目窠上微腫如新臥起之狀其頸脉動時欬隂股間寒足脛瘇腹乃大其水已成矣以手按其腹隨手而起如裹水之狀此其候也黄帝曰膚脹何以候之歧伯曰膚脹者寒氣客于皮膚之間􅠻􅠻然不堅腹大身盡腫皮厚按其腹窅而不起腹色不變此其候也鼓脹何如歧伯曰腹脹身皆大大與膚脹等也色蒼黄腹筋起此其候也腸覃何如歧伯曰寒氣客于腸外與衛氣相摶氣不得榮因有所繫癖而内著惡氣乃起瘜肉乃生其始生也大如雞卵稍以益大至其成如懷子之狀久者離歲按之則堅推之則移月事以時下此其候也石瘕何如歧伯曰石瘕生于胞中寒氣客于子門子門閉塞氣不得通惡血當寫不寫衃以留止日以益大狀如懷子月事不以時下皆生于女子可導而下黄帝曰膚脹鼓脹可刺邪歧伯曰先寫其脹之血絡後調其經刺去其血絡也賊風}
+  - {type: variant, offset: 3, length: 0, content: '', SBCK: 五十八黄帝曰夫子言賊風邪氣之傷人也令人病焉今有其不離屏蔽不出室穴之中卒然病者非不離賊風邪氣其故何也歧伯曰此皆嘗有所傷于濕氣藏于血脉之中分肉之間久留而不去若有所墮墜惡血在内而不去卒然喜怒不節飲食不適寒温不時腠理閉而不通其開而遇風寒則血氣凝結與故邪相襲則為寒痺其有熱則汗出汗出則受風雖不遇賊風邪氣必有因加而發焉黄帝曰今夫子之所言者皆病人之所自知也其毋所遇邪氣又毋怵惕之所志卒然而病者其故何也唯有因鬼神之事乎歧伯曰此亦有故邪留而未發因而志有所惡及有所慕血氣内亂兩氣相摶其所從來者微視之不見聽而不聞故似鬼神黄帝曰其祝而已者其故何也歧伯曰先巫者因知百病之勝先知其病之所從生者可祝而已也衛氣夫常第五十}
+  - {type: page-break, offset: 3, content: '', id: KR3e0002_SBCK_009-2b}
+  - {type: page-break, offset: 3, content: '', id: KR3e0002_SBCK_009-3a}
+  - {type: page-break, offset: 3, content: '', id: KR3e0002_SBCK_009-3b}
+  - {type: variant, offset: 3, length: 0, content: '', WYG: 五十八黄帝曰夫子言賊風邪氣之傷人也令人病焉今有其不離屏蔽不出室穴之中卒然病者非不離賊風邪氣其故何也岐伯曰此皆嘗有所傷于濕氣藏于血脈之中分肉之間久留而不去若有所墮墜惡血在内而不去卒然喜怒不節飲食不適寒温不時腠理閉而不通其開而遇風寒則血氣凝結與故邪相襲則為寒痺其有熱則汗出汗出則受風雖不遇賊風邪氣必有因加而發焉黄帝曰今夫子之所言者皆病人之所自知也其毋所遇邪氣又毋怵惕之所志卒然而病者其故何也唯有因鬼神之事乎岐伯曰此亦有故邪留而未發因而志有所惡及有所慕血氣内亂兩氣相搏其所從來者微視之不見聽而不聞故似鬼神黄帝曰其祝而已者其故何也岐伯曰先巫者因知百病之勝先知其病之所從生者可祝而已也衛氣失常第五十}
+  - {type: page-break, offset: 3, content: '', id: KR3e0002_WYG_009-2b, image: WYG0733/WYG0733-0394b.png}
+  - {type: page-break, offset: 3, content: '', id: KR3e0002_WYG_009-3a, image: WYG0733/WYG0733-0394c.png}
+  - {type: variant, offset: 3, length: 0, content: '', krp: 五十八黄帝曰夫子言賊風邪氣之傷人也令人病焉今有其不離屏蔽不出室穴之中卒然病者非不離賊風邪氣其故何也歧伯曰此皆嘗有所傷于濕氣藏于血脉之中分肉之間久留而不去若有所墮墜惡血在内而不去卒然喜怒不節飲食不適寒温不時腠理閉而不通其開而遇風寒則血氣凝結與故邪相襲則為寒痺其有熱則汗出汗出則受風雖不遇賊風邪氣必有因加而發焉黄帝曰今夫子之所言者皆病人之所自知也其毋所遇邪氣又毋怵惕之所志卒然而病者其故何也唯有因鬼神之事乎歧伯曰此亦有故邪留而未發因而志有所惡及有所慕血氣内亂兩氣相摶其所從來者微視之不見聽而不聞故似鬼神黄帝曰其祝而已者其故何也歧伯曰先巫者因知百病之勝先知其病之所從生者可祝而已也衛氣夫常第五十}
+  - {type: xml-element, offset: 4, content: '', id: KR3e0002_CHANT_009-bkkxmlele1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3e0002_CHANT_009-1a.1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3e0002_CHANT_009-1a.2}
+  - {type: variant, offset: 4, length: 5, content: 終始第九凡, SBCK: 黄帝曰衛氣之留于腹中搐積不行􅁐藴不得常所使人肢脇胃中滿喘呼逆息者何以去之伯高曰其氣積于胷中者上取之積于腹中者下取之上下皆滿者傍取之黄帝曰取之奈何伯高對曰積于上寫人迎天突喉中積于下者寫三里與氣街上下皆滿者上下取之與季脇之下一寸之下深一寸一本云季脇重者雞足取之診視其脉大而弦急及絶不至者及腹皮急甚者不可}
+  - {type: page-break, offset: 4, content: '', id: KR3e0002_SBCK_009-4a}
+  - {type: variant, offset: 4, length: 5, content: 終始第九凡, WYG: 黄帝曰衛氣之留于腹中搐積不行􅁐藴不得常所使人肢脇胃中滿喘呼逆息者何以去之伯高曰其氣積于胷中者上取之積于腹中者下取之上下皆滿者傍取之黄帝曰取之奈何伯高對曰積于上寫人迎天突喉中積于下者寫三里與氣街上下皆滿者上下取之與季脇之下一寸一本云季脇之下深一寸重者雞足取之診視其脈大而弦急及絶不至者及腹皮急甚者不可}
+  - {type: page-break, offset: 4, content: '', id: KR3e0002_WYG_009-3b, image: WYG0733/WYG0733-0394d.png}
+  - {type: variant, offset: 4, length: 5, content: 終始第九凡, krp: 黄帝曰衛氣之留于腹中搐積不行苑藴不得常所使人肢脇胃中滿喘呼逆息者何以去之伯高曰其氣積于胷中者上取之積于腹中者下取之上下皆滿者傍取之黄帝曰取之奈何伯高對曰積于上寫人迎天突喉中積于下者寫三里與氣街上下皆滿者上下取之與季脇之下一寸之下深一寸一本云季脇重者雞足取之診視其脉大而弦急及絶不至者及腹皮急甚者不可}
+  - {type: xml-element, offset: 8, content: '', id: KR3e0002_CHANT_009-bkkxmlele2}
+  - {type: xml-element, offset: 8, content: '', id: KR3e0002_CHANT_009-bkkxmlele3}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR3e0002_CHANT_009-1a.3}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR3e0002_CHANT_009-1a.4}
+  - {type: variant, offset: 10, length: 0, content: '', SBCK: 也黄帝曰善黄帝問于伯高曰何以知皮肉氣血筋骨}
+  - {type: variant, offset: 10, length: 0, content: '', WYG: 也黄帝曰善黄帝問于伯高曰何以知皮内氣血筋骨}
+  - {type: variant, offset: 10, length: 0, content: '', krp: 也黄帝曰善黄帝問于伯高曰何以知皮肉氣血筋骨}
+  - {type: variant, offset: 11, length: 18, content: 道畢于終始明知終始五藏為紀陰陽定矣陰, SBCK: 病也伯高曰色起兩眉薄澤}
+  - {type: variant, offset: 11, length: 18, content: 道畢于終始明知終始五藏為紀陰陽定矣陰, WYG: 病也伯高曰色起兩眉薄澤}
+  - {type: variant, offset: 11, length: 18, content: 道畢于終始明知終始五藏為紀陰陽定矣陰, krp: 病也伯高曰色起兩眉薄澤}
+  - {type: punctuation, offset: 12, content: ，, id: KR3e0002_CHANT_009-bkkpn3}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR3e0002_CHANT_009-1a.5}
+  - {type: punctuation, offset: 16, content: ，, id: KR3e0002_CHANT_009-bkkpn4}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3e0002_CHANT_009-1a.6}
+  - {type: punctuation, offset: 20, content: ，, id: KR3e0002_CHANT_009-bkkpn5}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3e0002_CHANT_009-1a.7}
+  - {type: punctuation, offset: 24, content: ，, id: KR3e0002_CHANT_009-bkkpn6}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3e0002_CHANT_009-1a.8}
+  - {type: punctuation, offset: 28, content: 。, id: KR3e0002_CHANT_009-bkkpn7}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3e0002_CHANT_009-1a.9}
+  - {type: variant, offset: 30, length: 3, content: 主藏陽, SBCK: 病在皮脣色青黄赤白黒}
+  - {type: variant, offset: 30, length: 3, content: 主藏陽, WYG: 病在皮唇色青黄赤白黒}
+  - {type: variant, offset: 30, length: 3, content: 主藏陽, krp: 病在皮脣色青黄赤白黒}
+  - {type: punctuation, offset: 32, content: ，, id: KR3e0002_CHANT_009-bkkpn8}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3e0002_CHANT_009-1a.10}
+  - {type: variant, offset: 34, length: 3, content: 主府陽, SBCK: 病在肌肉營氣濡然者病在血氣目色青黄赤白黒者病在筋耳焦枯}
+  - {type: variant, offset: 34, length: 3, content: 主府陽, WYG: 病在肌内營氣濡然者病在血氣目色青黄赤白黒者病在筋耳焦枯}
+  - {type: variant, offset: 34, length: 3, content: 主府陽, krp: 病在肌肉營氣濡然者病在血氣目色青黄赤白黒者病在筋耳焦枯}
+  - {type: punctuation, offset: 36, content: ，, id: KR3e0002_CHANT_009-bkkpn9}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR3e0002_CHANT_009-1a.11}
+  - {type: variant, offset: 38, length: 0, content: '', SBCK: 塵垢病在骨黄帝曰病形何如取之奈何伯高曰夫百病變化不可勝數然皮有部肉有柱血}
+  - {type: variant, offset: 38, length: 0, content: '', WYG: 塵垢病在骨黄帝曰病形何如取之奈何伯高曰夫百病變化不可勝數然皮有部内有桂血}
+  - {type: page-break, offset: 38, content: '', id: KR3e0002_WYG_009-4a, image: WYG0733/WYG0733-0395a.png}
+  - {type: variant, offset: 38, length: 0, content: '', krp: 塵垢病在骨黄帝曰病形何如取之奈何伯高曰夫百病變化不可勝數然皮有部肉有柱血}
+  - {type: variant, offset: 39, length: 0, content: '', SBCK: 有輸骨有屬黄帝曰願聞其故伯高曰皮之部輸}
+  - {type: page-break, offset: 39, content: '', id: KR3e0002_SBCK_009-4b}
+  - {type: variant, offset: 39, length: 0, content: '', WYG: 有輸骨有屬黄帝曰願聞其故伯高曰皮之部輸}
+  - {type: variant, offset: 39, length: 0, content: '', krp: 有輸骨有屬黄帝曰願聞其故伯高曰皮之部輸}
+  - {type: punctuation, offset: 42, content: ，, id: KR3e0002_CHANT_009-bkkpn10}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3e0002_CHANT_009-1a.12}
+  - {type: variant, offset: 42, length: 1, content: 陰, SBCK: 肉之柱在臂脛諸陽分肉之間與足少隂分間血氣之輸輸于諸絡氣血留居則盛而起筋部無隂無陽無左無右候病所在骨之屬者骨空之所以受益而益腦髓者也黄帝曰取之奈何伯高曰夫病變化浮沉深淺不可勝窮各在其處病間者淺之甚者深之間者小之甚者衆之隨變而調氣故曰上工黄帝問于歧伯曰人之肥瘦大小寒温有老壯少小别之奈何伯高對曰人年五十已上為老二十已上為壯十八已上為少六歲已上為小黄帝曰何以度知其肥瘦伯高曰人有肥有膏有内黄帝曰别此奈何伯高曰膕内堅䐃内一本云皮滿者肥膕内不堅皮緩者膏皮内不相離者肉黄帝曰身之寒温何如伯高曰膏者其肉淖而麤理者身寒細理者身熱脂者其肉堅細理者熱麤理者寒黄帝曰其肥瘦大小奈何伯高曰膏者多氣而皮縱緩故能縱腹垂􅃾肉者身體容大脂者其身收小黄帝曰三者之氣血多少何如伯高曰膏者多氣多氣者熱熱者耐寒肉者多血則充形充形則平脂者其血清氣滑少故不能大此别于衆人者也黄帝曰衆人奈何伯高曰衆人皮肉脂膏不能相加也血與氣不能相多故其形不小不大各自稱其身命曰衆人黄帝曰善治之奈何伯高曰必先别其三形血之多少氣之清濁而後調之治無失常經是故膏人縱腹垂􅃾肉人者上下容大脂人者雖脂不能大者玉版第六十黄帝曰余以小鍼為細物也夫子乃言上合之于天下合之于地中合之于人余以為過鍼之意矣願聞其故歧伯曰何物大於天乎夫大于鍼者惟五兵者焉五兵者死之僃也非生之具且夫人者天地之鎭也其不可不參乎夫治民者亦唯鍼焉夫鍼之與五兵其孰小乎黄帝曰病之生時有喜怒不測飲食不節隂氣不足陽氣有餘營氣不行乃發爲癰疽隂陽不通兩熱相摶乃化爲膿小鍼能取之乎歧伯曰聖人不能使化者爲之邪不可留也故兩軍相當旗幟相望白刃陳于中野者此非一日之謀也能使其民令行禁止士卒無白刃之難者非一日之教也須㬰之得也夫至使身被癰疽之病膿血之聚者不亦離道逺乎夫癰疽之生膿血之成也不從天下不從地出積微之所生也故聖人自治于未有形也愚者遭其已成也黄帝曰其已形不予遭膿已成不予見為之奈何歧伯曰膿已成十死一生故聖人弗使已成而朙為良方著之竹帛使能者踵而傳之後世無有終時者為其不予遭也黄帝曰其已有膿血而後遭乎不導之以小鍼治乎歧伯曰以小治小者其功小以大治大者多害故其已成膿血者其唯砭石鈹鋒之所取也黄帝曰多害者其不可全乎歧伯曰其在逆順焉黄帝曰願聞逆順歧伯曰以為傷者其白眼青黒眼小是一逆也内藥而嘔者是二逆也腹痛渴甚是三逆也肩項中不便是四逆也音嘶色脱是五逆也除此五者為順矣黄帝曰諸病皆有逆順可得聞乎歧伯曰腹脹身熱脉大是一逆也腹鳴而滿四肢清泄其脉大是二逆也衂而不止脉大是三逆也咳且溲血脱形其脉小勁是四逆也欬脱形身熱脉小以疾是謂五逆也如是者不過十五日而死矣其腹大脹四末清脫形泄甚是一逆也腹脹便血其脉大時絶是二逆也欬溲血形内脫脉摶是三逆也嘔血胷滿引背脉小而疾是四逆也欬嘔腹脹且飱泄其脉絶是五逆也如是者不及一時而死矣工不察此者而刺之是謂逆治黄帝曰夫子之言鍼甚駿以配天地上數天文下度地紀内别五藏外次六府經脉二十八㑹盡有周紀能殺生人不能起死者子能反之乎歧伯曰能殺生人不能起死者也黄帝曰余聞之則為不仁然願聞其道弗行於人歧伯曰是朙道也其必然也其如刀劒之可以殺人如飲酒使人醉也雖勿診猶可知矣黄帝曰願卒聞之歧伯曰人之所}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-5a}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-5b}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-6a}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-6b}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-7a}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-7b}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-8a}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-8b}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_SBCK_009-9a}
+  - {type: variant, offset: 42, length: 1, content: 陰, WYG: 内之柱在臂脛諸陽分内之間與足少隂分間血氣之輸輸于諸絡氣血留居則盛而起筋部無隂無陽無左無右候病所在骨之屬者骨空之所以受益而益腦髓者也黄帝曰取之奈何伯高曰夫病變化浮沈深淺不可勝窮各在其處病間者淺之甚者深之間者小之甚者衆之隨變而調氣故曰上工黄帝問于伯高曰人之肥瘦大小寒温有老壯少小别之奈何伯高對曰人年五十已上為老二十已上為壯十八以上為少六歲已上為小黄帝曰何以度之其肥瘦伯高曰人有肥有膏有内黄帝曰别之奈何伯高曰膕内堅一本云䐃内皮滿者肥膕内不堅皮緩者膏皮内不相離者内黄帝曰身之寒温何如伯高曰膏者其内淖而粗理者身寒細理者身熱脂者其内堅細理者熱粗理者寒黄帝曰其肥瘦大小奈何伯高曰膏者多氣而皮縱緩故能縱腹垂腴内者身體容大脂者其身收小黄帝曰三者之氣血多少何如伯高曰膏者多氣多氣者熱熱者耐寒内者多血則充形充形則平脂者其血漬氣滑少故不能大此别于衆人者也黄帝曰衆人奈何伯高曰衆人皮内脂膏不能相加也血與氣不能相多故其形不小不大各自稱其身命曰衆人黄帝曰善治之奈何伯高曰必先别其三形血之多少氣之清濁而後調之治無失常經是故膏人縱腹垂腴内人者上下容大脂人者雖脂不能大者玉版第六十黄帝曰余以小針為細物也夫子乃言上合之于天下合之于地中合之于人余以為過針之意矣願聞其故岐伯曰何物大於天乎夫大于針者惟五兵者焉五兵者死之備也非生之具且夫人者天地之鎭也其不可不參乎夫治民者亦唯針焉夫針之與五兵其孰小乎黄帝曰病之生時有喜怒不測飲食不節隂氣不足陽氣有餘營氣不行乃發為癰疽隂陽不通兩熱相搏乃化為膿小針能取之乎岐伯曰聖人不能使化者為之邪不可留也故兩軍相當旗幟相望白刃陳于中野者此非一日之謀也能使其民令行禁止士卒無白刃之難者非一日之教也須㬰之得也夫至使身佊癰疽之病膿血之聚者不亦離道逺乎夫癰疽之生膿血之成也不從天下不從地出積微之所生也故聖人自治於未有形也愚者遭其已成也黄帝曰其已形不予遭膿已成不予見為之奈何岐伯曰膿已成十死一生故聖人弗使已成而明為良方著之竹帛使能者踵而傳之後世無有終時者為其不予遭也黄帝曰其已有膿血而後遭乎不𨗳之以小針治乎岐伯曰以小治小者其功小以大治大者多害故其已成膿血者其唯砭石鈹鋒之所取也黄帝曰多害者其不可全乎岐伯曰其在逆順焉黄帝曰願聞逆順岐伯曰以為傷者其白眼青黒眼小是一逆也内藥而嘔者是二逆也腹痛渇甚是三逆也肩項中不便是四逆也音嘶色脱是五逆也除此五者為順矣黄帝曰諸病皆有逆順可得聞乎岐伯曰腹脹身熱脈大是一逆也腹鳴而滿四肢清泄其脈大是二逆也衂而不止脈大是三逆也咳且溲血脱形其脈小勁是四逆也欬脱形身熱脈小以疾是謂五逆也如是者不過十五日而死矣其腹大脹四末清脫形泄甚是一逆也腹脹便血其脈大時絶是二逆也欬溲血形内脫脈搏是三逆也嘔血胷滿引背脈小而疾是四逆也欬嘔腹脹且飱泄其脈絶是五逆也如是者不及一時而死矣工不察此者而刺之是謂逆治黄帝曰夫子之言針甚駿以配天地上數天文下度地紀内别五藏外次六府經脈二十八㑹盡有周紀能殺生人不能起死者子能反之乎岐伯曰能殺生人不能起死者也黄帝曰余聞之則為不仁然願聞其道弗行于人岐伯曰是明道也其必然也其如刀劒之可以殺人如飲酒使人醉也雖勿診猶可知矣黄帝曰願卒聞之岐伯曰人之所}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_WYG_009-4b, image: WYG0733/WYG0733-0395b.png}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_WYG_009-5a, image: WYG0733/WYG0733-0395c.png}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_WYG_009-5b, image: WYG0733/WYG0733-0395d.png}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_WYG_009-6a, image: WYG0733/WYG0733-0396a.png}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_WYG_009-6b, image: WYG0733/WYG0733-0396b.png}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_WYG_009-7a, image: WYG0733/WYG0733-0396c.png}
+  - {type: page-break, offset: 42, content: '', id: KR3e0002_WYG_009-7b, image: WYG0733/WYG0733-0396d.png}
+  - {type: variant, offset: 42, length: 1, content: 陰, krp: 肉之柱在臂脛諸陽分肉之間與足少隂分間血氣之輸輸于諸絡氣血留居則盛而起筋部無隂無陽無左無右候病所在骨之屬者骨空之所以受益而益腦髓者也黄帝曰取之奈何伯高曰夫病變化浮沉深淺不可勝窮各在其處病間者淺之甚者深之間者小之甚者衆之隨變而調氣故曰上工黄帝問于歧伯曰人之肥瘦大小寒温有老壯少小别之奈何伯高對曰人年五十已上為老二十已上為壯十八已上為少六歲已上為小黄帝曰何以度知其肥瘦伯高曰人有肥有膏有内黄帝曰别此奈何伯高曰膕内堅䐃内一本云皮滿者肥膕内不堅皮緩者膏皮内不相離者肉黄帝曰身之寒温何如伯高曰膏者其肉淖而麤理者身寒細理者身熱脂者其肉堅細理者熱麤理者寒黄帝曰其肥瘦大小奈何伯高曰膏者多氣而皮縱緩故能縱腹垂腴肉者身體容大脂者其身收小黄帝曰三者之氣血多少何如伯高曰膏者多氣多氣者熱熱者耐寒肉者多血則充形充形則平脂者其血清氣滑少故不能大此别于衆人者也黄帝曰衆人奈何伯高曰衆人皮肉脂膏不能相加也血與氣不能相多故其形不小不大各自稱其身命曰衆人黄帝曰善治之奈何伯高曰必先别其三形血之多少氣之清濁而後調之治無失常經是故膏人縱腹垂腴肉人者上下容大脂人者雖脂不能大者玉版第六十黄帝曰余以小鍼為細物也夫子乃言上合之于天下合之于地中合之于人余以為過鍼之意矣願聞其故歧伯曰何物大於天乎夫大于鍼者惟五兵者焉五兵者死之僃也非生之具且夫人者天地之鎭也其不可不參乎夫治民者亦唯鍼焉夫鍼之與五兵其孰小乎黄帝曰病之生時有喜怒不測飲食不節隂氣不足陽氣有餘營氣不行乃發爲癰疽隂陽不通兩熱相摶乃化爲膿小鍼能取之乎歧伯曰聖人不能使化者爲之邪不可留也故兩軍相當旗幟相望白刃陳于中野者此非一日之謀也能使其民令行禁止士卒無白刃之難者非一日之教也須㬰之得也夫至使身被癰疽之病膿血之聚者不亦離道逺乎夫癰疽之生膿血之成也不從天下不從地出積微之所生也故聖人自治于未有形也愚者遭其已成也黄帝曰其已形不予遭膿已成不予見為之奈何歧伯曰膿已成十死一生故聖人弗使已成而朙為良方著之竹帛使能者踵而傳之後世無有終時者為其不予遭也黄帝曰其已有膿血而後遭乎不導之以小鍼治乎歧伯曰以小治小者其功小以大治大者多害故其已成膿血者其唯砭石鈹鋒之所取也黄帝曰多害者其不可全乎歧伯曰其在逆順焉黄帝曰願聞逆順歧伯曰以為傷者其白眼青黒眼小是一逆也内藥而嘔者是二逆也腹痛渴甚是三逆也肩項中不便是四逆也音嘶色脱是五逆也除此五者為順矣黄帝曰諸病皆有逆順可得聞乎歧伯曰腹脹身熱脉大是一逆也腹鳴而滿四肢清泄其脉大是二逆也衂而不止脉大是三逆也咳且溲血脱形其脉小勁是四逆也欬脱形身熱脉小以疾是謂五逆也如是者不過十五日而死矣其腹大脹四末清脫形泄甚是一逆也腹脹便血其脉大時絶是二逆也欬溲血形内脫脉摶是三逆也嘔血胷滿引背脉小而疾是四逆也欬嘔腹脹且飱泄其脉絶是五逆也如是者不及一時而死矣工不察此者而刺之是謂逆治黄帝曰夫子之言鍼甚駿以配天地上數天文下度地紀内别五藏外次六府經脉二十八㑹盡有周紀能殺生人不能起死者子能反之乎歧伯曰能殺生人不能起死者也黄帝曰余聞之則為不仁然願聞其道弗行於人歧伯曰是朙道也其必然也其如刀劒之可以殺人如飲酒使人醉也雖勿診猶可知矣黄帝曰願卒聞之歧伯曰人之所}
+  - {type: variant, offset: 45, length: 1, content: 于, SBCK: 者穀也穀之所注者胃也胃者水穀氣血之海也海之所行雲氣者天下也胃之所出氣血者經隧也經隧者}
+  - {type: variant, offset: 45, length: 1, content: 于, WYG: 者穀也穀之所注者胃也胃者水穀氣血之海也海之所行雲氣者天下也胃之所出氣血者經隧也經隧者}
+  - {type: page-break, offset: 45, content: '', id: KR3e0002_WYG_009-8a, image: WYG0733/WYG0733-0397a.png}
+  - {type: variant, offset: 45, length: 1, content: 于, krp: 者穀也穀之所注者胃也胃者水穀氣血之海也海之所行雲氣者天下也胃之所出氣血者經隧也經隧者}
+  - {type: punctuation, offset: 48, content: ，, id: KR3e0002_CHANT_009-bkkpn11}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3e0002_CHANT_009-1a.13}
+  - {type: variant, offset: 48, length: 3, content: 故寫者, SBCK: 六府之大絡也迎而奪之而已矣黄帝曰上下有數乎歧伯曰}
+  - {type: page-break, offset: 48, content: '', id: KR3e0002_SBCK_009-9b}
+  - {type: variant, offset: 48, length: 3, content: 故寫者, WYG: 六府之大絡也迎而奪之而已矣黄帝曰上下有數乎岐伯曰}
+  - {type: variant, offset: 48, length: 3, content: 故寫者, krp: 六府之大絡也迎而奪之而已矣黄帝曰上下有數乎歧伯曰}
+  - {type: punctuation, offset: 53, content: ，, id: KR3e0002_CHANT_009-bkkpn12}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3e0002_CHANT_009-1a.14}
+  - {type: variant, offset: 53, length: 1, content: 補, SBCK: 五里中道而止五至而已五徃而藏之氣盡矣故五五二十五而竭其輸矣此所謂奪其天氣}
+  - {type: variant, offset: 53, length: 1, content: 補, WYG: 五里中道而止五至而已五徃而藏之氣盡矣故五五二十五而竭其輸矣此所謂奪其天氣}
+  - {type: variant, offset: 53, length: 1, content: 補, krp: 五里中道而止五至而已五徃而藏之氣盡矣故五五二十五而竭其輸矣此所謂奪其天氣}
+  - {type: variant, offset: 55, length: 1, content: 隨, SBCK: 也非能絶其命而傾其壽者也黄帝曰願卒聞}
+  - {type: variant, offset: 55, length: 1, content: 隨, WYG: 也非能絶其命而傾其壽者也黄帝曰願卒聞}
+  - {type: variant, offset: 55, length: 1, content: 隨, krp: 也非能絶其命而傾其壽者也黄帝曰願卒聞}
+  - {type: punctuation, offset: 57, content: ，, id: KR3e0002_CHANT_009-bkkpn13}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3e0002_CHANT_009-1a.15}
+  - {type: variant, offset: 57, length: 10, content: 知迎知隨氣可令和和氣, SBCK: 歧伯曰闚門而刺}
+  - {type: variant, offset: 57, length: 10, content: 知迎知隨氣可令和和氣, WYG: 岐伯曰闚門而刺}
+  - {type: variant, offset: 57, length: 10, content: 知迎知隨氣可令和和氣, krp: 歧伯曰闚門而刺}
+  - {type: punctuation, offset: 61, content: ，, id: KR3e0002_CHANT_009-bkkpn14}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3e0002_CHANT_009-1a.16}
+  - {type: punctuation, offset: 65, content: 。, id: KR3e0002_CHANT_009-bkkpn15}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR3e0002_CHANT_009-1a.17}
+  - {type: variant, offset: 68, length: 0, content: '', SBCK: 者死于家中入門而刺之者死于堂上黄帝曰善乎}
+  - {type: variant, offset: 68, length: 0, content: '', WYG: 者死于家中入門而刺之者死于堂上黄帝曰善乎}
+  - {type: variant, offset: 68, length: 0, content: '', krp: 者死于家中入門而刺之者死于堂上黄帝曰善乎}
+  - {type: punctuation, offset: 69, content: ，, id: KR3e0002_CHANT_009-bkkpn16}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3e0002_CHANT_009-1a.18}
+  - {type: variant, offset: 69, length: 6, content: 必通陰陽五藏, SBCK: 朙哉道請著之玉版以}
+  - {type: variant, offset: 69, length: 6, content: 必通陰陽五藏, WYG: 明哉道請著之玊版以}
+  - {type: variant, offset: 69, length: 6, content: 必通陰陽五藏, krp: 朙哉道請著之玉版以}
+  - {type: punctuation, offset: 73, content: ，, id: KR3e0002_CHANT_009-bkkpn17}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR3e0002_CHANT_009-1a.19}
+  - {type: variant, offset: 76, length: 5, content: 陰六府為陽, SBCK: 重寶}
+  - {type: variant, offset: 76, length: 5, content: 陰六府為陽, WYG: 重寶}
+  - {type: variant, offset: 76, length: 5, content: 陰六府為陽, krp: 重寶}
+  - {type: punctuation, offset: 77, content: ，, id: KR3e0002_CHANT_009-bkkpn18}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR3e0002_CHANT_009-1a.20}
+  - {type: punctuation, offset: 81, content: ，, id: KR3e0002_CHANT_009-bkkpn19}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR3e0002_CHANT_009-1a.21}
+  - {type: punctuation, offset: 85, content: ，, id: KR3e0002_CHANT_009-bkkpn20}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3e0002_CHANT_009-1a.22}
+  - {type: variant, offset: 86, length: 0, content: '', SBCK: 為刺禁令民勿敢犯也五禁第六十一黄帝問于歧伯曰余聞刺有五禁何謂五禁歧伯曰禁其不可刺也黄帝曰余聞刺有五奪歧伯曰無寫其不可奪者也黄帝曰余聞刺有五過歧伯曰補寫無過其度黄帝曰余聞刺有五逆歧伯曰病與脉相逆命曰五逆黄帝曰余聞刺有九宜歧伯曰朙知九鍼之論是謂九宜黄帝曰何謂五禁願聞其不可刺之時歧伯曰甲乙日自乗無刺頭無發矇于耳内丙丁日自乗無振埃于肩喉廉泉戊巳日自乘四季無刺腹去爪寫水庚辛日自乘無刺闗節于股膝壬癸日自乘無刺足脛是謂五禁黄帝曰何謂五奪歧伯曰形肉已奪是一奪也大奪}
+  - {type: page-break, offset: 86, content: '', id: KR3e0002_SBCK_009-10a}
+  - {type: page-break, offset: 86, content: '', id: KR3e0002_SBCK_009-10b}
+  - {type: variant, offset: 86, length: 0, content: '', WYG: 為刺禁令民勿敢犯也五禁第六十一黄帝問于岐伯曰余聞刺有五禁何謂五禁岐伯曰禁其不可刺也黄帝曰余聞刺有五奪岐伯曰无寫其不可奪者也黄帝曰余聞刺有五過岐伯曰補寫無過其度黄帝曰余聞刺有五逆岐伯曰病與脈相逆命曰五逆黄帝曰余聞刺有九宜岐伯曰明知九針之論是謂九宜黄帝曰何謂五禁願聞其不可刺之時岐伯曰甲乙日自乗无刺頭无發矇于耳内丙丁日自乗無振埃于負喉亷泉戊巳日自乘四季旡刺腹去爪寫水庚辛日自乘無刺闗節于股脥壬癸日自乘無刺足脛是謂五禁黄帝曰何謂五奪岐伯曰形肉已奪是一奪也大奪}
+  - {type: page-break, offset: 86, content: '', id: KR3e0002_WYG_009-8b, image: WYG0733/WYG0733-0397b.png}
+  - {type: page-break, offset: 86, content: '', id: KR3e0002_WYG_009-9a, image: WYG0733/WYG0733-0397c.png}
+  - {type: variant, offset: 86, length: 0, content: '', krp: 為刺禁令民勿敢犯也五禁第六十一黄帝問于歧伯曰余聞刺有五禁何謂五禁歧伯曰禁其不可刺也黄帝曰余聞刺有五奪歧伯曰無寫其不可奪者也黄帝曰余聞刺有五過歧伯曰補寫無過其度黄帝曰余聞刺有五逆歧伯曰病與脉相逆命曰五逆黄帝曰余聞刺有九宜歧伯曰朙知九鍼之論是謂九宜黄帝曰何謂五禁願聞其不可刺之時歧伯曰甲乙日自乗無刺頭無發矇于耳内丙丁日自乗無振埃于肩喉廉泉戊巳日自乘四季無刺腹去爪寫水庚辛日自乘無刺闗節于股膝壬癸日自乘無刺足脛是謂五禁黄帝曰何謂五奪歧伯曰形肉已奪是一奪也大奪}
+  - {type: variant, offset: 87, length: 0, content: '', SBCK: 之後是二奪也大汗出之後是三奪也大泄之後是四奪也新産及大血之後是五奪也此皆不可寫黄帝曰何謂五逆歧伯曰熱病永静汗已出脉盛躁是一逆也病泄脉洪大是二逆也著痺不移䐃肉破身熱脉偏絶是三逆也淫而奪形身熱色夭然白及後下血衃血衃篤重是謂四逆也寒熱奪形脉堅摶是謂五逆也動輸第六十二黄帝曰經脉十二而手太隂足少隂陽朙獨動不休何也歧伯曰是朙胃脉也胃}
+  - {type: page-break, offset: 87, content: '', id: KR3e0002_SBCK_009-11a}
+  - {type: variant, offset: 87, length: 0, content: '', WYG: 之後是二奪也大汗出之後是三奪也大泄之後是四奪也新産及大血之後是五奪也此皆不可寫黄帝曰何謂五逆岐伯曰熱病脈静汗已出脈盛躁是一逆也病泄脈洪大是二逆也著痺不移䐃肉破身熱脈偏絶是三逆也淫而奪形身熱色夭然白及後下血衃血衃篤重是謂四逆也寒熱奪形脈堅搏是謂五逆也動輸第六十二黄帝曰經脈十二而手太隂足少隂陽明獨動不休何也岐伯曰是明胃脈也胃}
+  - {type: page-break, offset: 87, content: '', id: KR3e0002_WYG_009-9b, image: WYG0733/WYG0733-0397d.png}
+  - {type: variant, offset: 87, length: 0, content: '', krp: 之後是二奪也大汗出之後是三奪也大泄之後是四奪也新産及大血之後是五奪也此皆不可寫黄帝曰何謂五逆歧伯曰熱病永静汗已出脉盛躁是一逆也病泄脉洪大是二逆也著痺不移䐃肉破身熱脉偏絶是三逆也淫而奪形身熱色夭然白及後下血衃血衃篤重是謂四逆也寒熱奪形脉堅摶是謂五逆也動輸第六十二黄帝曰經脉十二而手太隂足少隂陽朙獨動不休何也歧伯曰是朙胃脉也胃}
+  - {type: variant, offset: 88, length: 2, content: 盟敬, SBCK: 五藏六府}
+  - {type: page-break, offset: 88, content: '', id: KR3e0002_SBCK_009-11b}
+  - {type: variant, offset: 88, length: 2, content: 盟敬, WYG: 五藏六府}
+  - {type: variant, offset: 88, length: 2, content: 盟敬, krp: 五藏六府}
+  - {type: punctuation, offset: 89, content: ，, id: KR3e0002_CHANT_009-bkkpn21}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3e0002_CHANT_009-1a.23}
+  - {type: variant, offset: 91, length: 0, content: '', SBCK: 海其清氣上注于肺肺氣從太隂而行之其行也以息徃來故人一呼脉再動一吸脉亦再動呼吸不已故動而不止黄帝曰氣之過于寸口也上十焉息下八焉伏何道從還不知其極歧伯曰氣之離藏也卒然如弓弩之發如水之下㟁上于魚以反衰其餘氣衰散以逆上故其行微黄帝曰足之陽朙何因而動歧伯曰胃氣上注于肺其悍氣上衝頭}
+  - {type: page-break, offset: 91, content: '', id: KR3e0002_SBCK_009-12a}
+  - {type: variant, offset: 91, length: 0, content: '', WYG: 海其清氣上注于肺肺氣從太隂而行之其行也以息徃來故人一呼脈再動一吸脈亦再動呼吸不已故動而不止黄帝曰氣之過于寸口也上十焉息下八焉伏何道從還不知其極岐伯曰氣之離藏也卒然如弓弩之發如水之下岸上于魚以反衰其餘氣衰散以逆上故其行微黄帝曰足之陽明何因而動岐伯曰胃氣上注于肺其悍氣上衝頭}
+  - {type: page-break, offset: 91, content: '', id: KR3e0002_WYG_009-10a, image: WYG0733/WYG0733-0398a.png}
+  - {type: variant, offset: 91, length: 0, content: '', krp: 海其清氣上注于肺肺氣從太隂而行之其行也以息徃來故人一呼脉再動一吸脉亦再動呼吸不已故動而不止黄帝曰氣之過于寸口也上十焉息下八焉伏何道從還不知其極歧伯曰氣之離藏也卒然如弓弩之發如水之下㟁上于魚以反衰其餘氣衰散以逆上故其行微黄帝曰足之陽朙何因而動歧伯曰胃氣上注于肺其悍氣上衝頭}
+  - {type: variant, offset: 92, length: 2, content: 昌慢, SBCK: 循咽上走空竅循眼系入絡腦出顑下客主人循牙車合陽朙幷下人迎此胃氣别走于陽朙者也故隂陽上下其動也若一故陽病而陽脉小者為逆隂病而隂脉大者為逆故隂陽俱靜俱動若引繩相傾者病黄帝曰足少隂何因而動歧伯曰衝脉者十二經}
+  - {type: variant, offset: 92, length: 2, content: 昌慢, WYG: 循咽上走空竅循眼系入絡腦出顑下客主人循牙車合陽明并下人迎此胃氣别走于陽明者也故隂陽上下其動也若一故陽病而陽脈小者為逆隂病而隂脈大者為逆故隂陽俱動俱静若引繩相傾者病黄帝曰足少隂何因而動岐伯曰衝脈者十二經}
+  - {type: variant, offset: 92, length: 2, content: 昌慢, krp: 循咽上走空竅循眼系入絡腦出顑下客主人循牙車合陽朙幷下人迎此胃氣别走于陽朙者也故隂陽上下其動也若一故陽病而陽脉小者為逆隂病而隂脉大者為逆故隂陽俱靜俱動若引繩相傾者病黄帝曰足少隂何因而動歧伯曰衝脉者十二經}
+  - {type: punctuation, offset: 93, content: ，, id: KR3e0002_CHANT_009-bkkpn22}
+  - {type: 'tls:seg', offset: 93, content: '', id: KR3e0002_CHANT_009-1a.24}
+  - {type: variant, offset: 95, length: 0, content: '', SBCK: 海也與少隂之大絡起于腎下出于氣街循隂股内廉邪入膕中循脛骨内廉並少隂之經下入内踝之後入足下其别}
+  - {type: page-break, offset: 95, content: '', id: KR3e0002_SBCK_009-12b}
+  - {type: variant, offset: 95, length: 0, content: '', WYG: 海也與少隂之大絡起于腎下出于氣街循隂股内廉邪入膕中循脛骨内廉並少隂之經下入内踝之後入足下其别}
+  - {type: page-break, offset: 95, content: '', id: KR3e0002_WYG_009-10b, image: WYG0733/WYG0733-0398b.png}
+  - {type: variant, offset: 95, length: 0, content: '', krp: 海也與少隂之大絡起于腎下出于氣街循隂股内廉邪入膕中循脛骨内廉並少隂之經下入内踝之後入足下其别}
+  - {type: variant, offset: 96, length: 1, content: 亡, SBCK: 邪入踝出屬跗上入大指之間注諸絡以温足脛此脉之常動者也黄帝曰營衛之行也上下相貫如環之}
+  - {type: variant, offset: 96, length: 1, content: 亡, WYG: 邪入踝出屬跗上入大指之間注諸絡以温足脛此脈之常動者也黄帝曰營衛之行也上下相貫如環之}
+  - {type: variant, offset: 96, length: 1, content: 亡, krp: 邪入踝出屬跗上入大指之間注諸絡以温足脛此脉之常動者也黄帝曰營衛之行也上下相貫如環之}
+  - {type: punctuation, offset: 97, content: ，, id: KR3e0002_CHANT_009-bkkpn23}
+  - {type: 'tls:seg', offset: 97, content: '', id: KR3e0002_CHANT_009-1a.25}
+  - {type: variant, offset: 98, length: 0, content: '', SBCK: 端今有其卒然遇邪氣及逢大寒手足懈惰其脉隂陽之}
+  - {type: variant, offset: 98, length: 0, content: '', WYG: 端今有其卒然遇邪氣及逢大寒手足懈惰其脈隂陽之}
+  - {type: variant, offset: 98, length: 0, content: '', krp: 端今有其卒然遇邪氣及逢大寒手足懈惰其脉隂陽之}
+  - {type: variant, offset: 99, length: 0, content: '', SBCK: 相輸之㑹}
+  - {type: variant, offset: 99, length: 0, content: '', WYG: 相輸之㑹}
+  - {type: variant, offset: 99, length: 0, content: '', krp: 相輸之㑹}
+  - {type: variant, offset: 100, length: 2, content: 私必, SBCK: 相失也氣何由還歧伯曰夫四末隂陽之㑹者此氣之大絡也四街者氣之徑路也故絡絶則徑通四末解則氣從合相輸如環黄帝曰善此所謂如環無端莫知其紀終而復始此之謂也五味論第六十三黄帝問于少俞曰五味入于口也各有所走各有所病酸走筋多食之令人癃鹹走血多食之令人渇辛走氣多食之令人洞心苦走骨多食之令人變嘔甘走肉多食之令人悗心余知其然也不知其何由願聞其故少俞荅曰酸入于胃其氣澀以收上之兩焦弗能出入也不出即留于胃中胃中和温則下注膀胱膀胱之胞薄以懦}
+  - {type: page-break, offset: 100, content: '', id: KR3e0002_SBCK_009-13a}
+  - {type: page-break, offset: 100, content: '', id: KR3e0002_SBCK_009-13b}
+  - {type: variant, offset: 100, length: 2, content: 私必, WYG: 相失也氣何由還岐伯曰夫四末隂陽之㑹者此氣之大絡也四街者氣之徑路也故絡絶則徑通四末解則氣從合相輸如環黄帝曰善此所謂如環無端莫知其紀終而復始此之謂也五味論第六十三黄帝問于少俞曰五味入于口也各有所走各有所病酸走筋多食之令人癃鹹走血多食之令人渇辛走氣多食之令人洞心苦走骨多食之令人變嘔甘走肉多食之令人悗心余知其然也不知其何由願聞其故少俞答曰酸入于胃其氣澁以收上之兩焦不能出入也不出即留于胃中胃中和温則下注膀胱膀胱之胞薄以懦}
+  - {type: page-break, offset: 100, content: '', id: KR3e0002_WYG_009-11a, image: WYG0733/WYG0733-0398c.png}
+  - {type: page-break, offset: 100, content: '', id: KR3e0002_WYG_009-11b, image: WYG0733/WYG0733-0398d.png}
+  - {type: variant, offset: 100, length: 2, content: 私必, krp: 相失也氣何由還歧伯曰夫四末隂陽之㑹者此氣之大絡也四街者氣之徑路也故絡絶則徑通四末解則氣從合相輸如環黄帝曰善此所謂如環無端莫知其紀終而復始此之謂也五味論第六十三黄帝問于少俞曰五味入于口也各有所走各有所病酸走筋多食之令人癃鹹走血多食之令人渇辛走氣多食之令人洞心苦走骨多食之令人變嘔甘走肉多食之令人悗心余知其然也不知其何由願聞其故少俞荅曰酸入于胃其氣澀以收上之兩焦弗能出入也不出即留于胃中胃中和温則下注膀胱膀胱之胞薄以懦}
+  - {type: punctuation, offset: 101, content: ，, id: KR3e0002_CHANT_009-bkkpn24}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3e0002_CHANT_009-1a.26}
+  - {type: variant, offset: 103, length: 0, content: '', SBCK: 酸則縮綣約而不通水道不行故癃隂者積筋之所終也故酸入而走筋矣黄帝曰鹹走血多食之令人渇何也少俞曰鹹入于胃其氣上走中焦注于脉則血氣走之血與鹹相得則凝凝則胃中汁注之注之則胃中竭竭則咽路焦故舌本乾而善渇血脉者中焦之道也故鹹入而走血矣黄帝曰辛走氣多食之令人洞心何也少俞曰辛入于胃其氣走于上焦上焦者受氣而營諸陽者也薑韭之氣薰之營衛之氣不時受之久留心下故洞心辛與氣俱行故辛入而與汗俱出黄帝曰苦走骨多食之令人變嘔何也少俞曰苦入于胃五穀之氣皆不能勝苦苦入下脘三焦之道皆閉而不通故變嘔齒者骨之所終也故苦入而走骨故入而復出知其走骨也黄帝曰甘走肉多食之令人悗心何也少俞曰甘入于胃其氣弱小不能上至于上焦而與穀留于胃中者令人柔潤者也胃柔則緩緩則蟲動蟲動則令人悗心其氣外通於肉故甘走肉隂陽二十五人第六十四黄帝曰余聞隂陽之人何如伯高曰}
+  - {type: page-break, offset: 103, content: '', id: KR3e0002_SBCK_009-14a}
+  - {type: page-break, offset: 103, content: '', id: KR3e0002_SBCK_009-14b}
+  - {type: variant, offset: 103, length: 0, content: '', WYG: 酸則縮綣約而不通水道不行故癃隂者積筋之所終也故酸入而走筋矣黄帝曰鹹走血多食之令人渇何也少俞曰鹹入于胃其氣上走中焦注于脈則血氣走之血與寒相得則凝凝則胃中沐注之注之則胃中竭竭則咽路焦故舌本乾而善渇血脈者中焦之道也故鹹入而走血矣黄帝曰辛走氣多食之令人洞心何也少俞曰辛入于胃其氣走于上焦上焦者受氣而營諸陽者也姜韭之氣薰之營衛之氣不時受之久留心下故洞心辛與氣俱行故辛入而與汗俱出黄帝曰苦走骨多食之令人變嘔何也少俞曰苦入于胃五穀之氣皆不能勝苦苦入下脘三焦之道皆閉而不通故變嘔齒者骨之所終也故苦入而走骨故入而復出知其走骨也黄帝曰甘走肉多食之令人悗心何也少俞曰甘入于胃其氣弱小不能上至于上焦而與穀留于胃中者令人柔潤者也胃柔則緩緩則蟲動蟲動則令人悗心其氣外通于肉故甘走肉隂陽二十五人第六十四黄帝曰余聞隂陽之人何如伯高曰}
+  - {type: page-break, offset: 103, content: '', id: KR3e0002_WYG_009-12a, image: WYG0733/WYG0733-0399a.png}
+  - {type: page-break, offset: 103, content: '', id: KR3e0002_WYG_009-12b, image: WYG0733/WYG0733-0399b.png}
+  - {type: variant, offset: 103, length: 0, content: '', krp: 酸則縮綣約而不通水道不行故癃隂者積筋之所終也故酸入而走筋矣黄帝曰鹹走血多食之令人渇何也少俞曰鹹入于胃其氣上走中焦注于脉則血氣走之血與鹹相得則凝凝則胃中汁注之注之則胃中竭竭則咽路焦故舌本乾而善渇血脉者中焦之道也故鹹入而走血矣黄帝曰辛走氣多食之令人洞心何也少俞曰辛入于胃其氣走于上焦上焦者受氣而營諸陽者也薑韭之氣薰之營衛之氣不時受之久留心下故洞心辛與氣俱行故辛入而與汗俱出黄帝曰苦走骨多食之令人變嘔何也少俞曰苦入于胃五穀之氣皆不能勝苦苦入下脘三焦之道皆閉而不通故變嘔齒者骨之所終也故苦入而走骨故入而復出知其走骨也黄帝曰甘走肉多食之令人悗心何也少俞曰甘入于胃其氣弱小不能上至于上焦而與穀留于胃中者令人柔潤者也胃柔則緩緩則蟲動蟲動則令人悗心其氣外通於肉故甘走肉隂陽二十五人第六十四黄帝曰余聞隂陽之人何如伯高曰}
+  - {type: variant, offset: 104, length: 3, content: 殃謹奉, SBCK: 地之間六合之内不離于五人亦應之故五五二十五人之政而隂陽之人不與焉其態又不合于衆者五余已知之矣願聞二十五人之形血氣之所生别而以候從外知内何如歧伯曰悉乎哉問也此先師之祕也雖伯高猶不能朙之也黄帝避席遵循而却曰余聞之得其人弗教是謂重失得而洩之}
+  - {type: page-break, offset: 104, content: '', id: KR3e0002_SBCK_009-15a}
+  - {type: variant, offset: 104, length: 3, content: 殃謹奉, WYG: 地之間六合之内不離于五人亦應之故五五二十五人之政而隂陽之人不與焉其態又不合于衆者五余已知之矣願聞二十五人之形血氣之所生别而以候從外知内何如岐伯曰悉乎哉問也此先師之秘也雖伯高猶不能明之也黄帝避席遵循而却曰余聞之得其人弗教是謂重失得而洩之}
+  - {type: variant, offset: 104, length: 3, content: 殃謹奉, krp: 地之間六合之内不離于五人亦應之故五五二十五人之政而隂陽之人不與焉其態又不合于衆者五余已知之矣願聞二十五人之形血氣之所生别而以候從外知内何如歧伯曰悉乎哉問也此先師之祕也雖伯高猶不能朙之也黄帝避席遵循而却曰余聞之得其人弗教是謂重失得而洩之}
+  - {type: punctuation, offset: 105, content: 。, id: KR3e0002_CHANT_009-bkkpn25}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3e0002_CHANT_009-1a.27}
+  - {type: variant, offset: 108, length: 1, content: 道, SBCK: 將厭之余願得而朙之金櫃藏之不敢􅀭之歧伯曰先立五形金木水火土别其五色異其五形之人而二十五人具矣黄帝曰願卒聞之歧伯曰慎之慎之臣}
+  - {type: page-break, offset: 108, content: '', id: KR3e0002_SBCK_009-15b}
+  - {type: variant, offset: 108, length: 1, content: 道, WYG: 將厭之余願得而明之金櫃藏之不敢揚之岐伯曰先立五形金木水火土别其五色異其五形之人而二十五人具矣黄帝曰願卒聞之岐伯曰慎之慎之臣}
+  - {type: page-break, offset: 108, content: '', id: KR3e0002_WYG_009-13a, image: WYG0733/WYG0733-0399c.png}
+  - {type: variant, offset: 108, length: 1, content: 道, krp: 將厭之余願得而朙之金櫃藏之不敢揚之歧伯曰先立五形金木水火土别其五色異其五形之人而二十五人具矣黄帝曰願卒聞之歧伯曰慎之慎之臣}
+  - {type: punctuation, offset: 109, content: ，, id: KR3e0002_CHANT_009-bkkpn26}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR3e0002_CHANT_009-1a.28}
+  - {type: variant, offset: 111, length: 4, content: 終始終始, SBCK: 之木形之人比於上角似於蒼帝其為人蒼色小頭長面大肩背直身小手足好有才勞心少力多憂勞於事能春夏不能秋冬感而病生足厥隂佗佗然大角之人比於左足少陽少陽之上遺遺然左角之人比於右足少陽少陽之下隨隨然少角一曰􅎂角之人比於右足少陽少陽之上推推然右角一曰判角之人比於左足少陽少陽之下栝栝然火形之人比於上徵似於赤帝其為人赤色廣䏖脫面小頭好肩背髀腹小手足行安地疾心行摇肩背肉滿有氣輕財少信多慮見事朙好顔急心不壽㬥死能春夏不能秋冬秋冬感而病生手少隂核核然質徵之人比於左手太陽太陽之上肌肌然一曰大徴一曰質之人少徵之人比於右手太陽太陽之下慆慆然右徵之人比於右手太陽太陽之上鮫鮫然熊然一曰熊質判之人比於左手太陽太陽之下支支頤頤然質徴一曰土形之人比於上宫似於上古黄帝其為人黄色圓面大頭美肩背大腹美股脛小手足多肉上下相稱行安地舉足浮安心好利人不喜權勢善附人也能秋冬不能春夏春夏感而病生足太隂敦敦然大宫之人比於左足陽朙陽朙之上婉婉然加宫之人比於左足陽朙陽朙之下坎坎然之人一曰衆少宫之人比於右足陽朙陽朙之上樞樞然左宫之人比於右足陽朙陽朙之下兀兀然曰陽朙之上一曰衆之人一金形之人比於上商似於白帝其爲人方面白色小頭小肩背小腹小手足如骨發踵外骨輕身清亷急心静悍善為吏能秋冬不能春夏春夏感而病生手太隂敦敦然􅎂商之人比於左手陽朙陽朙之上廉廉然右商之人比於左手陽朙陽朙之下脫脫然大商之人比於右手陽朙陽朙之上監監然少商之人比於右手陽朙陽朙之下嚴嚴然水形之人比於上羽似於黑帝其為人黒色面不平大頭廉頤小肩大腹動手足發行摇身下尻長背延延然不敬畏善欺給人戮死能秋冬不能春夏春夏感而病生足少隂汗汗然大羽之人比於右足太陽太陽之上頰頰然少羽之人比於左足太陽太陽之下紆紆然衆之為人比於右足太陽太陽之下潔潔然之人一曰加桎之為人比於左足太陽太陽之上安安然是故五形之人二十五變}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_SBCK_009-16a}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_SBCK_009-16b}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_SBCK_009-17a}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_SBCK_009-17b}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_SBCK_009-18a}
+  - {type: variant, offset: 111, length: 4, content: 終始終始, WYG: 之木形之人比於上角似於蒼帝其為人蒼色小頭長面大肩背直身小手足好有才勞心少力多憂勞于事能春夏不能秋冬感而病生足厥隂佗佗然大角之人比於左足少陽少陽之上遺遺然左角之人比於右足少陽少陽之下隨隨然一曰少角釱角之人比於右足少陽少陽之上推推然一曰右角判角之人比於左足少陽少陽之下括括然火形之人比於上徵似於赤帝其為人赤色廣䏖脫面小頭好肩背髀腹小手足行安地疾心行摇肩背肉滿有氣輕財少信多慮見事明好顔急心不壽暴死能春夏不能秋冬秋冬感而病生手少隂核核然質徵之人比於左手太陽太陽之上肌肌然一曰質之人一曰大徵少徵之人比於左手太陽太陽之下慆慆然右徵之人比於右手太陽太陽之上鮫鮫然一曰熊熊然質判之人比於左手太陽太陽之下支支頥頥然一曰質徵土形之人比於上宫似於上古黄帝其為人黄色圓面大頭美肩背大腹美股脛小手足多肉上下相稱行安地舉足浮安心好利人不喜權勢善附人也能秋冬不能春夏春夏感而病生足太隂敦敦然大宫之人比於左足陽明陽明之上婉婉然加宫之人比於左足陽明陽明之下坎坎然一曰衆之人少宫之人比於右足陽明陽明之上樞樞然左宫之人比於右足陽明陽明之下兀兀然一曰衆之人一曰陽明之上金形之人比於上商似於白帝其為人方面白色小頭小肩背小腹小手足如骨發踵外骨輕身清亷急心静悍善為吏能秋冬不能春夏春夏感而病生手太隂敦敦然釱商之人比於左手陽明陽明之上廉廉然左商之人比于左手陽明陽明之下脫脫然右商之人比於右手陽明陽明之上監監然小商之人比於右手陽明陽明之下嚴嚴然水形之人比於上羽似於黑帝其為人黒色面不平大頭廉頤小肩大腹動手足發行摇身下尻長背延延然不敬畏善欺給人戮死能秋冬不能春夏春夏感而病生足少隂汙汙然大羽之人比於右足太陽太陽之上頰頰然小羽之人比於左足大陽大陽之下紆紆然衆之為人比于右足太陽太陽之下潔潔然一曰加之人桎之為人比於左足大陽大陽之上安安然是故五形之人二十五變}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_WYG_009-13b, image: WYG0733/WYG0733-0399d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_WYG_009-14a, image: WYG0733/WYG0733-0400a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_WYG_009-14b, image: WYG0733/WYG0733-0400b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3e0002_WYG_009-15a, image: WYG0733/WYG0733-0400c.png}
+  - {type: variant, offset: 111, length: 4, content: 終始終始, krp: 之木形之人比於上角似於蒼帝其為人蒼色小頭長面大肩背直身小手足好有才勞心少力多憂勞於事能春夏不能秋冬感而病生足厥隂佗佗然大角之人比於左足少陽少陽之上遺遺然左角之人比於右足少陽少陽之下隨隨然少角一曰􅎂角之人比於右足少陽少陽之上推推然右角一曰判角之人比於左足少陽少陽之下栝栝然火形之人比於上徵似於赤帝其為人赤色廣䏖脫面小頭好肩背髀腹小手足行安地疾心行摇肩背肉滿有氣輕財少信多慮見事朙好顔急心不壽㬥死能春夏不能秋冬秋冬感而病生手少隂核核然質徵之人比於左手太陽太陽之上肌肌然一曰大徴一曰質之人少徵之人比於右手太陽太陽之下慆慆然右徵之人比於右手太陽太陽之上鮫鮫然熊然一曰熊質判之人比於左手太陽太陽之下支支頤頤然質徴一曰土形之人比於上宫似於上古黄帝其為人黄色圓面大頭美肩背大腹美股脛小手足多肉上下相稱行安地舉足浮安心好利人不喜權勢善附人也能秋冬不能春夏春夏感而病生足太隂敦敦然大宫之人比於左足陽朙陽朙之上婉婉然加宫之人比於左足陽朙陽朙之下坎坎然之人一曰衆少宫之人比於右足陽朙陽朙之上樞樞然左宫之人比於右足陽朙陽朙之下兀兀然曰陽朙之上一曰衆之人一金形之人比於上商似於白帝其爲人方面白色小頭小肩背小腹小手足如骨發踵外骨輕身清亷急心静悍善為吏能秋冬不能春夏春夏感而病生手太隂敦敦然􅎂商之人比於左手陽朙陽朙之上廉廉然右商之人比於左手陽朙陽朙之下脫脫然大商之人比於右手陽朙陽朙之上監監然少商之人比於右手陽朙陽朙之下嚴嚴然水形之人比於上羽似於黑帝其為人黒色面不平大頭廉頤小肩大腹動手足發行摇身下尻長背延延然不敬畏善欺給人戮死能秋冬不能春夏春夏感而病生足少隂汗汗然大羽之人比於右足太陽太陽之上頰頰然少羽之人比於左足太陽太陽之下紆紆然衆之為人比於右足太陽太陽之下潔潔然之人一曰加桎之為人比於左足太陽太陽之上安安然是故五形之人二十五變}
+  - {type: punctuation, offset: 113, content: 。, id: KR3e0002_CHANT_009-bkkpn27}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3e0002_CHANT_009-1a.29}
+  - {type: punctuation, offset: 116, content: ，, id: KR3e0002_CHANT_009-bkkpn28}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR3e0002_CHANT_009-1a.30}
+  - {type: variant, offset: 116, length: 2, content: 經脈, SBCK: 衆之所以相欺者是也黄帝曰得其形不得其色何如歧伯曰形勝色色勝形者至其勝時年加感則病行失則憂矣形色相得者富貴大樂黄帝曰其形色相勝之時年加可知乎歧伯曰凡年忌下上之人大忌常加七歲十六歳二十五歲三十四歳四十三歳五十二歳六十一歲皆人之大忌不可不自安也感則病行失則憂矣當此之時無}
+  - {type: page-break, offset: 116, content: '', id: KR3e0002_SBCK_009-18b}
+  - {type: variant, offset: 116, length: 1, content: 經, WYG: 衆之所以相欺者是也黄帝曰得其形不得其色何如岐伯曰形勝色色勝形者至其勝時年加感則病行失則憂矣形色相得者富貴大樂黄帝曰其形色相勝之時年加可知乎岐伯曰凡年忌下上之人大忌常加七歲十六歳二十五歲三十四歳四十三歳五十二歳六十一歲皆人之大忌不可不自安也感則病行失則憂矣當此之時無為姦事是謂年忌黄帝曰夫子之言}
+  - {type: page-break, offset: 116, content: '', id: KR3e0002_WYG_009-15b, image: WYG0733/WYG0733-0400d.png}
+  - {type: variant, offset: 116, length: 2, content: 經脈, krp: 衆之所以相欺者是也黄帝曰得其形不得其色何如歧伯曰形勝色色勝形者至其勝時年加感則病行失則憂矣形色相得者富貴大樂黄帝曰其形色相勝之時年加可知乎歧伯曰凡年忌下上之人大忌常加七歲十六歳二十五歲三十四歳四十三歳五十二歳六十一歲皆人之大忌不可不自安也感則病行失則憂矣當此之時無}
+  - {type: variant, offset: 118, length: 3, content: 為紀持, WYG: 之上下血氣之候以知形氣奈何岐伯曰足陽明之上血氣盛則髯美長血少氣多則髯短故氣少血多則髯少血氣皆少則無髯兩吻多畫足陽明之下血氣盛則下毛美長至胷血多氣少則下毛美短至臍行則善高舉足足指少肉足善寒血少氣多則肉而善􅏿血氣皆少則無毛有則稀枯悴善痿厥足痺足少陽之上氣血盛則通髯美長血多氣少則通髯美短血少氣多則少髯血氣皆少則無􅂡感於寒濕則善痺骨痛爪枯也足少陽之下血氣盛則脛毛美長外踝肥血多氣少則輕毛美短外踝皮堅而厚血少氣多則胻毛少外踝皮薄而軟血氣皆少則無毛外踝瘦無肉足太陽之上血氣盛則美眉眉有毫毛血多氣少則惡眉面多少理血少氣多則面多肉血氣和則美色足太隂之下血氣盛則跟肉滿踵堅氣少血多則瘦跟空血氣皆少則喜轉筋踵下痛手陽明之上血氣盛則髭美血少氣多則髭惡血氣皆少則無髭手陽明之下血氣盛則腋下毛美手魚肉以温血氣皆少則手瘦以寒手少陽之上血氣盛則眉美以長耳色美血氣皆少則耳焦惡色手少陽之下血氣盛則手捲多肉以温血氣皆少則寒以瘦氣少血多則瘦以多脈手太陽之上血氣盛則有多鬚面多肉以平血氣皆少則面瘦惡色手太陽之下血氣盛則掌肉充滿血氣皆少則掌瘦以寒黄帝曰二十五人者刺之有約乎岐伯曰美眉者足太陽之脈氣血多惡眉者血氣少}
+  - {type: page-break, offset: 118, content: '', id: KR3e0002_WYG_009-16a, image: WYG0733/WYG0733-0401a.png}
+  - {type: page-break, offset: 118, content: '', id: KR3e0002_WYG_009-16b, image: WYG0733/WYG0733-0401b.png}
+  - {type: page-break, offset: 118, content: '', id: KR3e0002_WYG_009-17a, image: WYG0733/WYG0733-0401c.png}
+  - {type: variant, offset: 119, length: 2, content: 紀持, SBCK: 姦事是謂年忌黄帝曰夫子之言脉之上下血氣之候以知形氣奈何歧伯曰足陽朙之上血氣盛則髯美長血少氣多則髯短故氣少血多則髯少血氣皆少則無髯兩吻多畫足陽朙之下血氣盛則下毛美長至胷血多氣少則下毛美短至臍行則善高舉足足指少肉足善寒血少氣多則肉而善􅏿血氣皆少則無毛有則稀枯悴善痿厥足痺足少陽之上氣血盛則通髯美長血多氣少則通髯美短血少氣多則少髯血氣皆少則無鬚感於寒濕則善痺骨痛爪枯也足少陽之下血氣盛則脛毛美長外踝肥血多氣少則脛毛美短外踝皮堅而厚血少氣多則胻毛少外踝皮薄而軟血氣皆少則無毛外踝瘦無肉足太陽之上血氣盛則美眉眉有毫毛血多氣少則惡眉面多少理血少氣多則面多肉血氣和則美色足太隂之下血氣盛則跟肉滿踵堅氣少血多則瘦跟空血氣皆少則喜轉筋踵下痛手陽朙之上血氣盛則髭美血少氣多則髭惡血氣皆少則無髭手陽朙之下血氣盛則腋下毛美手魚肉以温氣血皆少則手瘦以寒手少陽之上血氣盛則眉美以長耳色美血氣皆少則耳焦惡色手少陽之下血氣盛則手捲多肉以温血氣皆少則寒以瘦氣少血多則瘦以多脉手太陽之上血氣盛則有多鬚面多肉以平血氣皆少則面瘦惡色手太陽之下血氣盛則掌肉充滿血氣皆少則掌瘦以寒黄帝曰二十五人者刺之有約乎歧伯曰美眉者足太陽之脉氣血多惡眉者血氣少}
+  - {type: page-break, offset: 119, content: '', id: KR3e0002_SBCK_009-19a}
+  - {type: page-break, offset: 119, content: '', id: KR3e0002_SBCK_009-19b}
+  - {type: page-break, offset: 119, content: '', id: KR3e0002_SBCK_009-20a}
+  - {type: page-break, offset: 119, content: '', id: KR3e0002_SBCK_009-20b}
+  - {type: variant, offset: 119, length: 2, content: 紀持, krp: 姦事是謂年忌黄帝曰夫子之言脉之上下血氣之候以知形氣奈何歧伯曰足陽朙之上血氣盛則髯美長血少氣多則髯短故氣少血多則髯少血氣皆少則無髯兩吻多畫足陽朙之下血氣盛則下毛美長至胷血多氣少則下毛美短至臍行則善高舉足足指少肉足善寒血少氣多則肉而善瘃血氣皆少則無毛有則稀枯悴善痿厥足痺足少陽之上氣血盛則通髯美長血多氣少則通髯美短血少氣多則少髯血氣皆少則無鬚感於寒濕則善痺骨痛爪枯也足少陽之下血氣盛則脛毛美長外踝肥血多氣少則脛毛美短外踝皮堅而厚血少氣多則胻毛少外踝皮薄而軟血氣皆少則無毛外踝瘦無肉足太陽之上血氣盛則美眉眉有毫毛血多氣少則惡眉面多少理血少氣多則面多肉血氣和則美色足太隂之下血氣盛則跟肉滿踵堅氣少血多則瘦跟空血氣皆少則喜轉筋踵下痛手陽朙之上血氣盛則髭美血少氣多則髭惡血氣皆少則無髭手陽朙之下血氣盛則腋下毛美手魚肉以温氣血皆少則手瘦以寒手少陽之上血氣盛則眉美以長耳色美血氣皆少則耳焦惡色手少陽之下血氣盛則手捲多肉以温血氣皆少則寒以瘦氣少血多則瘦以多脉手太陽之上血氣盛則有多鬚面多肉以平血氣皆少則面瘦惡色手太陽之下血氣盛則掌肉充滿血氣皆少則掌瘦以寒黄帝曰二十五人者刺之有約乎歧伯曰美眉者足太陽之脉氣血多惡眉者血氣少}
+  - {type: punctuation, offset: 120, content: 。, id: KR3e0002_CHANT_009-bkkpn29}
+  - {type: 'tls:seg', offset: 120, content: '', id: KR3e0002_CHANT_009-1a.31}
+  - {type: variant, offset: 122, length: 1, content: 脈, SBCK: 肥而澤者血氣有餘肥而不澤者氣有餘血不足瘦而無澤者氣血俱不足審察其形氣有餘不足而調之可以知逆順矣黄帝曰刺其諸隂陽奈何歧伯曰按其寸}
+  - {type: page-break, offset: 122, content: '', id: KR3e0002_SBCK_009-21a}
+  - {type: variant, offset: 122, length: 1, content: 脈, WYG: 肥而澤者血氣有餘肥而不澤者氣有餘血不足瘦而无澤者氣血俱不足審察其形氣有餘不足而調之可以知逆順矣黄帝曰刺其諸隂陽奈何岐伯曰按其寸}
+  - {type: variant, offset: 122, length: 1, content: 脈, krp: 肥而澤者血氣有餘肥而不澤者氣有餘血不足瘦而無澤者氣血俱不足審察其形氣有餘不足而調之可以知逆順矣黄帝曰刺其諸隂陽奈何歧伯曰按其寸}
+  - {type: punctuation, offset: 126, content: ，, id: KR3e0002_CHANT_009-bkkpn30}
+  - {type: 'tls:seg', offset: 126, content: '', id: KR3e0002_CHANT_009-1a.32}
+  - {type: variant, offset: 127, length: 1, content: 知, SBCK: 調}
+  - {type: variant, offset: 127, length: 1, content: 知, WYG: 調}
+  - {type: variant, offset: 127, length: 1, content: 知, krp: 調}
+  - {type: variant, offset: 128, length: 1, content: 陰, SBCK: 隂}
+  - {type: variant, offset: 128, length: 1, content: 陰, WYG: 隂}
+  - {type: variant, offset: 128, length: 1, content: 陰, krp: 隂}
+  - {type: variant, offset: 130, length: 0, content: '', SBCK: 切循其經絡之凝濇結而不通者此於身皆為痛痺甚則不行故凝濇凝濇者致氣以温之血和乃止其結絡者脉結血不和決之乃行故曰氣}
+  - {type: variant, offset: 130, length: 0, content: '', WYG: 切循其經絡之凝濇結而不通者此於身皆為痛痺甚則不行故凝濇凝濇者致氣以温之血和乃止其結絡者脈結濇不和決之乃行故曰氣}
+  - {type: page-break, offset: 130, content: '', id: KR3e0002_WYG_009-17b, image: WYG0733/WYG0733-0401d.png}
+  - {type: variant, offset: 130, length: 0, content: '', krp: 切循其經絡之凝濇結而不通者此於身皆為痛痺甚則不行故凝濇凝濇者致氣以温之血和乃止其結絡者脉結血不和決之乃行故曰氣}
+  - {type: variant, offset: 132, length: 0, content: '', SBCK: 於上者導而下之氣}
+  - {type: variant, offset: 132, length: 0, content: '', WYG: 于上者導而下之氣}
+  - {type: variant, offset: 132, length: 0, content: '', krp: 於上者導而下之氣}
+  - {type: punctuation, offset: 134, content: ，, id: KR3e0002_CHANT_009-bkkpn31}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR3e0002_CHANT_009-1a.33}
+  - {type: variant, offset: 134, length: 2, content: 平與, SBCK: 於上者推而休之其稽留}
+  - {type: variant, offset: 134, length: 2, content: 平與, WYG: 於上者推而休之其稽留}
+  - {type: variant, offset: 134, length: 2, content: 平與, krp: 於上者推而休之其稽留}
+  - {type: variant, offset: 137, length: 108, content: 平天道畢矣所謂平人者不病不病者脈口人迎應四時也上下相應而俱往來也六經之脈不結動也本末之寒溫之相守司也形肉血氣必相稱也是謂平人少氣者脈口人迎俱少而不稱尺寸也如是者則陰陽俱不足補陽則陰竭寫陰則陽脫如是者可將以甘藥不可飲以, SBCK: ''}
+  - {type: variant, offset: 137, length: 108, content: 平天道畢矣所謂平人者不病不病者脈口人迎應四時也上下相應而俱往來也六經之脈不結動也本末之寒溫之相守司也形肉血氣必相稱也是謂平人少氣者脈口人迎俱少而不稱尺寸也如是者則陰陽俱不足補陽則陰竭寫陰則陽脫如是者可將以甘藥不可飲以, WYG: ''}
+  - {type: variant, offset: 137, length: 108, content: 平天道畢矣所謂平人者不病不病者脈口人迎應四時也上下相應而俱往來也六經之脈不結動也本末之寒溫之相守司也形肉血氣必相稱也是謂平人少氣者脈口人迎俱少而不稱尺寸也如是者則陰陽俱不足補陽則陰竭寫陰則陽脫如是者可將以甘藥不可飲以, krp: ''}
+  - {type: punctuation, offset: 138, content: ，, id: KR3e0002_CHANT_009-bkkpn32}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR3e0002_CHANT_009-1a.34}
+  - {type: punctuation, offset: 142, content: 。, id: KR3e0002_CHANT_009-bkkpn33}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR3e0002_CHANT_009-1a.35}
+  - {type: punctuation, offset: 149, content: ，, id: KR3e0002_CHANT_009-bkkpn34}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR3e0002_CHANT_009-1a.36}
+  - {type: punctuation, offset: 152, content: ，, id: KR3e0002_CHANT_009-bkkpn35}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR3e0002_CHANT_009-1a.37}
+  - {type: punctuation, offset: 160, content: ，, id: KR3e0002_CHANT_009-bkkpn36}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR3e0002_CHANT_009-1a.38}
+  - {type: punctuation, offset: 169, content: ，, id: KR3e0002_CHANT_009-bkkpn37}
+  - {type: 'tls:seg', offset: 169, content: '', id: KR3e0002_CHANT_009-1a.39}
+  - {type: punctuation, offset: 177, content: ，, id: KR3e0002_CHANT_009-bkkpn38}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR3e0002_CHANT_009-1a.40}
+  - {type: punctuation, offset: 187, content: ，, id: KR3e0002_CHANT_009-bkkpn39}
+  - {type: 'tls:seg', offset: 187, content: '', id: KR3e0002_CHANT_009-1a.41}
+  - {type: punctuation, offset: 195, content: ，, id: KR3e0002_CHANT_009-bkkpn40}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR3e0002_CHANT_009-1a.42}
+  - {type: punctuation, offset: 199, content: 。, id: KR3e0002_CHANT_009-bkkpn41}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR3e0002_CHANT_009-1a.43}
+  - {type: punctuation, offset: 202, content: ，, id: KR3e0002_CHANT_009-bkkpn42}
+  - {type: 'tls:seg', offset: 202, content: '', id: KR3e0002_CHANT_009-1a.44}
+  - {type: punctuation, offset: 214, content: 。, id: KR3e0002_CHANT_009-bkkpn43}
+  - {type: 'tls:seg', offset: 214, content: '', id: KR3e0002_CHANT_009-1a.45}
+  - {type: punctuation, offset: 217, content: ，, id: KR3e0002_CHANT_009-bkkpn44}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR3e0002_CHANT_009-1a.46}
+  - {type: punctuation, offset: 223, content: ，, id: KR3e0002_CHANT_009-bkkpn45}
+  - {type: 'tls:seg', offset: 223, content: '', id: KR3e0002_CHANT_009-1a.47}
+  - {type: punctuation, offset: 228, content: ，, id: KR3e0002_CHANT_009-bkkpn46}
+  - {type: 'tls:seg', offset: 228, content: '', id: KR3e0002_CHANT_009-1a.48}
+  - {type: punctuation, offset: 233, content: 。, id: KR3e0002_CHANT_009-bkkpn47}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3e0002_CHANT_009-1a.49}
+  - {type: punctuation, offset: 236, content: ，, id: KR3e0002_CHANT_009-bkkpn48}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR3e0002_CHANT_009-1a.50}
+  - {type: punctuation, offset: 241, content: ，, id: KR3e0002_CHANT_009-bkkpn49}
+  - {type: 'tls:seg', offset: 241, content: '', id: KR3e0002_CHANT_009-1a.51}
+  - {type: variant, offset: 246, length: 8, content: 劑如此者弗炙不已, SBCK: ''}
+  - {type: variant, offset: 246, length: 8, content: 劑如此者弗炙不已, WYG: ''}
+  - {type: variant, offset: 246, length: 8, content: 劑如此者弗炙不已, krp: ''}
+  - {type: punctuation, offset: 247, content: 。, id: KR3e0002_CHANT_009-bkkpn50}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR3e0002_CHANT_009-1a.52}
+  - {type: punctuation, offset: 250, content: ，, id: KR3e0002_CHANT_009-bkkpn51}
+  - {type: 'tls:seg', offset: 250, content: '', id: KR3e0002_CHANT_009-1a.53}
+  - {type: punctuation, offset: 252, content: 。, id: KR3e0002_CHANT_009-bkkpn52}
+  - {type: 'tls:seg', offset: 252, content: '', id: KR3e0002_CHANT_009-1a.54}
+  - {type: punctuation, offset: 255, content: ，, id: KR3e0002_CHANT_009-bkkpn53}
+  - {type: 'tls:seg', offset: 255, content: '', id: KR3e0002_CHANT_009-1a.55}
+  - {type: variant, offset: 257, length: 9, content: 寫之則五藏氣壞矣人, SBCK: ''}
+  - {type: variant, offset: 257, length: 9, content: 寫之則五藏氣壞矣人, WYG: ''}
+  - {type: variant, offset: 257, length: 9, content: 寫之則五藏氣壞矣人, krp: ''}
+  - {type: punctuation, offset: 259, content: ，, id: KR3e0002_CHANT_009-bkkpn54}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR3e0002_CHANT_009-1a.56}
+  - {type: punctuation, offset: 265, content: 。, id: KR3e0002_CHANT_009-bkkpn55}
+  - {type: xml-element, offset: 265, content: '', id: KR3e0002_CHANT_009-bkkxmlele4}
+  - {type: xml-element, offset: 265, content: '', id: KR3e0002_CHANT_009-bkkxmlele5}
+  - {type: 'tls:seg', offset: 265, content: '', id: KR3e0002_CHANT_009-2a.1}
+  - {type: 'tls:seg', offset: 265, content: '', id: KR3e0002_CHANT_009-2a.2}
+  - {type: 'tls:seg', offset: 265, content: '', id: KR3e0002_CHANT_009-2a.3}
+  - {type: variant, offset: 267, length: 191, content: 一盛病在足少陽一盛而躁病在手少陽人迎二盛病在足太陽二盛而躁病在手太陽人迎三盛病在足陽明三盛而躁病在手陽明人迎四盛且大且數名曰溢陽溢陽為外格脈口一盛病在足厥陰厥陰一盛而躁在手心主脈口二盛病在足少陰二盛而躁在手少陰脈口三盛病在足太陰三盛而躁在手太陰脈口四盛且大且數者名曰溢陰溢陰為內關內關不通死不治人迎與太陰脈口俱盛四倍以上命曰關格關格者與之短期人迎一盛寫足少陽而補足厥陰二寫一補日一取, SBCK: ''}
+  - {type: variant, offset: 267, length: 191, content: 一盛病在足少陽一盛而躁病在手少陽人迎二盛病在足太陽二盛而躁病在手太陽人迎三盛病在足陽明三盛而躁病在手陽明人迎四盛且大且數名曰溢陽溢陽為外格脈口一盛病在足厥陰厥陰一盛而躁在手心主脈口二盛病在足少陰二盛而躁在手少陰脈口三盛病在足太陰三盛而躁在手太陰脈口四盛且大且數者名曰溢陰溢陰為內關內關不通死不治人迎與太陰脈口俱盛四倍以上命曰關格關格者與之短期人迎一盛寫足少陽而補足厥陰二寫一補日一取, WYG: ''}
+  - {type: variant, offset: 267, length: 191, content: 一盛病在足少陽一盛而躁病在手少陽人迎二盛病在足太陽二盛而躁病在手太陽人迎三盛病在足陽明三盛而躁病在手陽明人迎四盛且大且數名曰溢陽溢陽為外格脈口一盛病在足厥陰厥陰一盛而躁在手心主脈口二盛病在足少陰二盛而躁在手少陰脈口三盛病在足太陰三盛而躁在手太陰脈口四盛且大且數者名曰溢陰溢陰為內關內關不通死不治人迎與太陰脈口俱盛四倍以上命曰關格關格者與之短期人迎一盛寫足少陽而補足厥陰二寫一補日一取, krp: ''}
+  - {type: punctuation, offset: 269, content: ，, id: KR3e0002_CHANT_009-bkkpn56}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR3e0002_CHANT_009-2a.4}
+  - {type: punctuation, offset: 274, content: ，, id: KR3e0002_CHANT_009-bkkpn57}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR3e0002_CHANT_009-2a.5}
+  - {type: punctuation, offset: 278, content: ，, id: KR3e0002_CHANT_009-bkkpn58}
+  - {type: 'tls:seg', offset: 278, content: '', id: KR3e0002_CHANT_009-2a.6}
+  - {type: punctuation, offset: 283, content: 。, id: KR3e0002_CHANT_009-bkkpn59}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR3e0002_CHANT_009-2a.7}
+  - {type: punctuation, offset: 287, content: ，, id: KR3e0002_CHANT_009-bkkpn60}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR3e0002_CHANT_009-2a.8}
+  - {type: punctuation, offset: 292, content: ，, id: KR3e0002_CHANT_009-bkkpn61}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR3e0002_CHANT_009-2a.9}
+  - {type: punctuation, offset: 296, content: ，, id: KR3e0002_CHANT_009-bkkpn62}
+  - {type: 'tls:seg', offset: 296, content: '', id: KR3e0002_CHANT_009-2a.10}
+  - {type: punctuation, offset: 301, content: 。, id: KR3e0002_CHANT_009-bkkpn63}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR3e0002_CHANT_009-2a.11}
+  - {type: punctuation, offset: 305, content: ，, id: KR3e0002_CHANT_009-bkkpn64}
+  - {type: 'tls:seg', offset: 305, content: '', id: KR3e0002_CHANT_009-2a.12}
+  - {type: punctuation, offset: 310, content: ，, id: KR3e0002_CHANT_009-bkkpn65}
+  - {type: 'tls:seg', offset: 310, content: '', id: KR3e0002_CHANT_009-2a.13}
+  - {type: punctuation, offset: 314, content: ，, id: KR3e0002_CHANT_009-bkkpn66}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR3e0002_CHANT_009-2a.14}
+  - {type: punctuation, offset: 319, content: 。, id: KR3e0002_CHANT_009-bkkpn67}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR3e0002_CHANT_009-2a.15}
+  - {type: punctuation, offset: 323, content: ，, id: KR3e0002_CHANT_009-bkkpn68}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR3e0002_CHANT_009-2a.16}
+  - {type: punctuation, offset: 327, content: ，, id: KR3e0002_CHANT_009-bkkpn69}
+  - {type: 'tls:seg', offset: 327, content: '', id: KR3e0002_CHANT_009-2a.17}
+  - {type: punctuation, offset: 331, content: ，, id: KR3e0002_CHANT_009-bkkpn70}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR3e0002_CHANT_009-2a.18}
+  - {type: punctuation, offset: 336, content: 。, id: KR3e0002_CHANT_009-bkkpn71}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR3e0002_CHANT_009-2a.19}
+  - {type: punctuation, offset: 340, content: ，, id: KR3e0002_CHANT_009-bkkpn72}
+  - {type: 'tls:seg', offset: 340, content: '', id: KR3e0002_CHANT_009-2a.20}
+  - {type: punctuation, offset: 345, content: ，, id: KR3e0002_CHANT_009-bkkpn73}
+  - {type: 'tls:seg', offset: 345, content: '', id: KR3e0002_CHANT_009-2a.21}
+  - {type: punctuation, offset: 351, content: ，, id: KR3e0002_CHANT_009-bkkpn74}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR3e0002_CHANT_009-2a.22}
+  - {type: punctuation, offset: 355, content: 。, id: KR3e0002_CHANT_009-bkkpn75}
+  - {type: 'tls:seg', offset: 355, content: '', id: KR3e0002_CHANT_009-2a.23}
+  - {type: punctuation, offset: 359, content: ，, id: KR3e0002_CHANT_009-bkkpn76}
+  - {type: 'tls:seg', offset: 359, content: '', id: KR3e0002_CHANT_009-2a.24}
+  - {type: punctuation, offset: 364, content: ，, id: KR3e0002_CHANT_009-bkkpn77}
+  - {type: 'tls:seg', offset: 364, content: '', id: KR3e0002_CHANT_009-2a.25}
+  - {type: punctuation, offset: 368, content: ，, id: KR3e0002_CHANT_009-bkkpn78}
+  - {type: 'tls:seg', offset: 368, content: '', id: KR3e0002_CHANT_009-2a.26}
+  - {type: punctuation, offset: 372, content: 。, id: KR3e0002_CHANT_009-bkkpn79}
+  - {type: 'tls:seg', offset: 372, content: '', id: KR3e0002_CHANT_009-2a.27}
+  - {type: punctuation, offset: 376, content: ，, id: KR3e0002_CHANT_009-bkkpn80}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR3e0002_CHANT_009-2a.28}
+  - {type: punctuation, offset: 381, content: ，, id: KR3e0002_CHANT_009-bkkpn81}
+  - {type: 'tls:seg', offset: 381, content: '', id: KR3e0002_CHANT_009-2a.29}
+  - {type: punctuation, offset: 385, content: ，, id: KR3e0002_CHANT_009-bkkpn82}
+  - {type: 'tls:seg', offset: 385, content: '', id: KR3e0002_CHANT_009-2a.30}
+  - {type: punctuation, offset: 389, content: 。, id: KR3e0002_CHANT_009-bkkpn83}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR3e0002_CHANT_009-2a.31}
+  - {type: punctuation, offset: 393, content: ，, id: KR3e0002_CHANT_009-bkkpn84}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR3e0002_CHANT_009-2a.32}
+  - {type: punctuation, offset: 398, content: ，, id: KR3e0002_CHANT_009-bkkpn85}
+  - {type: 'tls:seg', offset: 398, content: '', id: KR3e0002_CHANT_009-2a.33}
+  - {type: punctuation, offset: 402, content: ，, id: KR3e0002_CHANT_009-bkkpn86}
+  - {type: 'tls:seg', offset: 402, content: '', id: KR3e0002_CHANT_009-2a.34}
+  - {type: punctuation, offset: 407, content: ，, id: KR3e0002_CHANT_009-bkkpn87}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR3e0002_CHANT_009-2a.35}
+  - {type: punctuation, offset: 411, content: ，, id: KR3e0002_CHANT_009-bkkpn88}
+  - {type: 'tls:seg', offset: 411, content: '', id: KR3e0002_CHANT_009-2a.36}
+  - {type: punctuation, offset: 414, content: 。, id: KR3e0002_CHANT_009-bkkpn89}
+  - {type: 'tls:seg', offset: 414, content: '', id: KR3e0002_CHANT_009-2a.37}
+  - {type: punctuation, offset: 427, content: ，, id: KR3e0002_CHANT_009-bkkpn90}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR3e0002_CHANT_009-2a.38}
+  - {type: punctuation, offset: 431, content: ，, id: KR3e0002_CHANT_009-bkkpn91}
+  - {type: 'tls:seg', offset: 431, content: '', id: KR3e0002_CHANT_009-2a.39}
+  - {type: punctuation, offset: 434, content: ，, id: KR3e0002_CHANT_009-bkkpn92}
+  - {type: 'tls:seg', offset: 434, content: '', id: KR3e0002_CHANT_009-2a.40}
+  - {type: punctuation, offset: 438, content: 。, id: KR3e0002_CHANT_009-bkkpn93}
+  - {type: 'tls:seg', offset: 438, content: '', id: KR3e0002_CHANT_009-2a.41}
+  - {type: punctuation, offset: 442, content: ，, id: KR3e0002_CHANT_009-bkkpn94}
+  - {type: 'tls:seg', offset: 442, content: '', id: KR3e0002_CHANT_009-2a.42}
+  - {type: punctuation, offset: 451, content: ，, id: KR3e0002_CHANT_009-bkkpn95}
+  - {type: 'tls:seg', offset: 451, content: '', id: KR3e0002_CHANT_009-2a.43}
+  - {type: punctuation, offset: 455, content: ，, id: KR3e0002_CHANT_009-bkkpn96}
+  - {type: 'tls:seg', offset: 455, content: '', id: KR3e0002_CHANT_009-2a.44}
+  - {type: punctuation, offset: 459, content: ，, id: KR3e0002_CHANT_009-bkkpn97}
+  - {type: 'tls:seg', offset: 459, content: '', id: KR3e0002_CHANT_009-2a.45}
+  - {type: variant, offset: 460, length: 1, content: 切, SBCK: 朙於經隧乃能待之寒與熱争者導}
+  - {type: variant, offset: 460, length: 1, content: 切, WYG: 明於經隧乃能待之寒與熱争者導}
+  - {type: variant, offset: 460, length: 1, content: 切, krp: 朙於經隧乃能待之寒與熱争者導}
+  - {type: variant, offset: 462, length: 235, content: 驗之疎取之上氣和乃止人迎二盛寫足太陽補足少陰二寫一補二日一取之必切而驗之疎取之上氣和乃止人迎三盛寫足陽明而補足太陰二寫一補日二取之必切而驗之疎取之上氣和乃止脈口一盛寫足厥陰而補足少陽二補一寫日一取之必切而驗之疎而取上氣和乃止脈口二盛寫足少陰而補足太陽二補一寫二日一取之必切而驗之疎取之上氣和乃止脈口三盛寫足太陰而補足陽明二補一寫日二取之必切而驗之疎而取之上氣和乃止所以日二取之者太陽主胃大富于穀氣故可日二取之也人迎與脈口俱盛三倍以上命曰陰陽俱溢如是者不開則血脈閉塞氣無所, SBCK: ''}
+  - {type: variant, offset: 462, length: 235, content: 驗之疎取之上氣和乃止人迎二盛寫足太陽補足少陰二寫一補二日一取之必切而驗之疎取之上氣和乃止人迎三盛寫足陽明而補足太陰二寫一補日二取之必切而驗之疎取之上氣和乃止脈口一盛寫足厥陰而補足少陽二補一寫日一取之必切而驗之疎而取上氣和乃止脈口二盛寫足少陰而補足太陽二補一寫二日一取之必切而驗之疎取之上氣和乃止脈口三盛寫足太陰而補足陽明二補一寫日二取之必切而驗之疎而取之上氣和乃止所以日二取之者太陽主胃大富于穀氣故可日二取之也人迎與脈口俱盛三倍以上命曰陰陽俱溢如是者不開則血脈閉塞氣無所, WYG: ''}
+  - {type: variant, offset: 462, length: 235, content: 驗之疎取之上氣和乃止人迎二盛寫足太陽補足少陰二寫一補二日一取之必切而驗之疎取之上氣和乃止人迎三盛寫足陽明而補足太陰二寫一補日二取之必切而驗之疎取之上氣和乃止脈口一盛寫足厥陰而補足少陽二補一寫日一取之必切而驗之疎而取上氣和乃止脈口二盛寫足少陰而補足太陽二補一寫二日一取之必切而驗之疎取之上氣和乃止脈口三盛寫足太陰而補足陽明二補一寫日二取之必切而驗之疎而取之上氣和乃止所以日二取之者太陽主胃大富于穀氣故可日二取之也人迎與脈口俱盛三倍以上命曰陰陽俱溢如是者不開則血脈閉塞氣無所, krp: ''}
+  - {type: punctuation, offset: 464, content: ，, id: KR3e0002_CHANT_009-bkkpn98}
+  - {type: 'tls:seg', offset: 464, content: '', id: KR3e0002_CHANT_009-2a.46}
+  - {type: substitution, offset: 464, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
+  - {type: punctuation, offset: 468, content: ，, id: KR3e0002_CHANT_009-bkkpn99}
+  - {type: 'tls:seg', offset: 468, content: '', id: KR3e0002_CHANT_009-2a.47}
+  - {type: punctuation, offset: 472, content: 。, id: KR3e0002_CHANT_009-bkkpn100}
+  - {type: 'tls:seg', offset: 472, content: '', id: KR3e0002_CHANT_009-2a.48}
+  - {type: punctuation, offset: 476, content: ，, id: KR3e0002_CHANT_009-bkkpn101}
+  - {type: 'tls:seg', offset: 476, content: '', id: KR3e0002_CHANT_009-2a.49}
+  - {type: punctuation, offset: 480, content: ，, id: KR3e0002_CHANT_009-bkkpn102}
+  - {type: 'tls:seg', offset: 480, content: '', id: KR3e0002_CHANT_009-2a.50}
+  - {type: punctuation, offset: 484, content: ，, id: KR3e0002_CHANT_009-bkkpn103}
+  - {type: 'tls:seg', offset: 484, content: '', id: KR3e0002_CHANT_009-2a.51}
+  - {type: punctuation, offset: 488, content: ，, id: KR3e0002_CHANT_009-bkkpn104}
+  - {type: 'tls:seg', offset: 488, content: '', id: KR3e0002_CHANT_009-2a.52}
+  - {type: punctuation, offset: 493, content: ，, id: KR3e0002_CHANT_009-bkkpn105}
+  - {type: 'tls:seg', offset: 493, content: '', id: KR3e0002_CHANT_009-2a.53}
+  - {type: punctuation, offset: 498, content: ，, id: KR3e0002_CHANT_009-bkkpn106}
+  - {type: 'tls:seg', offset: 498, content: '', id: KR3e0002_CHANT_009-2a.54}
+  - {type: substitution, offset: 498, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
+  - {type: punctuation, offset: 502, content: ，, id: KR3e0002_CHANT_009-bkkpn107}
+  - {type: 'tls:seg', offset: 502, content: '', id: KR3e0002_CHANT_009-2a.55}
+  - {type: punctuation, offset: 506, content: 。, id: KR3e0002_CHANT_009-bkkpn108}
+  - {type: 'tls:seg', offset: 506, content: '', id: KR3e0002_CHANT_009-2a.56}
+  - {type: punctuation, offset: 510, content: ，, id: KR3e0002_CHANT_009-bkkpn109}
+  - {type: 'tls:seg', offset: 510, content: '', id: KR3e0002_CHANT_009-2a.57}
+  - {type: punctuation, offset: 519, content: ，, id: KR3e0002_CHANT_009-bkkpn110}
+  - {type: 'tls:seg', offset: 519, content: '', id: KR3e0002_CHANT_009-2a.58}
+  - {type: punctuation, offset: 523, content: ，, id: KR3e0002_CHANT_009-bkkpn111}
+  - {type: 'tls:seg', offset: 523, content: '', id: KR3e0002_CHANT_009-2a.59}
+  - {type: punctuation, offset: 527, content: ，, id: KR3e0002_CHANT_009-bkkpn112}
+  - {type: 'tls:seg', offset: 527, content: '', id: KR3e0002_CHANT_009-2a.60}
+  - {type: punctuation, offset: 532, content: ，, id: KR3e0002_CHANT_009-bkkpn113}
+  - {type: 'tls:seg', offset: 532, content: '', id: KR3e0002_CHANT_009-2a.61}
+  - {type: substitution, offset: 532, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
+  - {type: punctuation, offset: 536, content: ，, id: KR3e0002_CHANT_009-bkkpn114}
+  - {type: 'tls:seg', offset: 536, content: '', id: KR3e0002_CHANT_009-2a.62}
+  - {type: punctuation, offset: 540, content: 。, id: KR3e0002_CHANT_009-bkkpn115}
+  - {type: 'tls:seg', offset: 540, content: '', id: KR3e0002_CHANT_009-2a.63}
+  - {type: punctuation, offset: 544, content: ，, id: KR3e0002_CHANT_009-bkkpn116}
+  - {type: 'tls:seg', offset: 544, content: '', id: KR3e0002_CHANT_009-2a.64}
+  - {type: punctuation, offset: 553, content: ，, id: KR3e0002_CHANT_009-bkkpn117}
+  - {type: 'tls:seg', offset: 553, content: '', id: KR3e0002_CHANT_009-2a.65}
+  - {type: punctuation, offset: 557, content: ，, id: KR3e0002_CHANT_009-bkkpn118}
+  - {type: 'tls:seg', offset: 557, content: '', id: KR3e0002_CHANT_009-2a.66}
+  - {type: punctuation, offset: 561, content: ，, id: KR3e0002_CHANT_009-bkkpn119}
+  - {type: 'tls:seg', offset: 561, content: '', id: KR3e0002_CHANT_009-2a.67}
+  - {type: punctuation, offset: 566, content: ，, id: KR3e0002_CHANT_009-bkkpn120}
+  - {type: 'tls:seg', offset: 566, content: '', id: KR3e0002_CHANT_009-2a.68}
+  - {type: substitution, offset: 566, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
+  - {type: punctuation, offset: 570, content: ，, id: KR3e0002_CHANT_009-bkkpn121}
+  - {type: 'tls:seg', offset: 570, content: '', id: KR3e0002_CHANT_009-2a.69}
+  - {type: punctuation, offset: 574, content: 。, id: KR3e0002_CHANT_009-bkkpn122}
+  - {type: 'tls:seg', offset: 574, content: '', id: KR3e0002_CHANT_009-2a.70}
+  - {type: punctuation, offset: 578, content: ，, id: KR3e0002_CHANT_009-bkkpn123}
+  - {type: 'tls:seg', offset: 578, content: '', id: KR3e0002_CHANT_009-2a.71}
+  - {type: punctuation, offset: 587, content: ，, id: KR3e0002_CHANT_009-bkkpn124}
+  - {type: 'tls:seg', offset: 587, content: '', id: KR3e0002_CHANT_009-2a.72}
+  - {type: punctuation, offset: 591, content: ，, id: KR3e0002_CHANT_009-bkkpn125}
+  - {type: 'tls:seg', offset: 591, content: '', id: KR3e0002_CHANT_009-2a.73}
+  - {type: punctuation, offset: 596, content: ，, id: KR3e0002_CHANT_009-bkkpn126}
+  - {type: 'tls:seg', offset: 596, content: '', id: KR3e0002_CHANT_009-2a.74}
+  - {type: punctuation, offset: 601, content: ，, id: KR3e0002_CHANT_009-bkkpn127}
+  - {type: 'tls:seg', offset: 601, content: '', id: KR3e0002_CHANT_009-2a.75}
+  - {type: substitution, offset: 601, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
+  - {type: punctuation, offset: 605, content: ，, id: KR3e0002_CHANT_009-bkkpn128}
+  - {type: 'tls:seg', offset: 605, content: '', id: KR3e0002_CHANT_009-2a.76}
+  - {type: punctuation, offset: 609, content: 。, id: KR3e0002_CHANT_009-bkkpn129}
+  - {type: 'tls:seg', offset: 609, content: '', id: KR3e0002_CHANT_009-2a.77}
+  - {type: punctuation, offset: 613, content: ，, id: KR3e0002_CHANT_009-bkkpn130}
+  - {type: 'tls:seg', offset: 613, content: '', id: KR3e0002_CHANT_009-2a.78}
+  - {type: punctuation, offset: 622, content: ，, id: KR3e0002_CHANT_009-bkkpn131}
+  - {type: 'tls:seg', offset: 622, content: '', id: KR3e0002_CHANT_009-2a.79}
+  - {type: punctuation, offset: 626, content: ，, id: KR3e0002_CHANT_009-bkkpn132}
+  - {type: 'tls:seg', offset: 626, content: '', id: KR3e0002_CHANT_009-2a.80}
+  - {type: punctuation, offset: 630, content: ，, id: KR3e0002_CHANT_009-bkkpn133}
+  - {type: 'tls:seg', offset: 630, content: '', id: KR3e0002_CHANT_009-2a.81}
+  - {type: punctuation, offset: 635, content: ，, id: KR3e0002_CHANT_009-bkkpn134}
+  - {type: 'tls:seg', offset: 635, content: '', id: KR3e0002_CHANT_009-2a.82}
+  - {type: substitution, offset: 635, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
+  - {type: punctuation, offset: 640, content: ，, id: KR3e0002_CHANT_009-bkkpn135}
+  - {type: 'tls:seg', offset: 640, content: '', id: KR3e0002_CHANT_009-2a.83}
+  - {type: punctuation, offset: 644, content: 。, id: KR3e0002_CHANT_009-bkkpn136}
+  - {type: 'tls:seg', offset: 644, content: '', id: KR3e0002_CHANT_009-2a.84}
+  - {type: punctuation, offset: 651, content: ，, id: KR3e0002_CHANT_009-bkkpn137}
+  - {type: 'tls:seg', offset: 651, content: '', id: KR3e0002_CHANT_009-2a.85}
+  - {type: punctuation, offset: 655, content: ，, id: KR3e0002_CHANT_009-bkkpn138}
+  - {type: 'tls:seg', offset: 655, content: '', id: KR3e0002_CHANT_009-2a.86}
+  - {type: punctuation, offset: 660, content: ，, id: KR3e0002_CHANT_009-bkkpn139}
+  - {type: 'tls:seg', offset: 660, content: '', id: KR3e0002_CHANT_009-2a.87}
+  - {type: punctuation, offset: 667, content: 。, id: KR3e0002_CHANT_009-bkkpn140}
+  - {type: 'tls:seg', offset: 667, content: '', id: KR3e0002_CHANT_009-2a.88}
+  - {type: punctuation, offset: 678, content: ，, id: KR3e0002_CHANT_009-bkkpn141}
+  - {type: 'tls:seg', offset: 678, content: '', id: KR3e0002_CHANT_009-2a.89}
+  - {type: punctuation, offset: 684, content: ，, id: KR3e0002_CHANT_009-bkkpn142}
+  - {type: 'tls:seg', offset: 684, content: '', id: KR3e0002_CHANT_009-2a.90}
+  - {type: punctuation, offset: 687, content: ，, id: KR3e0002_CHANT_009-bkkpn143}
+  - {type: 'tls:seg', offset: 687, content: '', id: KR3e0002_CHANT_009-2a.91}
+  - {type: punctuation, offset: 694, content: ，, id: KR3e0002_CHANT_009-bkkpn144}
+  - {type: 'tls:seg', offset: 694, content: '', id: KR3e0002_CHANT_009-2a.92}
+  - {type: punctuation, offset: 698, content: ，, id: KR3e0002_CHANT_009-bkkpn145}
+  - {type: 'tls:seg', offset: 698, content: '', id: KR3e0002_CHANT_009-2a.93}
+  - {type: variant, offset: 698, length: 165, content: 流淫于中五藏內傷如此者因而灸之則變易而為他病矣凡刺之道氣調而止補陰瀉陽音氣益彰耳目聰明反此者血氣不行所謂氣至而有效者瀉則益虛虛者脈大如其故而不堅也堅如其故者適雖言故病未去也補則益實實者脈大如其故而益堅也夫如其故而不堅者適雖言快病未去也故補則實寫則虛痛雖不隨鍼病必衰去必先通十二經脈之所生病而後可得傳于終始矣故陰陽不相移虛實不相傾取, SBCK: ''}
+  - {type: variant, offset: 698, length: 165, content: 流淫于中五藏內傷如此者因而灸之則變易而為他病矣凡刺之道氣調而止補陰瀉陽音氣益彰耳目聰明反此者血氣不行所謂氣至而有效者瀉則益虛虛者脈大如其故而不堅也堅如其故者適雖言故病未去也補則益實實者脈大如其故而益堅也夫如其故而不堅者適雖言快病未去也故補則實寫則虛痛雖不隨鍼病必衰去必先通十二經脈之所生病而後可得傳于終始矣故陰陽不相移虛實不相傾取, WYG: ''}
+  - {type: variant, offset: 698, length: 165, content: 流淫于中五藏內傷如此者因而灸之則變易而為他病矣凡刺之道氣調而止補陰瀉陽音氣益彰耳目聰明反此者血氣不行所謂氣至而有效者瀉則益虛虛者脈大如其故而不堅也堅如其故者適雖言故病未去也補則益實實者脈大如其故而益堅也夫如其故而不堅者適雖言快病未去也故補則實寫則虛痛雖不隨鍼病必衰去必先通十二經脈之所生病而後可得傳于終始矣故陰陽不相移虛實不相傾取, krp: ''}
+  - {type: punctuation, offset: 702, content: ，, id: KR3e0002_CHANT_009-bkkpn146}
+  - {type: 'tls:seg', offset: 702, content: '', id: KR3e0002_CHANT_009-2a.94}
+  - {type: punctuation, offset: 706, content: 。, id: KR3e0002_CHANT_009-bkkpn147}
+  - {type: 'tls:seg', offset: 706, content: '', id: KR3e0002_CHANT_009-2a.95}
+  - {type: punctuation, offset: 709, content: ，, id: KR3e0002_CHANT_009-bkkpn148}
+  - {type: 'tls:seg', offset: 709, content: '', id: KR3e0002_CHANT_009-2a.96}
+  - {type: punctuation, offset: 713, content: ，, id: KR3e0002_CHANT_009-bkkpn149}
+  - {type: 'tls:seg', offset: 713, content: '', id: KR3e0002_CHANT_009-2a.97}
+  - {type: punctuation, offset: 721, content: 。, id: KR3e0002_CHANT_009-bkkpn150}
+  - {type: xml-element, offset: 721, content: '', id: KR3e0002_CHANT_009-bkkxmlele6}
+  - {type: xml-element, offset: 721, content: '', id: KR3e0002_CHANT_009-bkkxmlele7}
+  - {type: 'tls:seg', offset: 721, content: '', id: KR3e0002_CHANT_009-3a.1}
+  - {type: 'tls:seg', offset: 721, content: '', id: KR3e0002_CHANT_009-3a.2}
+  - {type: 'tls:seg', offset: 721, content: '', id: KR3e0002_CHANT_009-3a.3}
+  - {type: punctuation, offset: 725, content: ，, id: KR3e0002_CHANT_009-bkkpn151}
+  - {type: 'tls:seg', offset: 725, content: '', id: KR3e0002_CHANT_009-3a.4}
+  - {type: punctuation, offset: 729, content: ，, id: KR3e0002_CHANT_009-bkkpn152}
+  - {type: 'tls:seg', offset: 729, content: '', id: KR3e0002_CHANT_009-3a.5}
+  - {type: punctuation, offset: 733, content: ，, id: KR3e0002_CHANT_009-bkkpn153}
+  - {type: 'tls:seg', offset: 733, content: '', id: KR3e0002_CHANT_009-3a.6}
+  - {type: punctuation, offset: 737, content: ，, id: KR3e0002_CHANT_009-bkkpn154}
+  - {type: 'tls:seg', offset: 737, content: '', id: KR3e0002_CHANT_009-3a.7}
+  - {type: punctuation, offset: 741, content: ，, id: KR3e0002_CHANT_009-bkkpn155}
+  - {type: 'tls:seg', offset: 741, content: '', id: KR3e0002_CHANT_009-3a.8}
+  - {type: punctuation, offset: 744, content: ，, id: KR3e0002_CHANT_009-bkkpn156}
+  - {type: 'tls:seg', offset: 744, content: '', id: KR3e0002_CHANT_009-3a.9}
+  - {type: punctuation, offset: 748, content: 。, id: KR3e0002_CHANT_009-bkkpn157}
+  - {type: 'tls:seg', offset: 748, content: '', id: KR3e0002_CHANT_009-3a.10}
+  - {type: punctuation, offset: 756, content: ，, id: KR3e0002_CHANT_009-bkkpn158}
+  - {type: 'tls:seg', offset: 756, content: '', id: KR3e0002_CHANT_009-3a.11}
+  - {type: punctuation, offset: 760, content: ，, id: KR3e0002_CHANT_009-bkkpn159}
+  - {type: 'tls:seg', offset: 760, content: '', id: KR3e0002_CHANT_009-3a.12}
+  - {type: punctuation, offset: 762, content: ，, id: KR3e0002_CHANT_009-bkkpn160}
+  - {type: 'tls:seg', offset: 762, content: '', id: KR3e0002_CHANT_009-3a.13}
+  - {type: punctuation, offset: 771, content: ，, id: KR3e0002_CHANT_009-bkkpn161}
+  - {type: 'tls:seg', offset: 771, content: '', id: KR3e0002_CHANT_009-3a.14}
+  - {type: punctuation, offset: 776, content: ，, id: KR3e0002_CHANT_009-bkkpn162}
+  - {type: 'tls:seg', offset: 776, content: '', id: KR3e0002_CHANT_009-3a.15}
+  - {type: punctuation, offset: 780, content: ，, id: KR3e0002_CHANT_009-bkkpn163}
+  - {type: 'tls:seg', offset: 780, content: '', id: KR3e0002_CHANT_009-3a.16}
+  - {type: punctuation, offset: 784, content: 。, id: KR3e0002_CHANT_009-bkkpn164}
+  - {type: 'tls:seg', offset: 784, content: '', id: KR3e0002_CHANT_009-3a.17}
+  - {type: punctuation, offset: 788, content: ，, id: KR3e0002_CHANT_009-bkkpn165}
+  - {type: 'tls:seg', offset: 788, content: '', id: KR3e0002_CHANT_009-3a.18}
+  - {type: punctuation, offset: 790, content: ，, id: KR3e0002_CHANT_009-bkkpn166}
+  - {type: 'tls:seg', offset: 790, content: '', id: KR3e0002_CHANT_009-3a.19}
+  - {type: punctuation, offset: 799, content: ，, id: KR3e0002_CHANT_009-bkkpn167}
+  - {type: 'tls:seg', offset: 799, content: '', id: KR3e0002_CHANT_009-3a.20}
+  - {type: punctuation, offset: 807, content: ，, id: KR3e0002_CHANT_009-bkkpn168}
+  - {type: 'tls:seg', offset: 807, content: '', id: KR3e0002_CHANT_009-3a.21}
+  - {type: punctuation, offset: 811, content: ，, id: KR3e0002_CHANT_009-bkkpn169}
+  - {type: 'tls:seg', offset: 811, content: '', id: KR3e0002_CHANT_009-3a.22}
+  - {type: punctuation, offset: 815, content: 。, id: KR3e0002_CHANT_009-bkkpn170}
+  - {type: 'tls:seg', offset: 815, content: '', id: KR3e0002_CHANT_009-3a.23}
+  - {type: punctuation, offset: 819, content: ，, id: KR3e0002_CHANT_009-bkkpn171}
+  - {type: 'tls:seg', offset: 819, content: '', id: KR3e0002_CHANT_009-3a.24}
+  - {type: punctuation, offset: 822, content: ，, id: KR3e0002_CHANT_009-bkkpn172}
+  - {type: 'tls:seg', offset: 822, content: '', id: KR3e0002_CHANT_009-3a.25}
+  - {type: substitution, offset: 826, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 827, content: ，, id: KR3e0002_CHANT_009-bkkpn173}
+  - {type: 'tls:seg', offset: 827, content: '', id: KR3e0002_CHANT_009-3a.26}
+  - {type: punctuation, offset: 831, content: 。, id: KR3e0002_CHANT_009-bkkpn174}
+  - {type: 'tls:seg', offset: 831, content: '', id: KR3e0002_CHANT_009-3a.27}
+  - {type: punctuation, offset: 842, content: ，, id: KR3e0002_CHANT_009-bkkpn175}
+  - {type: 'tls:seg', offset: 842, content: '', id: KR3e0002_CHANT_009-3a.28}
+  - {type: punctuation, offset: 851, content: 。, id: KR3e0002_CHANT_009-bkkpn176}
+  - {type: 'tls:seg', offset: 851, content: '', id: KR3e0002_CHANT_009-3a.29}
+  - {type: punctuation, offset: 857, content: ，, id: KR3e0002_CHANT_009-bkkpn177}
+  - {type: 'tls:seg', offset: 857, content: '', id: KR3e0002_CHANT_009-3a.30}
+  - {type: punctuation, offset: 862, content: ，, id: KR3e0002_CHANT_009-bkkpn178}
+  - {type: 'tls:seg', offset: 862, content: '', id: KR3e0002_CHANT_009-3a.31}
+  - {type: variant, offset: 865, length: 28, content: 經凡刺之屬三刺至穀氣邪僻妄合陰陽易居逆順相反沉浮異處四時, SBCK: 宛陳血}
+  - {type: variant, offset: 865, length: 28, content: 經凡刺之屬三刺至穀氣邪僻妄合陰陽易居逆順相反沉浮異處四時, WYG: 宛陳血}
+  - {type: variant, offset: 865, length: 28, content: 經凡刺之屬三刺至穀氣邪僻妄合陰陽易居逆順相反沉浮異處四時, krp: 宛陳血}
+  - {type: punctuation, offset: 866, content: 。, id: KR3e0002_CHANT_009-bkkpn179}
+  - {type: 'tls:seg', offset: 866, content: '', id: KR3e0002_CHANT_009-3a.32}
+  - {type: punctuation, offset: 870, content: ，, id: KR3e0002_CHANT_009-bkkpn180}
+  - {type: 'tls:seg', offset: 870, content: '', id: KR3e0002_CHANT_009-3a.33}
+  - {type: punctuation, offset: 875, content: ，, id: KR3e0002_CHANT_009-bkkpn181}
+  - {type: 'tls:seg', offset: 875, content: '', id: KR3e0002_CHANT_009-3a.34}
+  - {type: punctuation, offset: 879, content: ，, id: KR3e0002_CHANT_009-bkkpn182}
+  - {type: 'tls:seg', offset: 879, content: '', id: KR3e0002_CHANT_009-3a.35}
+  - {type: punctuation, offset: 883, content: ，, id: KR3e0002_CHANT_009-bkkpn183}
+  - {type: 'tls:seg', offset: 883, content: '', id: KR3e0002_CHANT_009-3a.36}
+  - {type: punctuation, offset: 887, content: ，, id: KR3e0002_CHANT_009-bkkpn184}
+  - {type: 'tls:seg', offset: 887, content: '', id: KR3e0002_CHANT_009-3a.37}
+  - {type: punctuation, offset: 891, content: ，, id: KR3e0002_CHANT_009-bkkpn185}
+  - {type: 'tls:seg', offset: 891, content: '', id: KR3e0002_CHANT_009-3a.38}
+  - {type: variant, offset: 894, length: 168, content: 得稽留淫泆須鍼而去故一刺則陽邪出再刺則陰邪出三刺則穀氣至穀氣至而止所謂穀氣至者已補而實已寫而虛故以知穀氣至也邪氣獨去者陰與陽未能調而病知愈也故曰補則實寫則虛痛雖不隨鍼病必衰去矣陰盛而陽虛先補其陽後寫其陰而和之陰虛而陽盛先補其陰後寫其陽而和之三脈動于足大指之間必審其實虛虛而寫之是謂重虛重虛病益甚凡刺此者以指按之脈動而實且疾者疾寫之虛而徐, SBCK: 結}
+  - {type: variant, offset: 894, length: 168, content: 得稽留淫泆須鍼而去故一刺則陽邪出再刺則陰邪出三刺則穀氣至穀氣至而止所謂穀氣至者已補而實已寫而虛故以知穀氣至也邪氣獨去者陰與陽未能調而病知愈也故曰補則實寫則虛痛雖不隨鍼病必衰去矣陰盛而陽虛先補其陽後寫其陰而和之陰虛而陽盛先補其陰後寫其陽而和之三脈動于足大指之間必審其實虛虛而寫之是謂重虛重虛病益甚凡刺此者以指按之脈動而實且疾者疾寫之虛而徐, WYG: 結}
+  - {type: variant, offset: 894, length: 168, content: 得稽留淫泆須鍼而去故一刺則陽邪出再刺則陰邪出三刺則穀氣至穀氣至而止所謂穀氣至者已補而實已寫而虛故以知穀氣至也邪氣獨去者陰與陽未能調而病知愈也故曰補則實寫則虛痛雖不隨鍼病必衰去矣陰盛而陽虛先補其陽後寫其陰而和之陰虛而陽盛先補其陰後寫其陽而和之三脈動于足大指之間必審其實虛虛而寫之是謂重虛重虛病益甚凡刺此者以指按之脈動而實且疾者疾寫之虛而徐, krp: 結}
+  - {type: punctuation, offset: 895, content: ，, id: KR3e0002_CHANT_009-bkkpn186}
+  - {type: 'tls:seg', offset: 895, content: '', id: KR3e0002_CHANT_009-3a.39}
+  - {type: punctuation, offset: 899, content: ，, id: KR3e0002_CHANT_009-bkkpn187}
+  - {type: 'tls:seg', offset: 899, content: '', id: KR3e0002_CHANT_009-3a.40}
+  - {type: substitution, offset: 900, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 903, content: 。, id: KR3e0002_CHANT_009-bkkpn188}
+  - {type: 'tls:seg', offset: 903, content: '', id: KR3e0002_CHANT_009-3a.41}
+  - {type: punctuation, offset: 910, content: ，, id: KR3e0002_CHANT_009-bkkpn189}
+  - {type: 'tls:seg', offset: 910, content: '', id: KR3e0002_CHANT_009-3a.42}
+  - {type: punctuation, offset: 916, content: ，, id: KR3e0002_CHANT_009-bkkpn190}
+  - {type: 'tls:seg', offset: 916, content: '', id: KR3e0002_CHANT_009-3a.43}
+  - {type: punctuation, offset: 922, content: ，, id: KR3e0002_CHANT_009-bkkpn191}
+  - {type: 'tls:seg', offset: 922, content: '', id: KR3e0002_CHANT_009-3a.44}
+  - {type: punctuation, offset: 927, content: 。, id: KR3e0002_CHANT_009-bkkpn192}
+  - {type: 'tls:seg', offset: 927, content: '', id: KR3e0002_CHANT_009-3a.45}
+  - {type: punctuation, offset: 933, content: ，, id: KR3e0002_CHANT_009-bkkpn193}
+  - {type: 'tls:seg', offset: 933, content: '', id: KR3e0002_CHANT_009-3a.46}
+  - {type: punctuation, offset: 937, content: ，, id: KR3e0002_CHANT_009-bkkpn194}
+  - {type: 'tls:seg', offset: 937, content: '', id: KR3e0002_CHANT_009-3a.47}
+  - {type: punctuation, offset: 941, content: ，, id: KR3e0002_CHANT_009-bkkpn195}
+  - {type: 'tls:seg', offset: 941, content: '', id: KR3e0002_CHANT_009-3a.48}
+  - {type: punctuation, offset: 948, content: 。, id: KR3e0002_CHANT_009-bkkpn196}
+  - {type: 'tls:seg', offset: 948, content: '', id: KR3e0002_CHANT_009-3a.49}
+  - {type: punctuation, offset: 953, content: ，, id: KR3e0002_CHANT_009-bkkpn197}
+  - {type: 'tls:seg', offset: 953, content: '', id: KR3e0002_CHANT_009-3a.50}
+  - {type: punctuation, offset: 959, content: ，, id: KR3e0002_CHANT_009-bkkpn198}
+  - {type: 'tls:seg', offset: 959, content: '', id: KR3e0002_CHANT_009-3a.51}
+  - {type: punctuation, offset: 964, content: 。, id: KR3e0002_CHANT_009-bkkpn199}
+  - {type: 'tls:seg', offset: 964, content: '', id: KR3e0002_CHANT_009-3a.52}
+  - {type: punctuation, offset: 966, content: ：, id: KR3e0002_CHANT_009-bkkpn200}
+  - {type: 'tls:seg', offset: 966, content: '', id: KR3e0002_CHANT_009-3a.53}
+  - {type: punctuation, offset: 969, content: ，, id: KR3e0002_CHANT_009-bkkpn201}
+  - {type: 'tls:seg', offset: 969, content: '', id: KR3e0002_CHANT_009-3a.54}
+  - {type: punctuation, offset: 972, content: ，, id: KR3e0002_CHANT_009-bkkpn202}
+  - {type: 'tls:seg', offset: 972, content: '', id: KR3e0002_CHANT_009-3a.55}
+  - {type: substitution, offset: 976, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 977, content: ，, id: KR3e0002_CHANT_009-bkkpn203}
+  - {type: 'tls:seg', offset: 977, content: '', id: KR3e0002_CHANT_009-3a.56}
+  - {type: punctuation, offset: 982, content: 。, id: KR3e0002_CHANT_009-bkkpn204}
+  - {type: xml-element, offset: 982, content: '', id: KR3e0002_CHANT_009-bkkxmlele8}
+  - {type: xml-element, offset: 982, content: '', id: KR3e0002_CHANT_009-bkkxmlele9}
+  - {type: 'tls:seg', offset: 982, content: '', id: KR3e0002_CHANT_009-4a.1}
+  - {type: 'tls:seg', offset: 982, content: '', id: KR3e0002_CHANT_009-4a.2}
+  - {type: 'tls:seg', offset: 982, content: '', id: KR3e0002_CHANT_009-4a.3}
+  - {type: punctuation, offset: 987, content: ，, id: KR3e0002_CHANT_009-bkkpn205}
+  - {type: 'tls:seg', offset: 987, content: '', id: KR3e0002_CHANT_009-4a.4}
+  - {type: punctuation, offset: 991, content: ，, id: KR3e0002_CHANT_009-bkkpn206}
+  - {type: 'tls:seg', offset: 991, content: '', id: KR3e0002_CHANT_009-4a.5}
+  - {type: punctuation, offset: 998, content: 。, id: KR3e0002_CHANT_009-bkkpn207}
+  - {type: 'tls:seg', offset: 998, content: '', id: KR3e0002_CHANT_009-4a.6}
+  - {type: punctuation, offset: 1003, content: ，, id: KR3e0002_CHANT_009-bkkpn208}
+  - {type: 'tls:seg', offset: 1003, content: '', id: KR3e0002_CHANT_009-4a.7}
+  - {type: punctuation, offset: 1007, content: ，, id: KR3e0002_CHANT_009-bkkpn209}
+  - {type: 'tls:seg', offset: 1007, content: '', id: KR3e0002_CHANT_009-4a.8}
+  - {type: punctuation, offset: 1014, content: 。, id: KR3e0002_CHANT_009-bkkpn210}
+  - {type: 'tls:seg', offset: 1014, content: '', id: KR3e0002_CHANT_009-4a.9}
+  - {type: punctuation, offset: 1023, content: ，, id: KR3e0002_CHANT_009-bkkpn211}
+  - {type: 'tls:seg', offset: 1023, content: '', id: KR3e0002_CHANT_009-4a.10}
+  - {type: punctuation, offset: 1028, content: 。, id: KR3e0002_CHANT_009-bkkpn212}
+  - {type: 'tls:seg', offset: 1028, content: '', id: KR3e0002_CHANT_009-4a.11}
+  - {type: punctuation, offset: 1032, content: ，, id: KR3e0002_CHANT_009-bkkpn213}
+  - {type: 'tls:seg', offset: 1032, content: '', id: KR3e0002_CHANT_009-4a.12}
+  - {type: punctuation, offset: 1036, content: ，, id: KR3e0002_CHANT_009-bkkpn214}
+  - {type: 'tls:seg', offset: 1036, content: '', id: KR3e0002_CHANT_009-4a.13}
+  - {type: punctuation, offset: 1041, content: 。, id: KR3e0002_CHANT_009-bkkpn215}
+  - {type: 'tls:seg', offset: 1041, content: '', id: KR3e0002_CHANT_009-4a.14}
+  - {type: punctuation, offset: 1045, content: ，, id: KR3e0002_CHANT_009-bkkpn216}
+  - {type: 'tls:seg', offset: 1045, content: '', id: KR3e0002_CHANT_009-4a.15}
+  - {type: punctuation, offset: 1049, content: ，, id: KR3e0002_CHANT_009-bkkpn217}
+  - {type: 'tls:seg', offset: 1049, content: '', id: KR3e0002_CHANT_009-4a.16}
+  - {type: punctuation, offset: 1056, content: ，, id: KR3e0002_CHANT_009-bkkpn218}
+  - {type: 'tls:seg', offset: 1056, content: '', id: KR3e0002_CHANT_009-4a.17}
+  - {type: punctuation, offset: 1059, content: ，, id: KR3e0002_CHANT_009-bkkpn219}
+  - {type: 'tls:seg', offset: 1059, content: '', id: KR3e0002_CHANT_009-4a.18}
+  - {type: punctuation, offset: 1063, content: ，, id: KR3e0002_CHANT_009-bkkpn220}
+  - {type: 'tls:seg', offset: 1063, content: '', id: KR3e0002_CHANT_009-4a.19}
+  - {type: variant, offset: 1064, length: 49, content: 補之反此者病益甚其動也陽明在上厥陰在中少陰在下膺腧中膺背腧中背肩膊虛者取之上重舌刺舌柱以鈹鍼也手屈, SBCK: ''}
+  - {type: variant, offset: 1064, length: 49, content: 補之反此者病益甚其動也陽明在上厥陰在中少陰在下膺腧中膺背腧中背肩膊虛者取之上重舌刺舌柱以鈹鍼也手屈, WYG: ''}
+  - {type: variant, offset: 1064, length: 49, content: 補之反此者病益甚其動也陽明在上厥陰在中少陰在下膺腧中膺背腧中背肩膊虛者取之上重舌刺舌柱以鈹鍼也手屈, krp: ''}
+  - {type: punctuation, offset: 1066, content: ，, id: KR3e0002_CHANT_009-bkkpn221}
+  - {type: 'tls:seg', offset: 1066, content: '', id: KR3e0002_CHANT_009-4a.20}
+  - {type: punctuation, offset: 1069, content: ，, id: KR3e0002_CHANT_009-bkkpn222}
+  - {type: 'tls:seg', offset: 1069, content: '', id: KR3e0002_CHANT_009-4a.21}
+  - {type: punctuation, offset: 1072, content: 。, id: KR3e0002_CHANT_009-bkkpn223}
+  - {type: 'tls:seg', offset: 1072, content: '', id: KR3e0002_CHANT_009-4a.22}
+  - {type: punctuation, offset: 1075, content: ，, id: KR3e0002_CHANT_009-bkkpn224}
+  - {type: 'tls:seg', offset: 1075, content: '', id: KR3e0002_CHANT_009-4a.23}
+  - {type: punctuation, offset: 1079, content: ，, id: KR3e0002_CHANT_009-bkkpn225}
+  - {type: 'tls:seg', offset: 1079, content: '', id: KR3e0002_CHANT_009-4a.24}
+  - {type: punctuation, offset: 1083, content: ，, id: KR3e0002_CHANT_009-bkkpn226}
+  - {type: 'tls:seg', offset: 1083, content: '', id: KR3e0002_CHANT_009-4a.25}
+  - {type: punctuation, offset: 1087, content: 。, id: KR3e0002_CHANT_009-bkkpn227}
+  - {type: 'tls:seg', offset: 1087, content: '', id: KR3e0002_CHANT_009-4a.26}
+  - {type: punctuation, offset: 1091, content: ，, id: KR3e0002_CHANT_009-bkkpn228}
+  - {type: 'tls:seg', offset: 1091, content: '', id: KR3e0002_CHANT_009-4a.27}
+  - {type: punctuation, offset: 1095, content: ，, id: KR3e0002_CHANT_009-bkkpn229}
+  - {type: 'tls:seg', offset: 1095, content: '', id: KR3e0002_CHANT_009-4a.28}
+  - {type: punctuation, offset: 1099, content: ，, id: KR3e0002_CHANT_009-bkkpn230}
+  - {type: 'tls:seg', offset: 1099, content: '', id: KR3e0002_CHANT_009-4a.29}
+  - {type: punctuation, offset: 1102, content: 。, id: KR3e0002_CHANT_009-bkkpn231}
+  - {type: 'tls:seg', offset: 1102, content: '', id: KR3e0002_CHANT_009-4a.30}
+  - {type: substitution, offset: 1109, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 1111, content: 。, id: KR3e0002_CHANT_009-bkkpn232}
+  - {type: 'tls:seg', offset: 1111, content: '', id: KR3e0002_CHANT_009-4a.31}
+  - {type: variant, offset: 1114, length: 388, content: 不伸者其病在筋伸而不屈者其病在骨在骨守骨在筋守筋補須一方實深取之稀按其痏以極出其邪氣一方虛淺刺之以養其脈疾按其痏無使邪氣得入邪氣來也緊而疾穀氣來也徐而和脈實者深刺之以泄其氣脈虛者淺刺之使精氣無得出以養其脈獨出其邪氣刺諸痛者其脈皆實故曰從腰以上者手太陰陽明皆主之從腰以下者足太陰陽明皆主之病在上者下取之病在下者高取之病在頭者取之足病在足者取之膕病生於頭者頭重生於手者臂重生於足者足重治病者先刺其病所從生者也春氣在毛夏氣在皮膚秋氣在分肉冬氣在筋骨刺此病者各以其時為齊故刺肥人者以秋冬之齊刺瘦人者以春夏之齊病痛者陰也痛而以手按之不得者陰也深刺之病在上者陽也病在下者陰也癢者陽也淺刺之病先起陰者先治其陰而後治其陽病先起陽者先治其陽而後治其陰刺熱厥者留鍼反為寒刺寒厥者留鍼反為熱刺熱厥者二陰一陽刺寒厥者二陽一陰所謂二陰者二刺陰也一陽者一刺陽也久病者邪氣入深刺此病者深內而久留之間日而復刺, SBCK: 予}
+  - {type: variant, offset: 1114, length: 388, content: 不伸者其病在筋伸而不屈者其病在骨在骨守骨在筋守筋補須一方實深取之稀按其痏以極出其邪氣一方虛淺刺之以養其脈疾按其痏無使邪氣得入邪氣來也緊而疾穀氣來也徐而和脈實者深刺之以泄其氣脈虛者淺刺之使精氣無得出以養其脈獨出其邪氣刺諸痛者其脈皆實故曰從腰以上者手太陰陽明皆主之從腰以下者足太陰陽明皆主之病在上者下取之病在下者高取之病在頭者取之足病在足者取之膕病生於頭者頭重生於手者臂重生於足者足重治病者先刺其病所從生者也春氣在毛夏氣在皮膚秋氣在分肉冬氣在筋骨刺此病者各以其時為齊故刺肥人者以秋冬之齊刺瘦人者以春夏之齊病痛者陰也痛而以手按之不得者陰也深刺之病在上者陽也病在下者陰也癢者陽也淺刺之病先起陰者先治其陰而後治其陽病先起陽者先治其陽而後治其陰刺熱厥者留鍼反為寒刺寒厥者留鍼反為熱刺熱厥者二陰一陽刺寒厥者二陽一陰所謂二陰者二刺陰也一陽者一刺陽也久病者邪氣入深刺此病者深內而久留之間日而復刺, WYG: 予}
+  - {type: variant, offset: 1114, length: 388, content: 不伸者其病在筋伸而不屈者其病在骨在骨守骨在筋守筋補須一方實深取之稀按其痏以極出其邪氣一方虛淺刺之以養其脈疾按其痏無使邪氣得入邪氣來也緊而疾穀氣來也徐而和脈實者深刺之以泄其氣脈虛者淺刺之使精氣無得出以養其脈獨出其邪氣刺諸痛者其脈皆實故曰從腰以上者手太陰陽明皆主之從腰以下者足太陰陽明皆主之病在上者下取之病在下者高取之病在頭者取之足病在足者取之膕病生於頭者頭重生於手者臂重生於足者足重治病者先刺其病所從生者也春氣在毛夏氣在皮膚秋氣在分肉冬氣在筋骨刺此病者各以其時為齊故刺肥人者以秋冬之齊刺瘦人者以春夏之齊病痛者陰也痛而以手按之不得者陰也深刺之病在上者陽也病在下者陰也癢者陽也淺刺之病先起陰者先治其陰而後治其陽病先起陽者先治其陽而後治其陰刺熱厥者留鍼反為寒刺寒厥者留鍼反為熱刺熱厥者二陰一陽刺寒厥者二陽一陰所謂二陰者二刺陰也一陽者一刺陽也久病者邪氣入深刺此病者深內而久留之間日而復刺, krp: 予}
+  - {type: punctuation, offset: 1117, content: ，, id: KR3e0002_CHANT_009-bkkpn233}
+  - {type: 'tls:seg', offset: 1117, content: '', id: KR3e0002_CHANT_009-4a.32}
+  - {type: punctuation, offset: 1121, content: 。, id: KR3e0002_CHANT_009-bkkpn234}
+  - {type: 'tls:seg', offset: 1121, content: '', id: KR3e0002_CHANT_009-4a.33}
+  - {type: punctuation, offset: 1126, content: ，, id: KR3e0002_CHANT_009-bkkpn235}
+  - {type: 'tls:seg', offset: 1126, content: '', id: KR3e0002_CHANT_009-4a.34}
+  - {type: punctuation, offset: 1130, content: 。, id: KR3e0002_CHANT_009-bkkpn236}
+  - {type: 'tls:seg', offset: 1130, content: '', id: KR3e0002_CHANT_009-4a.35}
+  - {type: punctuation, offset: 1134, content: ，, id: KR3e0002_CHANT_009-bkkpn237}
+  - {type: 'tls:seg', offset: 1134, content: '', id: KR3e0002_CHANT_009-4a.36}
+  - {type: punctuation, offset: 1138, content: 。, id: KR3e0002_CHANT_009-bkkpn238}
+  - {type: 'tls:seg', offset: 1138, content: '', id: KR3e0002_CHANT_009-4a.37}
+  - {type: punctuation, offset: 1146, content: ，, id: KR3e0002_CHANT_009-bkkpn239}
+  - {type: 'tls:seg', offset: 1146, content: '', id: KR3e0002_CHANT_009-4a.38}
+  - {type: punctuation, offset: 1150, content: ，, id: KR3e0002_CHANT_009-bkkpn240}
+  - {type: 'tls:seg', offset: 1150, content: '', id: KR3e0002_CHANT_009-4a.39}
+  - {type: punctuation, offset: 1156, content: 。, id: KR3e0002_CHANT_009-bkkpn241}
+  - {type: 'tls:seg', offset: 1156, content: '', id: KR3e0002_CHANT_009-4a.40}
+  - {type: punctuation, offset: 1162, content: ，, id: KR3e0002_CHANT_009-bkkpn242}
+  - {type: 'tls:seg', offset: 1162, content: '', id: KR3e0002_CHANT_009-4a.41}
+  - {type: punctuation, offset: 1166, content: ，, id: KR3e0002_CHANT_009-bkkpn243}
+  - {type: 'tls:seg', offset: 1166, content: '', id: KR3e0002_CHANT_009-4a.42}
+  - {type: punctuation, offset: 1170, content: ，, id: KR3e0002_CHANT_009-bkkpn244}
+  - {type: 'tls:seg', offset: 1170, content: '', id: KR3e0002_CHANT_009-4a.43}
+  - {type: punctuation, offset: 1176, content: 。, id: KR3e0002_CHANT_009-bkkpn245}
+  - {type: 'tls:seg', offset: 1176, content: '', id: KR3e0002_CHANT_009-4a.44}
+  - {type: punctuation, offset: 1183, content: ，, id: KR3e0002_CHANT_009-bkkpn246}
+  - {type: 'tls:seg', offset: 1183, content: '', id: KR3e0002_CHANT_009-4a.45}
+  - {type: punctuation, offset: 1190, content: 。, id: KR3e0002_CHANT_009-bkkpn247}
+  - {type: 'tls:seg', offset: 1190, content: '', id: KR3e0002_CHANT_009-4a.46}
+  - {type: punctuation, offset: 1193, content: ，, id: KR3e0002_CHANT_009-bkkpn248}
+  - {type: 'tls:seg', offset: 1193, content: '', id: KR3e0002_CHANT_009-4a.47}
+  - {type: punctuation, offset: 1196, content: ，, id: KR3e0002_CHANT_009-bkkpn249}
+  - {type: 'tls:seg', offset: 1196, content: '', id: KR3e0002_CHANT_009-4a.48}
+  - {type: punctuation, offset: 1200, content: 。, id: KR3e0002_CHANT_009-bkkpn250}
+  - {type: 'tls:seg', offset: 1200, content: '', id: KR3e0002_CHANT_009-4a.49}
+  - {type: punctuation, offset: 1203, content: ，, id: KR3e0002_CHANT_009-bkkpn251}
+  - {type: 'tls:seg', offset: 1203, content: '', id: KR3e0002_CHANT_009-4a.50}
+  - {type: punctuation, offset: 1206, content: ，, id: KR3e0002_CHANT_009-bkkpn252}
+  - {type: 'tls:seg', offset: 1206, content: '', id: KR3e0002_CHANT_009-4a.51}
+  - {type: punctuation, offset: 1212, content: ，, id: KR3e0002_CHANT_009-bkkpn253}
+  - {type: 'tls:seg', offset: 1212, content: '', id: KR3e0002_CHANT_009-4a.52}
+  - {type: punctuation, offset: 1216, content: ，, id: KR3e0002_CHANT_009-bkkpn254}
+  - {type: 'tls:seg', offset: 1216, content: '', id: KR3e0002_CHANT_009-4a.53}
+  - {type: punctuation, offset: 1221, content: 。, id: KR3e0002_CHANT_009-bkkpn255}
+  - {type: xml-element, offset: 1221, content: '', id: KR3e0002_CHANT_009-bkkxmlele10}
+  - {type: xml-element, offset: 1221, content: '', id: KR3e0002_CHANT_009-bkkxmlele11}
+  - {type: 'tls:seg', offset: 1221, content: '', id: KR3e0002_CHANT_009-5a.1}
+  - {type: 'tls:seg', offset: 1221, content: '', id: KR3e0002_CHANT_009-5a.2}
+  - {type: 'tls:seg', offset: 1221, content: '', id: KR3e0002_CHANT_009-5a.3}
+  - {type: punctuation, offset: 1225, content: ，, id: KR3e0002_CHANT_009-bkkpn256}
+  - {type: 'tls:seg', offset: 1225, content: '', id: KR3e0002_CHANT_009-5a.4}
+  - {type: punctuation, offset: 1229, content: 。, id: KR3e0002_CHANT_009-bkkpn257}
+  - {type: 'tls:seg', offset: 1229, content: '', id: KR3e0002_CHANT_009-5a.5}
+  - {type: punctuation, offset: 1231, content: ：, id: KR3e0002_CHANT_009-bkkpn258}
+  - {type: 'tls:seg', offset: 1231, content: '', id: KR3e0002_CHANT_009-5a.6}
+  - {type: punctuation, offset: 1236, content: ，, id: KR3e0002_CHANT_009-bkkpn259}
+  - {type: 'tls:seg', offset: 1236, content: '', id: KR3e0002_CHANT_009-5a.7}
+  - {type: punctuation, offset: 1244, content: ，, id: KR3e0002_CHANT_009-bkkpn260}
+  - {type: 'tls:seg', offset: 1244, content: '', id: KR3e0002_CHANT_009-5a.8}
+  - {type: punctuation, offset: 1249, content: ，, id: KR3e0002_CHANT_009-bkkpn261}
+  - {type: 'tls:seg', offset: 1249, content: '', id: KR3e0002_CHANT_009-5a.9}
+  - {type: punctuation, offset: 1257, content: 。, id: KR3e0002_CHANT_009-bkkpn262}
+  - {type: 'tls:seg', offset: 1257, content: '', id: KR3e0002_CHANT_009-5a.10}
+  - {type: punctuation, offset: 1261, content: ，, id: KR3e0002_CHANT_009-bkkpn263}
+  - {type: 'tls:seg', offset: 1261, content: '', id: KR3e0002_CHANT_009-5a.11}
+  - {type: punctuation, offset: 1264, content: 。, id: KR3e0002_CHANT_009-bkkpn264}
+  - {type: 'tls:seg', offset: 1264, content: '', id: KR3e0002_CHANT_009-5a.12}
+  - {type: punctuation, offset: 1268, content: ，, id: KR3e0002_CHANT_009-bkkpn265}
+  - {type: 'tls:seg', offset: 1268, content: '', id: KR3e0002_CHANT_009-5a.13}
+  - {type: punctuation, offset: 1271, content: 。, id: KR3e0002_CHANT_009-bkkpn266}
+  - {type: 'tls:seg', offset: 1271, content: '', id: KR3e0002_CHANT_009-5a.14}
+  - {type: punctuation, offset: 1275, content: ，, id: KR3e0002_CHANT_009-bkkpn267}
+  - {type: 'tls:seg', offset: 1275, content: '', id: KR3e0002_CHANT_009-5a.15}
+  - {type: punctuation, offset: 1278, content: 。, id: KR3e0002_CHANT_009-bkkpn268}
+  - {type: 'tls:seg', offset: 1278, content: '', id: KR3e0002_CHANT_009-5a.16}
+  - {type: punctuation, offset: 1282, content: ，, id: KR3e0002_CHANT_009-bkkpn269}
+  - {type: 'tls:seg', offset: 1282, content: '', id: KR3e0002_CHANT_009-5a.17}
+  - {type: punctuation, offset: 1285, content: 。, id: KR3e0002_CHANT_009-bkkpn270}
+  - {type: 'tls:seg', offset: 1285, content: '', id: KR3e0002_CHANT_009-5a.18}
+  - {type: punctuation, offset: 1290, content: ，, id: KR3e0002_CHANT_009-bkkpn271}
+  - {type: 'tls:seg', offset: 1290, content: '', id: KR3e0002_CHANT_009-5a.19}
+  - {type: punctuation, offset: 1292, content: 。, id: KR3e0002_CHANT_009-bkkpn272}
+  - {type: 'tls:seg', offset: 1292, content: '', id: KR3e0002_CHANT_009-5a.20}
+  - {type: punctuation, offset: 1296, content: ，, id: KR3e0002_CHANT_009-bkkpn273}
+  - {type: 'tls:seg', offset: 1296, content: '', id: KR3e0002_CHANT_009-5a.21}
+  - {type: punctuation, offset: 1298, content: 。, id: KR3e0002_CHANT_009-bkkpn274}
+  - {type: 'tls:seg', offset: 1298, content: '', id: KR3e0002_CHANT_009-5a.22}
+  - {type: punctuation, offset: 1302, content: ，, id: KR3e0002_CHANT_009-bkkpn275}
+  - {type: 'tls:seg', offset: 1302, content: '', id: KR3e0002_CHANT_009-5a.23}
+  - {type: punctuation, offset: 1304, content: 。, id: KR3e0002_CHANT_009-bkkpn276}
+  - {type: 'tls:seg', offset: 1304, content: '', id: KR3e0002_CHANT_009-5a.24}
+  - {type: punctuation, offset: 1307, content: ，, id: KR3e0002_CHANT_009-bkkpn277}
+  - {type: 'tls:seg', offset: 1307, content: '', id: KR3e0002_CHANT_009-5a.25}
+  - {type: punctuation, offset: 1316, content: 。, id: KR3e0002_CHANT_009-bkkpn278}
+  - {type: xml-element, offset: 1316, content: '', id: KR3e0002_CHANT_009-bkkxmlele12}
+  - {type: xml-element, offset: 1316, content: '', id: KR3e0002_CHANT_009-bkkxmlele13}
+  - {type: 'tls:seg', offset: 1316, content: '', id: KR3e0002_CHANT_009-6a.1}
+  - {type: 'tls:seg', offset: 1316, content: '', id: KR3e0002_CHANT_009-6a.2}
+  - {type: 'tls:seg', offset: 1316, content: '', id: KR3e0002_CHANT_009-6a.3}
+  - {type: punctuation, offset: 1320, content: ，, id: KR3e0002_CHANT_009-bkkpn279}
+  - {type: 'tls:seg', offset: 1320, content: '', id: KR3e0002_CHANT_009-6a.4}
+  - {type: punctuation, offset: 1325, content: ，, id: KR3e0002_CHANT_009-bkkpn280}
+  - {type: 'tls:seg', offset: 1325, content: '', id: KR3e0002_CHANT_009-6a.5}
+  - {type: punctuation, offset: 1330, content: ，, id: KR3e0002_CHANT_009-bkkpn281}
+  - {type: 'tls:seg', offset: 1330, content: '', id: KR3e0002_CHANT_009-6a.6}
+  - {type: punctuation, offset: 1335, content: ，, id: KR3e0002_CHANT_009-bkkpn282}
+  - {type: 'tls:seg', offset: 1335, content: '', id: KR3e0002_CHANT_009-6a.7}
+  - {type: punctuation, offset: 1339, content: ，, id: KR3e0002_CHANT_009-bkkpn283}
+  - {type: 'tls:seg', offset: 1339, content: '', id: KR3e0002_CHANT_009-6a.8}
+  - {type: punctuation, offset: 1345, content: 。, id: KR3e0002_CHANT_009-bkkpn284}
+  - {type: 'tls:seg', offset: 1345, content: '', id: KR3e0002_CHANT_009-6a.9}
+  - {type: punctuation, offset: 1350, content: ，, id: KR3e0002_CHANT_009-bkkpn285}
+  - {type: 'tls:seg', offset: 1350, content: '', id: KR3e0002_CHANT_009-6a.10}
+  - {type: punctuation, offset: 1355, content: ，, id: KR3e0002_CHANT_009-bkkpn286}
+  - {type: 'tls:seg', offset: 1355, content: '', id: KR3e0002_CHANT_009-6a.11}
+  - {type: punctuation, offset: 1359, content: ，, id: KR3e0002_CHANT_009-bkkpn287}
+  - {type: 'tls:seg', offset: 1359, content: '', id: KR3e0002_CHANT_009-6a.12}
+  - {type: punctuation, offset: 1364, content: 。, id: KR3e0002_CHANT_009-bkkpn288}
+  - {type: xml-element, offset: 1364, content: '', id: KR3e0002_CHANT_009-bkkxmlele14}
+  - {type: xml-element, offset: 1364, content: '', id: KR3e0002_CHANT_009-bkkxmlele15}
+  - {type: 'tls:seg', offset: 1364, content: '', id: KR3e0002_CHANT_009-7a.1}
+  - {type: 'tls:seg', offset: 1364, content: '', id: KR3e0002_CHANT_009-7a.2}
+  - {type: 'tls:seg', offset: 1364, content: '', id: KR3e0002_CHANT_009-7a.3}
+  - {type: punctuation, offset: 1367, content: ，, id: KR3e0002_CHANT_009-bkkpn289}
+  - {type: 'tls:seg', offset: 1367, content: '', id: KR3e0002_CHANT_009-7a.4}
+  - {type: punctuation, offset: 1369, content: ，, id: KR3e0002_CHANT_009-bkkpn290}
+  - {type: 'tls:seg', offset: 1369, content: '', id: KR3e0002_CHANT_009-7a.5}
+  - {type: punctuation, offset: 1378, content: ，, id: KR3e0002_CHANT_009-bkkpn291}
+  - {type: 'tls:seg', offset: 1378, content: '', id: KR3e0002_CHANT_009-7a.6}
+  - {type: punctuation, offset: 1380, content: ，, id: KR3e0002_CHANT_009-bkkpn292}
+  - {type: 'tls:seg', offset: 1380, content: '', id: KR3e0002_CHANT_009-7a.7}
+  - {type: punctuation, offset: 1383, content: 。, id: KR3e0002_CHANT_009-bkkpn293}
+  - {type: 'tls:seg', offset: 1383, content: '', id: KR3e0002_CHANT_009-7a.8}
+  - {type: punctuation, offset: 1387, content: ，, id: KR3e0002_CHANT_009-bkkpn294}
+  - {type: 'tls:seg', offset: 1387, content: '', id: KR3e0002_CHANT_009-7a.9}
+  - {type: punctuation, offset: 1389, content: 。, id: KR3e0002_CHANT_009-bkkpn295}
+  - {type: 'tls:seg', offset: 1389, content: '', id: KR3e0002_CHANT_009-7a.10}
+  - {type: punctuation, offset: 1393, content: ，, id: KR3e0002_CHANT_009-bkkpn296}
+  - {type: 'tls:seg', offset: 1393, content: '', id: KR3e0002_CHANT_009-7a.11}
+  - {type: punctuation, offset: 1395, content: 。, id: KR3e0002_CHANT_009-bkkpn297}
+  - {type: 'tls:seg', offset: 1395, content: '', id: KR3e0002_CHANT_009-7a.12}
+  - {type: punctuation, offset: 1397, content: ，, id: KR3e0002_CHANT_009-bkkpn298}
+  - {type: 'tls:seg', offset: 1397, content: '', id: KR3e0002_CHANT_009-7a.13}
+  - {type: punctuation, offset: 1399, content: ，, id: KR3e0002_CHANT_009-bkkpn299}
+  - {type: 'tls:seg', offset: 1399, content: '', id: KR3e0002_CHANT_009-7a.14}
+  - {type: punctuation, offset: 1402, content: 。, id: KR3e0002_CHANT_009-bkkpn300}
+  - {type: 'tls:seg', offset: 1402, content: '', id: KR3e0002_CHANT_009-7a.15}
+  - {type: punctuation, offset: 1407, content: ，, id: KR3e0002_CHANT_009-bkkpn301}
+  - {type: 'tls:seg', offset: 1407, content: '', id: KR3e0002_CHANT_009-7a.16}
+  - {type: punctuation, offset: 1411, content: ，, id: KR3e0002_CHANT_009-bkkpn302}
+  - {type: 'tls:seg', offset: 1411, content: '', id: KR3e0002_CHANT_009-7a.17}
+  - {type: punctuation, offset: 1416, content: ，, id: KR3e0002_CHANT_009-bkkpn303}
+  - {type: 'tls:seg', offset: 1416, content: '', id: KR3e0002_CHANT_009-7a.18}
+  - {type: punctuation, offset: 1421, content: ，, id: KR3e0002_CHANT_009-bkkpn304}
+  - {type: 'tls:seg', offset: 1421, content: '', id: KR3e0002_CHANT_009-7a.19}
+  - {type: punctuation, offset: 1425, content: ，, id: KR3e0002_CHANT_009-bkkpn305}
+  - {type: 'tls:seg', offset: 1425, content: '', id: KR3e0002_CHANT_009-7a.20}
+  - {type: punctuation, offset: 1430, content: 。, id: KR3e0002_CHANT_009-bkkpn306}
+  - {type: xml-element, offset: 1430, content: '', id: KR3e0002_CHANT_009-bkkxmlele16}
+  - {type: xml-element, offset: 1430, content: '', id: KR3e0002_CHANT_009-bkkxmlele17}
+  - {type: 'tls:seg', offset: 1430, content: '', id: KR3e0002_CHANT_009-8a.1}
+  - {type: 'tls:seg', offset: 1430, content: '', id: KR3e0002_CHANT_009-8a.2}
+  - {type: 'tls:seg', offset: 1430, content: '', id: KR3e0002_CHANT_009-8a.3}
+  - {type: punctuation, offset: 1434, content: ，, id: KR3e0002_CHANT_009-bkkpn307}
+  - {type: 'tls:seg', offset: 1434, content: '', id: KR3e0002_CHANT_009-8a.4}
+  - {type: substitution, offset: 1435, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 1439, content: ，, id: KR3e0002_CHANT_009-bkkpn308}
+  - {type: 'tls:seg', offset: 1439, content: '', id: KR3e0002_CHANT_009-8a.5}
+  - {type: punctuation, offset: 1443, content: ，, id: KR3e0002_CHANT_009-bkkpn309}
+  - {type: 'tls:seg', offset: 1443, content: '', id: KR3e0002_CHANT_009-8a.6}
+  - {type: substitution, offset: 1444, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 1448, content: 。, id: KR3e0002_CHANT_009-bkkpn310}
+  - {type: 'tls:seg', offset: 1448, content: '', id: KR3e0002_CHANT_009-8a.7}
+  - {type: punctuation, offset: 1452, content: ，, id: KR3e0002_CHANT_009-bkkpn311}
+  - {type: 'tls:seg', offset: 1452, content: '', id: KR3e0002_CHANT_009-8a.8}
+  - {type: punctuation, offset: 1456, content: ，, id: KR3e0002_CHANT_009-bkkpn312}
+  - {type: 'tls:seg', offset: 1456, content: '', id: KR3e0002_CHANT_009-8a.9}
+  - {type: punctuation, offset: 1460, content: ，, id: KR3e0002_CHANT_009-bkkpn313}
+  - {type: 'tls:seg', offset: 1460, content: '', id: KR3e0002_CHANT_009-8a.10}
+  - {type: punctuation, offset: 1464, content: 。, id: KR3e0002_CHANT_009-bkkpn314}
+  - {type: 'tls:seg', offset: 1464, content: '', id: KR3e0002_CHANT_009-8a.11}
+  - {type: punctuation, offset: 1469, content: ，, id: KR3e0002_CHANT_009-bkkpn315}
+  - {type: 'tls:seg', offset: 1469, content: '', id: KR3e0002_CHANT_009-8a.12}
+  - {type: punctuation, offset: 1473, content: ，, id: KR3e0002_CHANT_009-bkkpn316}
+  - {type: 'tls:seg', offset: 1473, content: '', id: KR3e0002_CHANT_009-8a.13}
+  - {type: punctuation, offset: 1476, content: ，, id: KR3e0002_CHANT_009-bkkpn317}
+  - {type: 'tls:seg', offset: 1476, content: '', id: KR3e0002_CHANT_009-8a.14}
+  - {type: punctuation, offset: 1480, content: 。, id: KR3e0002_CHANT_009-bkkpn318}
+  - {type: xml-element, offset: 1480, content: '', id: KR3e0002_CHANT_009-bkkxmlele18}
+  - {type: xml-element, offset: 1480, content: '', id: KR3e0002_CHANT_009-bkkxmlele19}
+  - {type: 'tls:seg', offset: 1480, content: '', id: KR3e0002_CHANT_009-9a.1}
+  - {type: 'tls:seg', offset: 1480, content: '', id: KR3e0002_CHANT_009-9a.2}
+  - {type: 'tls:seg', offset: 1480, content: '', id: KR3e0002_CHANT_009-9a.3}
+  - {type: punctuation, offset: 1483, content: ，, id: KR3e0002_CHANT_009-bkkpn319}
+  - {type: 'tls:seg', offset: 1483, content: '', id: KR3e0002_CHANT_009-9a.4}
+  - {type: punctuation, offset: 1487, content: 。, id: KR3e0002_CHANT_009-bkkpn320}
+  - {type: 'tls:seg', offset: 1487, content: '', id: KR3e0002_CHANT_009-9a.5}
+  - {type: punctuation, offset: 1491, content: ，, id: KR3e0002_CHANT_009-bkkpn321}
+  - {type: 'tls:seg', offset: 1491, content: '', id: KR3e0002_CHANT_009-9a.6}
+  - {type: punctuation, offset: 1497, content: ，, id: KR3e0002_CHANT_009-bkkpn322}
+  - {type: 'tls:seg', offset: 1497, content: '', id: KR3e0002_CHANT_009-9a.7}
+  - {type: punctuation, offset: 1503, content: ，, id: KR3e0002_CHANT_009-bkkpn323}
+  - {type: 'tls:seg', offset: 1503, content: '', id: KR3e0002_CHANT_009-9a.8}
+  - {type: variant, offset: 1505, length: 2, content: 調其, SBCK: 朙知二十五人則血氣之所在}
+  - {type: variant, offset: 1505, length: 2, content: 調其, WYG: 明知二十五人則血氣之所在}
+  - {type: variant, offset: 1505, length: 2, content: 調其, krp: 朙知二十五人則血氣之所在}
+  - {type: page-break, offset: 1507, content: '', id: KR3e0002_SBCK_009-21b}
+  - {type: punctuation, offset: 1509, content: ，, id: KR3e0002_CHANT_009-bkkpn324}
+  - {type: 'tls:seg', offset: 1509, content: '', id: KR3e0002_CHANT_009-9a.9}
+  - {type: variant, offset: 1509, length: 355, content: 去其血脈刺道畢矣凡刺之法必察其形氣形肉未脫少氣而脈又躁躁厥者必為繆刺之散氣可收聚氣可布深居靜處占神往來閉戶塞牖魂魄不散專意一神精氣之分毋聞人聲以收其精必一其神令志在鍼淺而留之微而浮之以移其神氣至乃休男內女外堅拒勿出謹守勿內是謂得氣凡刺之禁新內勿刺新刺勿內已醉勿刺已刺勿醉新怒勿刺已刺勿怒新勞勿刺已刺勿勞已飽勿刺已刺勿飽已饑勿刺已刺勿饑已渴勿刺已刺勿渴大驚大恐必定其氣乃刺之乘車來者臥而休之如食頃乃刺之出行來者坐而休之如行十里頃乃刺之凡此十二禁者其脈亂氣散逆其營衛經氣不次因而刺之則陽病入於陰陰病出為陽則邪氣復生麤工勿察是謂伐身形體淫泆乃消腦髓津液不化脫其五味是謂失氣也太陽之脈其終也戴眼反折瘛瘲其色白絕皮乃絕汗絕汗則終矣少陽終者耳聾百節盡縱目系絕目系絕一日半則死矣其死也色青白乃死陽明終者口目動作喜驚妄言色黃其, SBCK: ''}
+  - {type: variant, offset: 1509, length: 355, content: 去其血脈刺道畢矣凡刺之法必察其形氣形肉未脫少氣而脈又躁躁厥者必為繆刺之散氣可收聚氣可布深居靜處占神往來閉戶塞牖魂魄不散專意一神精氣之分毋聞人聲以收其精必一其神令志在鍼淺而留之微而浮之以移其神氣至乃休男內女外堅拒勿出謹守勿內是謂得氣凡刺之禁新內勿刺新刺勿內已醉勿刺已刺勿醉新怒勿刺已刺勿怒新勞勿刺已刺勿勞已飽勿刺已刺勿飽已饑勿刺已刺勿饑已渴勿刺已刺勿渴大驚大恐必定其氣乃刺之乘車來者臥而休之如食頃乃刺之出行來者坐而休之如行十里頃乃刺之凡此十二禁者其脈亂氣散逆其營衛經氣不次因而刺之則陽病入於陰陰病出為陽則邪氣復生麤工勿察是謂伐身形體淫泆乃消腦髓津液不化脫其五味是謂失氣也太陽之脈其終也戴眼反折瘛瘲其色白絕皮乃絕汗絕汗則終矣少陽終者耳聾百節盡縱目系絕目系絕一日半則死矣其死也色青白乃死陽明終者口目動作喜驚妄言色黃其, WYG: ''}
+  - {type: variant, offset: 1509, length: 355, content: 去其血脈刺道畢矣凡刺之法必察其形氣形肉未脫少氣而脈又躁躁厥者必為繆刺之散氣可收聚氣可布深居靜處占神往來閉戶塞牖魂魄不散專意一神精氣之分毋聞人聲以收其精必一其神令志在鍼淺而留之微而浮之以移其神氣至乃休男內女外堅拒勿出謹守勿內是謂得氣凡刺之禁新內勿刺新刺勿內已醉勿刺已刺勿醉新怒勿刺已刺勿怒新勞勿刺已刺勿勞已飽勿刺已刺勿飽已饑勿刺已刺勿饑已渴勿刺已刺勿渴大驚大恐必定其氣乃刺之乘車來者臥而休之如食頃乃刺之出行來者坐而休之如行十里頃乃刺之凡此十二禁者其脈亂氣散逆其營衛經氣不次因而刺之則陽病入於陰陰病出為陽則邪氣復生麤工勿察是謂伐身形體淫泆乃消腦髓津液不化脫其五味是謂失氣也太陽之脈其終也戴眼反折瘛瘲其色白絕皮乃絕汗絕汗則終矣少陽終者耳聾百節盡縱目系絕目系絕一日半則死矣其死也色青白乃死陽明終者口目動作喜驚妄言色黃其, krp: ''}
+  - {type: punctuation, offset: 1513, content: ，, id: KR3e0002_CHANT_009-bkkpn325}
+  - {type: 'tls:seg', offset: 1513, content: '', id: KR3e0002_CHANT_009-9a.10}
+  - {type: punctuation, offset: 1517, content: 。, id: KR3e0002_CHANT_009-bkkpn326}
+  - {type: xml-element, offset: 1517, content: '', id: KR3e0002_CHANT_009-bkkxmlele20}
+  - {type: xml-element, offset: 1517, content: '', id: KR3e0002_CHANT_009-bkkxmlele21}
+  - {type: 'tls:seg', offset: 1517, content: '', id: KR3e0002_CHANT_009-10a.1}
+  - {type: 'tls:seg', offset: 1517, content: '', id: KR3e0002_CHANT_009-10a.2}
+  - {type: 'tls:seg', offset: 1517, content: '', id: KR3e0002_CHANT_009-10a.3}
+  - {type: punctuation, offset: 1521, content: ，, id: KR3e0002_CHANT_009-bkkpn327}
+  - {type: 'tls:seg', offset: 1521, content: '', id: KR3e0002_CHANT_009-10a.4}
+  - {type: punctuation, offset: 1526, content: ，, id: KR3e0002_CHANT_009-bkkpn328}
+  - {type: 'tls:seg', offset: 1526, content: '', id: KR3e0002_CHANT_009-10a.5}
+  - {type: punctuation, offset: 1530, content: ，, id: KR3e0002_CHANT_009-bkkpn329}
+  - {type: 'tls:seg', offset: 1530, content: '', id: KR3e0002_CHANT_009-10a.6}
+  - {type: punctuation, offset: 1536, content: ，, id: KR3e0002_CHANT_009-bkkpn330}
+  - {type: 'tls:seg', offset: 1536, content: '', id: KR3e0002_CHANT_009-10a.7}
+  - {type: punctuation, offset: 1539, content: ，, id: KR3e0002_CHANT_009-bkkpn331}
+  - {type: 'tls:seg', offset: 1539, content: '', id: KR3e0002_CHANT_009-10a.8}
+  - {type: punctuation, offset: 1544, content: ，, id: KR3e0002_CHANT_009-bkkpn332}
+  - {type: 'tls:seg', offset: 1544, content: '', id: KR3e0002_CHANT_009-10a.9}
+  - {type: punctuation, offset: 1548, content: 。, id: KR3e0002_CHANT_009-bkkpn333}
+  - {type: 'tls:seg', offset: 1548, content: '', id: KR3e0002_CHANT_009-10a.10}
+  - {type: punctuation, offset: 1552, content: ，, id: KR3e0002_CHANT_009-bkkpn334}
+  - {type: 'tls:seg', offset: 1552, content: '', id: KR3e0002_CHANT_009-10a.11}
+  - {type: punctuation, offset: 1556, content: ，, id: KR3e0002_CHANT_009-bkkpn335}
+  - {type: 'tls:seg', offset: 1556, content: '', id: KR3e0002_CHANT_009-10a.12}
+  - {type: punctuation, offset: 1560, content: ，, id: KR3e0002_CHANT_009-bkkpn336}
+  - {type: 'tls:seg', offset: 1560, content: '', id: KR3e0002_CHANT_009-10a.13}
+  - {type: punctuation, offset: 1564, content: ，, id: KR3e0002_CHANT_009-bkkpn337}
+  - {type: 'tls:seg', offset: 1564, content: '', id: KR3e0002_CHANT_009-10a.14}
+  - {type: punctuation, offset: 1568, content: ，, id: KR3e0002_CHANT_009-bkkpn338}
+  - {type: 'tls:seg', offset: 1568, content: '', id: KR3e0002_CHANT_009-10a.15}
+  - {type: punctuation, offset: 1572, content: ，, id: KR3e0002_CHANT_009-bkkpn339}
+  - {type: 'tls:seg', offset: 1572, content: '', id: KR3e0002_CHANT_009-10a.16}
+  - {type: punctuation, offset: 1576, content: ，, id: KR3e0002_CHANT_009-bkkpn340}
+  - {type: 'tls:seg', offset: 1576, content: '', id: KR3e0002_CHANT_009-10a.17}
+  - {type: punctuation, offset: 1580, content: ，, id: KR3e0002_CHANT_009-bkkpn341}
+  - {type: 'tls:seg', offset: 1580, content: '', id: KR3e0002_CHANT_009-10a.18}
+  - {type: punctuation, offset: 1584, content: ，, id: KR3e0002_CHANT_009-bkkpn342}
+  - {type: 'tls:seg', offset: 1584, content: '', id: KR3e0002_CHANT_009-10a.19}
+  - {type: punctuation, offset: 1588, content: ，, id: KR3e0002_CHANT_009-bkkpn343}
+  - {type: 'tls:seg', offset: 1588, content: '', id: KR3e0002_CHANT_009-10a.20}
+  - {type: substitution, offset: 1591, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
+  - {type: punctuation, offset: 1592, content: ，, id: KR3e0002_CHANT_009-bkkpn344}
+  - {type: 'tls:seg', offset: 1592, content: '', id: KR3e0002_CHANT_009-10a.21}
+  - {type: punctuation, offset: 1596, content: ，, id: KR3e0002_CHANT_009-bkkpn345}
+  - {type: 'tls:seg', offset: 1596, content: '', id: KR3e0002_CHANT_009-10a.22}
+  - {type: punctuation, offset: 1600, content: ，, id: KR3e0002_CHANT_009-bkkpn346}
+  - {type: 'tls:seg', offset: 1600, content: '', id: KR3e0002_CHANT_009-10a.23}
+  - {type: punctuation, offset: 1604, content: ，, id: KR3e0002_CHANT_009-bkkpn347}
+  - {type: 'tls:seg', offset: 1604, content: '', id: KR3e0002_CHANT_009-10a.24}
+  - {type: punctuation, offset: 1608, content: 。, id: KR3e0002_CHANT_009-bkkpn348}
+  - {type: 'tls:seg', offset: 1608, content: '', id: KR3e0002_CHANT_009-10a.25}
+  - {type: punctuation, offset: 1612, content: ，, id: KR3e0002_CHANT_009-bkkpn349}
+  - {type: 'tls:seg', offset: 1612, content: '', id: KR3e0002_CHANT_009-10a.26}
+  - {type: punctuation, offset: 1616, content: ，, id: KR3e0002_CHANT_009-bkkpn350}
+  - {type: 'tls:seg', offset: 1616, content: '', id: KR3e0002_CHANT_009-10a.27}
+  - {type: punctuation, offset: 1620, content: ，, id: KR3e0002_CHANT_009-bkkpn351}
+  - {type: 'tls:seg', offset: 1620, content: '', id: KR3e0002_CHANT_009-10a.28}
+  - {type: punctuation, offset: 1624, content: 。, id: KR3e0002_CHANT_009-bkkpn352}
+  - {type: xml-element, offset: 1624, content: '', id: KR3e0002_CHANT_009-bkkxmlele22}
+  - {type: xml-element, offset: 1624, content: '', id: KR3e0002_CHANT_009-bkkxmlele23}
+  - {type: 'tls:seg', offset: 1624, content: '', id: KR3e0002_CHANT_009-11a.1}
+  - {type: 'tls:seg', offset: 1624, content: '', id: KR3e0002_CHANT_009-11a.2}
+  - {type: 'tls:seg', offset: 1624, content: '', id: KR3e0002_CHANT_009-11a.3}
+  - {type: punctuation, offset: 1628, content: ，, id: KR3e0002_CHANT_009-bkkpn353}
+  - {type: 'tls:seg', offset: 1628, content: '', id: KR3e0002_CHANT_009-11a.4}
+  - {type: punctuation, offset: 1632, content: 。, id: KR3e0002_CHANT_009-bkkpn354}
+  - {type: 'tls:seg', offset: 1632, content: '', id: KR3e0002_CHANT_009-11a.5}
+  - {type: punctuation, offset: 1636, content: ，, id: KR3e0002_CHANT_009-bkkpn355}
+  - {type: 'tls:seg', offset: 1636, content: '', id: KR3e0002_CHANT_009-11a.6}
+  - {type: punctuation, offset: 1640, content: ，, id: KR3e0002_CHANT_009-bkkpn356}
+  - {type: 'tls:seg', offset: 1640, content: '', id: KR3e0002_CHANT_009-11a.7}
+  - {type: punctuation, offset: 1644, content: 。, id: KR3e0002_CHANT_009-bkkpn357}
+  - {type: 'tls:seg', offset: 1644, content: '', id: KR3e0002_CHANT_009-11a.8}
+  - {type: punctuation, offset: 1648, content: ，, id: KR3e0002_CHANT_009-bkkpn358}
+  - {type: 'tls:seg', offset: 1648, content: '', id: KR3e0002_CHANT_009-11a.9}
+  - {type: punctuation, offset: 1652, content: ，, id: KR3e0002_CHANT_009-bkkpn359}
+  - {type: 'tls:seg', offset: 1652, content: '', id: KR3e0002_CHANT_009-11a.10}
+  - {type: punctuation, offset: 1656, content: ，, id: KR3e0002_CHANT_009-bkkpn360}
+  - {type: 'tls:seg', offset: 1656, content: '', id: KR3e0002_CHANT_009-11a.11}
+  - {type: punctuation, offset: 1660, content: ，, id: KR3e0002_CHANT_009-bkkpn361}
+  - {type: 'tls:seg', offset: 1660, content: '', id: KR3e0002_CHANT_009-11a.12}
+  - {type: punctuation, offset: 1664, content: ，, id: KR3e0002_CHANT_009-bkkpn362}
+  - {type: 'tls:seg', offset: 1664, content: '', id: KR3e0002_CHANT_009-11a.13}
+  - {type: punctuation, offset: 1668, content: ，, id: KR3e0002_CHANT_009-bkkpn363}
+  - {type: 'tls:seg', offset: 1668, content: '', id: KR3e0002_CHANT_009-11a.14}
+  - {type: punctuation, offset: 1672, content: ，, id: KR3e0002_CHANT_009-bkkpn364}
+  - {type: 'tls:seg', offset: 1672, content: '', id: KR3e0002_CHANT_009-11a.15}
+  - {type: punctuation, offset: 1676, content: ，, id: KR3e0002_CHANT_009-bkkpn365}
+  - {type: 'tls:seg', offset: 1676, content: '', id: KR3e0002_CHANT_009-11a.16}
+  - {type: punctuation, offset: 1680, content: ，, id: KR3e0002_CHANT_009-bkkpn366}
+  - {type: 'tls:seg', offset: 1680, content: '', id: KR3e0002_CHANT_009-11a.17}
+  - {type: punctuation, offset: 1684, content: ，, id: KR3e0002_CHANT_009-bkkpn367}
+  - {type: 'tls:seg', offset: 1684, content: '', id: KR3e0002_CHANT_009-11a.18}
+  - {type: punctuation, offset: 1688, content: ，, id: KR3e0002_CHANT_009-bkkpn368}
+  - {type: 'tls:seg', offset: 1688, content: '', id: KR3e0002_CHANT_009-11a.19}
+  - {type: punctuation, offset: 1692, content: ，, id: KR3e0002_CHANT_009-bkkpn369}
+  - {type: 'tls:seg', offset: 1692, content: '', id: KR3e0002_CHANT_009-11a.20}
+  - {type: punctuation, offset: 1695, content: 。, id: KR3e0002_CHANT_009-bkkpn370}
+  - {type: 'tls:seg', offset: 1695, content: '', id: KR3e0002_CHANT_009-11a.21}
+  - {type: punctuation, offset: 1699, content: ，, id: KR3e0002_CHANT_009-bkkpn371}
+  - {type: 'tls:seg', offset: 1699, content: '', id: KR3e0002_CHANT_009-11a.22}
+  - {type: punctuation, offset: 1703, content: ，, id: KR3e0002_CHANT_009-bkkpn372}
+  - {type: 'tls:seg', offset: 1703, content: '', id: KR3e0002_CHANT_009-11a.23}
+  - {type: punctuation, offset: 1706, content: ，, id: KR3e0002_CHANT_009-bkkpn373}
+  - {type: 'tls:seg', offset: 1706, content: '', id: KR3e0002_CHANT_009-11a.24}
+  - {type: punctuation, offset: 1709, content: 。, id: KR3e0002_CHANT_009-bkkpn374}
+  - {type: 'tls:seg', offset: 1709, content: '', id: KR3e0002_CHANT_009-11a.25}
+  - {type: punctuation, offset: 1713, content: ，, id: KR3e0002_CHANT_009-bkkpn375}
+  - {type: 'tls:seg', offset: 1713, content: '', id: KR3e0002_CHANT_009-11a.26}
+  - {type: punctuation, offset: 1717, content: ，, id: KR3e0002_CHANT_009-bkkpn376}
+  - {type: 'tls:seg', offset: 1717, content: '', id: KR3e0002_CHANT_009-11a.27}
+  - {type: punctuation, offset: 1722, content: ，, id: KR3e0002_CHANT_009-bkkpn377}
+  - {type: 'tls:seg', offset: 1722, content: '', id: KR3e0002_CHANT_009-11a.28}
+  - {type: punctuation, offset: 1725, content: 。, id: KR3e0002_CHANT_009-bkkpn378}
+  - {type: 'tls:seg', offset: 1725, content: '', id: KR3e0002_CHANT_009-11a.29}
+  - {type: punctuation, offset: 1731, content: ，, id: KR3e0002_CHANT_009-bkkpn379}
+  - {type: 'tls:seg', offset: 1731, content: '', id: KR3e0002_CHANT_009-11a.30}
+  - {type: punctuation, offset: 1737, content: ，, id: KR3e0002_CHANT_009-bkkpn380}
+  - {type: 'tls:seg', offset: 1737, content: '', id: KR3e0002_CHANT_009-11a.31}
+  - {type: punctuation, offset: 1744, content: ，, id: KR3e0002_CHANT_009-bkkpn381}
+  - {type: 'tls:seg', offset: 1744, content: '', id: KR3e0002_CHANT_009-11a.32}
+  - {type: punctuation, offset: 1748, content: ，, id: KR3e0002_CHANT_009-bkkpn382}
+  - {type: 'tls:seg', offset: 1748, content: '', id: KR3e0002_CHANT_009-11a.33}
+  - {type: punctuation, offset: 1754, content: ，, id: KR3e0002_CHANT_009-bkkpn383}
+  - {type: 'tls:seg', offset: 1754, content: '', id: KR3e0002_CHANT_009-11a.34}
+  - {type: punctuation, offset: 1759, content: ，, id: KR3e0002_CHANT_009-bkkpn384}
+  - {type: 'tls:seg', offset: 1759, content: '', id: KR3e0002_CHANT_009-11a.35}
+  - {type: punctuation, offset: 1764, content: ，, id: KR3e0002_CHANT_009-bkkpn385}
+  - {type: 'tls:seg', offset: 1764, content: '', id: KR3e0002_CHANT_009-11a.36}
+  - {type: substitution, offset: 1764, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1132}}
+  - {type: punctuation, offset: 1768, content: ，, id: KR3e0002_CHANT_009-bkkpn386}
+  - {type: 'tls:seg', offset: 1768, content: '', id: KR3e0002_CHANT_009-11a.37}
+  - {type: punctuation, offset: 1772, content: ，, id: KR3e0002_CHANT_009-bkkpn387}
+  - {type: 'tls:seg', offset: 1772, content: '', id: KR3e0002_CHANT_009-11a.38}
+  - {type: punctuation, offset: 1776, content: ，, id: KR3e0002_CHANT_009-bkkpn388}
+  - {type: 'tls:seg', offset: 1776, content: '', id: KR3e0002_CHANT_009-11a.39}
+  - {type: punctuation, offset: 1780, content: ，, id: KR3e0002_CHANT_009-bkkpn389}
+  - {type: 'tls:seg', offset: 1780, content: '', id: KR3e0002_CHANT_009-11a.40}
+  - {type: punctuation, offset: 1784, content: ，, id: KR3e0002_CHANT_009-bkkpn390}
+  - {type: 'tls:seg', offset: 1784, content: '', id: KR3e0002_CHANT_009-11a.41}
+  - {type: punctuation, offset: 1788, content: ，, id: KR3e0002_CHANT_009-bkkpn391}
+  - {type: 'tls:seg', offset: 1788, content: '', id: KR3e0002_CHANT_009-11a.42}
+  - {type: punctuation, offset: 1793, content: 。, id: KR3e0002_CHANT_009-bkkpn392}
+  - {type: xml-element, offset: 1793, content: '', id: KR3e0002_CHANT_009-bkkxmlele24}
+  - {type: xml-element, offset: 1793, content: '', id: KR3e0002_CHANT_009-bkkxmlele25}
+  - {type: 'tls:seg', offset: 1793, content: '', id: KR3e0002_CHANT_009-12a.1}
+  - {type: 'tls:seg', offset: 1793, content: '', id: KR3e0002_CHANT_009-12a.2}
+  - {type: 'tls:seg', offset: 1793, content: '', id: KR3e0002_CHANT_009-12a.3}
+  - {type: punctuation, offset: 1797, content: ，, id: KR3e0002_CHANT_009-bkkpn393}
+  - {type: 'tls:seg', offset: 1797, content: '', id: KR3e0002_CHANT_009-12a.4}
+  - {type: punctuation, offset: 1800, content: ，, id: KR3e0002_CHANT_009-bkkpn394}
+  - {type: 'tls:seg', offset: 1800, content: '', id: KR3e0002_CHANT_009-12a.5}
+  - {type: punctuation, offset: 1802, content: ，, id: KR3e0002_CHANT_009-bkkpn395}
+  - {type: 'tls:seg', offset: 1802, content: '', id: KR3e0002_CHANT_009-12a.6}
+  - {type: punctuation, offset: 1804, content: ，, id: KR3e0002_CHANT_009-bkkpn396}
+  - {type: 'tls:seg', offset: 1804, content: '', id: KR3e0002_CHANT_009-12a.7}
+  - {type: punctuation, offset: 1806, content: ，, id: KR3e0002_CHANT_009-bkkpn397}
+  - {type: 'tls:seg', offset: 1806, content: '', id: KR3e0002_CHANT_009-12a.8}
+  - {type: punctuation, offset: 1809, content: ，, id: KR3e0002_CHANT_009-bkkpn398}
+  - {type: 'tls:seg', offset: 1809, content: '', id: KR3e0002_CHANT_009-12a.9}
+  - {type: substitution, offset: 1809, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: substitution, offset: 1812, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 1814, content: ，, id: KR3e0002_CHANT_009-bkkpn399}
+  - {type: 'tls:seg', offset: 1814, content: '', id: KR3e0002_CHANT_009-12a.10}
+  - {type: substitution, offset: 1814, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 1819, content: 。, id: KR3e0002_CHANT_009-bkkpn400}
+  - {type: 'tls:seg', offset: 1819, content: '', id: KR3e0002_CHANT_009-12a.11}
+  - {type: punctuation, offset: 1823, content: ，, id: KR3e0002_CHANT_009-bkkpn401}
+  - {type: 'tls:seg', offset: 1823, content: '', id: KR3e0002_CHANT_009-12a.12}
+  - {type: punctuation, offset: 1825, content: ，, id: KR3e0002_CHANT_009-bkkpn402}
+  - {type: 'tls:seg', offset: 1825, content: '', id: KR3e0002_CHANT_009-12a.13}
+  - {type: punctuation, offset: 1829, content: ，, id: KR3e0002_CHANT_009-bkkpn403}
+  - {type: 'tls:seg', offset: 1829, content: '', id: KR3e0002_CHANT_009-12a.14}
+  - {type: substitution, offset: 1831, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 1832, content: ，, id: KR3e0002_CHANT_009-bkkpn404}
+  - {type: 'tls:seg', offset: 1832, content: '', id: KR3e0002_CHANT_009-12a.15}
+  - {type: substitution, offset: 1834, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 1835, content: ，, id: KR3e0002_CHANT_009-bkkpn405}
+  - {type: 'tls:seg', offset: 1835, content: '', id: KR3e0002_CHANT_009-12a.16}
+  - {type: punctuation, offset: 1841, content: ，, id: KR3e0002_CHANT_009-bkkpn406}
+  - {type: 'tls:seg', offset: 1841, content: '', id: KR3e0002_CHANT_009-12a.17}
+  - {type: punctuation, offset: 1844, content: ，, id: KR3e0002_CHANT_009-bkkpn407}
+  - {type: 'tls:seg', offset: 1844, content: '', id: KR3e0002_CHANT_009-12a.18}
+  - {type: punctuation, offset: 1847, content: ，, id: KR3e0002_CHANT_009-bkkpn408}
+  - {type: 'tls:seg', offset: 1847, content: '', id: KR3e0002_CHANT_009-12a.19}
+  - {type: punctuation, offset: 1849, content: 。, id: KR3e0002_CHANT_009-bkkpn409}
+  - {type: 'tls:seg', offset: 1849, content: '', id: KR3e0002_CHANT_009-12a.20}
+  - {type: punctuation, offset: 1853, content: ，, id: KR3e0002_CHANT_009-bkkpn410}
+  - {type: 'tls:seg', offset: 1853, content: '', id: KR3e0002_CHANT_009-12a.21}
+  - {type: punctuation, offset: 1857, content: ，, id: KR3e0002_CHANT_009-bkkpn411}
+  - {type: 'tls:seg', offset: 1857, content: '', id: KR3e0002_CHANT_009-12a.22}
+  - {type: punctuation, offset: 1859, content: ，, id: KR3e0002_CHANT_009-bkkpn412}
+  - {type: 'tls:seg', offset: 1859, content: '', id: KR3e0002_CHANT_009-12a.23}
+  - {type: punctuation, offset: 1861, content: ，, id: KR3e0002_CHANT_009-bkkpn413}
+  - {type: 'tls:seg', offset: 1861, content: '', id: KR3e0002_CHANT_009-12a.24}
+  - {type: punctuation, offset: 1863, content: ，, id: KR3e0002_CHANT_009-bkkpn414}
+  - {type: 'tls:seg', offset: 1863, content: '', id: KR3e0002_CHANT_009-12a.25}
+  - {type: variant, offset: 1866, length: 0, content: '', SBCK: 刺約畢也􅎂第音慆切他刀鮫交音胻杭音􅏿切只玉黃帝素問靈樞經卷}
+  - {type: variant, offset: 1866, length: 1, content: 之, WYG: 刺約畢也釱大慆他刀切鮫交胻杭􅏿只玉切靈樞}
+  - {type: page-break, offset: 1866, content: '', id: KR3e0002_WYG_009-18a, image: WYG0733/WYG0733-0402a.png}
+  - {type: page-break, offset: 1866, content: '', id: KR3e0002_WYG_009-18b, image: WYG0733/WYG0733-0402b.png}
+  - {type: variant, offset: 1866, length: 0, content: '', krp: 刺約畢也􅎂第音慆切他刀鮫交音胻杭音瘃切只玉黃帝素問靈樞經卷}
+  - {type: variant, offset: 1867, length: 92, content: 經盛而不行則終矣少陰終者面黑齒長而垢腹脹閉塞上下不通而終矣厥陰終者中熱嗌乾喜溺心煩甚則舌卷卵上縮而終矣太陰終者腹脹閉不得息氣噫善嘔嘔則逆逆則面赤不逆則上下不通上下不通則面黑皮毛燋而終矣, SBCK: 九}
+  - {type: variant, offset: 1867, length: 92, content: 經盛而不行則終矣少陰終者面黑齒長而垢腹脹閉塞上下不通而終矣厥陰終者中熱嗌乾喜溺心煩甚則舌卷卵上縮而終矣太陰終者腹脹閉不得息氣噫善嘔嘔則逆逆則面赤不逆則上下不通上下不通則面黑皮毛燋而終矣, krp: 九}
+  - {type: punctuation, offset: 1868, content: ，, id: KR3e0002_CHANT_009-bkkpn415}
+  - {type: 'tls:seg', offset: 1868, content: '', id: KR3e0002_CHANT_009-12a.26}
+  - {type: variant, offset: 1868, length: 43, content: 盛而不行則終矣少陰終者面黑齒長而垢腹脹閉塞上下不通而終矣厥陰終者中熱嗌乾喜溺心煩甚則舌, WYG: ''}
+  - {type: punctuation, offset: 1872, content: ，, id: KR3e0002_CHANT_009-bkkpn416}
+  - {type: 'tls:seg', offset: 1872, content: '', id: KR3e0002_CHANT_009-12a.27}
+  - {type: punctuation, offset: 1875, content: 。, id: KR3e0002_CHANT_009-bkkpn417}
+  - {type: 'tls:seg', offset: 1875, content: '', id: KR3e0002_CHANT_009-12a.28}
+  - {type: punctuation, offset: 1879, content: ，, id: KR3e0002_CHANT_009-bkkpn418}
+  - {type: 'tls:seg', offset: 1879, content: '', id: KR3e0002_CHANT_009-12a.29}
+  - {type: punctuation, offset: 1881, content: ，, id: KR3e0002_CHANT_009-bkkpn419}
+  - {type: 'tls:seg', offset: 1881, content: '', id: KR3e0002_CHANT_009-12a.30}
+  - {type: punctuation, offset: 1885, content: ，, id: KR3e0002_CHANT_009-bkkpn420}
+  - {type: 'tls:seg', offset: 1885, content: '', id: KR3e0002_CHANT_009-12a.31}
+  - {type: punctuation, offset: 1889, content: ，, id: KR3e0002_CHANT_009-bkkpn421}
+  - {type: 'tls:seg', offset: 1889, content: '', id: KR3e0002_CHANT_009-12a.32}
+  - {type: punctuation, offset: 1896, content: 。, id: KR3e0002_CHANT_009-bkkpn422}
+  - {type: 'tls:seg', offset: 1896, content: '', id: KR3e0002_CHANT_009-12a.33}
+  - {type: punctuation, offset: 1900, content: ，, id: KR3e0002_CHANT_009-bkkpn423}
+  - {type: 'tls:seg', offset: 1900, content: '', id: KR3e0002_CHANT_009-12a.34}
+  - {type: punctuation, offset: 1902, content: ，, id: KR3e0002_CHANT_009-bkkpn424}
+  - {type: 'tls:seg', offset: 1902, content: '', id: KR3e0002_CHANT_009-12a.35}
+  - {type: punctuation, offset: 1904, content: ，, id: KR3e0002_CHANT_009-bkkpn425}
+  - {type: 'tls:seg', offset: 1904, content: '', id: KR3e0002_CHANT_009-12a.36}
+  - {type: punctuation, offset: 1906, content: ，, id: KR3e0002_CHANT_009-bkkpn426}
+  - {type: 'tls:seg', offset: 1906, content: '', id: KR3e0002_CHANT_009-12a.37}
+  - {type: punctuation, offset: 1908, content: ，, id: KR3e0002_CHANT_009-bkkpn427}
+  - {type: 'tls:seg', offset: 1908, content: '', id: KR3e0002_CHANT_009-12a.38}
+  - {type: punctuation, offset: 1912, content: ，, id: KR3e0002_CHANT_009-bkkpn428}
+  - {type: 'tls:seg', offset: 1912, content: '', id: KR3e0002_CHANT_009-12a.39}
+  - {type: variant, offset: 1912, length: 47, content: 卵上縮而終矣太陰終者腹脹閉不得息氣噫善嘔嘔則逆逆則面赤不逆則上下不通上下不通則面黑皮毛燋而終矣, WYG: 九}
+  - {type: punctuation, offset: 1918, content: 。, id: KR3e0002_CHANT_009-bkkpn429}
+  - {type: 'tls:seg', offset: 1918, content: '', id: KR3e0002_CHANT_009-12a.40}
+  - {type: punctuation, offset: 1922, content: ，, id: KR3e0002_CHANT_009-bkkpn430}
+  - {type: 'tls:seg', offset: 1922, content: '', id: KR3e0002_CHANT_009-12a.41}
+  - {type: punctuation, offset: 1925, content: ，, id: KR3e0002_CHANT_009-bkkpn431}
+  - {type: 'tls:seg', offset: 1925, content: '', id: KR3e0002_CHANT_009-12a.42}
+  - {type: punctuation, offset: 1928, content: 。, id: KR3e0002_CHANT_009-bkkpn432}
+  - {type: 'tls:seg', offset: 1928, content: '', id: KR3e0002_CHANT_009-12a.43}
+  - {type: punctuation, offset: 1930, content: ，, id: KR3e0002_CHANT_009-bkkpn433}
+  - {type: 'tls:seg', offset: 1930, content: '', id: KR3e0002_CHANT_009-12a.44}
+  - {type: punctuation, offset: 1932, content: ，, id: KR3e0002_CHANT_009-bkkpn434}
+  - {type: 'tls:seg', offset: 1932, content: '', id: KR3e0002_CHANT_009-12a.45}
+  - {type: punctuation, offset: 1935, content: ，, id: KR3e0002_CHANT_009-bkkpn435}
+  - {type: 'tls:seg', offset: 1935, content: '', id: KR3e0002_CHANT_009-12a.46}
+  - {type: punctuation, offset: 1939, content: ，, id: KR3e0002_CHANT_009-bkkpn436}
+  - {type: 'tls:seg', offset: 1939, content: '', id: KR3e0002_CHANT_009-12a.47}
+  - {type: punctuation, offset: 1946, content: ，, id: KR3e0002_CHANT_009-bkkpn437}
+  - {type: 'tls:seg', offset: 1946, content: '', id: KR3e0002_CHANT_009-12a.48}
+  - {type: punctuation, offset: 1953, content: ，, id: KR3e0002_CHANT_009-bkkpn438}
+  - {type: 'tls:seg', offset: 1953, content: '', id: KR3e0002_CHANT_009-12a.49}
+  - {type: punctuation, offset: 1959, content: 。, id: KR3e0002_CHANT_009-bkkpn439}
+  - {type: xml-element, offset: 1959, content: '', id: KR3e0002_CHANT_009-bkkxmlele26}
+  - {type: page-break, offset: 1959, content: '', id: KR3e0002_SBCK_009-22a}
+  back: []
+hash: sha256:4505b68bc93419c30c7b3433d1472f4c8df9c1f4b94f8bdeac01d2f042f0c346

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0002/WYG/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黄帝素問靈樞經
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:53:20.441784'
+  source:
+    repository: kanripo
+    path: KR3e0002/KR3e0002_011.txt
+hash: sha256:28ed694d7c04ecb005b5a9e8e7cd402efded0a0c2b1675c26856b66c5f8be4ab
