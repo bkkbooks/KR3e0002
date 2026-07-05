@@ -390,10 +390,8 @@ markers:
   - {type: 'tls:seg', offset: 500, content: '', id: KR3e0002_CHANT_002-3a.63}
   - {type: punctuation, offset: 502, content: ，, id: KR3e0002_CHANT_002-bkkpn124}
   - {type: 'tls:seg', offset: 502, content: '', id: KR3e0002_CHANT_002-3a.64}
-  - {type: substitution, offset: 505, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 506, content: ，, id: KR3e0002_CHANT_002-bkkpn125}
   - {type: 'tls:seg', offset: 506, content: '', id: KR3e0002_CHANT_002-3a.65}
-  - {type: substitution, offset: 507, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 508, content: ，, id: KR3e0002_CHANT_002-bkkpn126}
   - {type: 'tls:seg', offset: 508, content: '', id: KR3e0002_CHANT_002-3a.66}
   - {type: punctuation, offset: 512, content: ，, id: KR3e0002_CHANT_002-bkkpn127}
@@ -496,10 +494,8 @@ markers:
   - {type: 'tls:seg', offset: 690, content: '', id: KR3e0002_CHANT_002-4a.33}
   - {type: punctuation, offset: 693, content: 。, id: KR3e0002_CHANT_002-bkkpn174}
   - {type: 'tls:seg', offset: 693, content: '', id: KR3e0002_CHANT_002-4a.34}
-  - {type: substitution, offset: 696, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 697, content: ，, id: KR3e0002_CHANT_002-bkkpn175}
   - {type: 'tls:seg', offset: 697, content: '', id: KR3e0002_CHANT_002-4a.35}
-  - {type: substitution, offset: 698, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 699, content: ，, id: KR3e0002_CHANT_002-bkkpn176}
   - {type: 'tls:seg', offset: 699, content: '', id: KR3e0002_CHANT_002-4a.36}
   - {type: punctuation, offset: 707, content: ，, id: KR3e0002_CHANT_002-bkkpn177}
@@ -530,7 +526,6 @@ markers:
   - {type: 'tls:seg', offset: 753, content: '', id: KR3e0002_CHANT_002-4a.49}
   - {type: punctuation, offset: 757, content: ，, id: KR3e0002_CHANT_002-bkkpn190}
   - {type: 'tls:seg', offset: 757, content: '', id: KR3e0002_CHANT_002-4a.50}
-  - {type: substitution, offset: 758, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 763, content: ，, id: KR3e0002_CHANT_002-bkkpn191}
   - {type: 'tls:seg', offset: 763, content: '', id: KR3e0002_CHANT_002-4a.51}
   - {type: punctuation, offset: 765, content: 。, id: KR3e0002_CHANT_002-bkkpn192}
@@ -583,10 +578,8 @@ markers:
   - {type: 'tls:seg', offset: 864, content: '', id: KR3e0002_CHANT_002-4a.75}
   - {type: punctuation, offset: 869, content: 。, id: KR3e0002_CHANT_002-bkkpn216}
   - {type: 'tls:seg', offset: 869, content: '', id: KR3e0002_CHANT_002-4a.76}
-  - {type: substitution, offset: 872, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 873, content: ，, id: KR3e0002_CHANT_002-bkkpn217}
   - {type: 'tls:seg', offset: 873, content: '', id: KR3e0002_CHANT_002-4a.77}
-  - {type: substitution, offset: 874, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 875, content: ，, id: KR3e0002_CHANT_002-bkkpn218}
   - {type: 'tls:seg', offset: 875, content: '', id: KR3e0002_CHANT_002-4a.78}
   - {type: punctuation, offset: 885, content: ，, id: KR3e0002_CHANT_002-bkkpn219}
@@ -803,10 +796,8 @@ markers:
   - {type: 'tls:seg', offset: 1208, content: '', id: KR3e0002_CHANT_002-5a.60}
   - {type: punctuation, offset: 1210, content: 。, id: KR3e0002_CHANT_002-bkkpn293}
   - {type: 'tls:seg', offset: 1210, content: '', id: KR3e0002_CHANT_002-5a.61}
-  - {type: substitution, offset: 1213, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 1214, content: ，, id: KR3e0002_CHANT_002-bkkpn294}
   - {type: 'tls:seg', offset: 1214, content: '', id: KR3e0002_CHANT_002-5a.62}
-  - {type: substitution, offset: 1215, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 1217, content: ，, id: KR3e0002_CHANT_002-bkkpn295}
   - {type: 'tls:seg', offset: 1217, content: '', id: KR3e0002_CHANT_002-5a.63}
   - {type: variant, offset: 1217, length: 2, content: 在手, SBCK: 腹脹閇不得息氣噫善嘔嘔則逆逆則面赤不逆則上下不通上下不通則面黒皮毛燋而終矣繆刺救切上眉男内女}
@@ -833,7 +824,6 @@ markers:
   - {type: 'tls:seg', offset: 1248, content: '', id: KR3e0002_CHANT_002-5a.70}
   - {type: punctuation, offset: 1250, content: ，, id: KR3e0002_CHANT_002-bkkpn303}
   - {type: 'tls:seg', offset: 1250, content: '', id: KR3e0002_CHANT_002-5a.71}
-  - {type: substitution, offset: 1251, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4559}}
   - {type: variant, offset: 1255, length: 29, content: 陷者中也為經入于小海小海在肘內大骨之外去端半寸陷者中也伸臂, WYG: 不通上下不通則面黒皮毛燋}
   - {type: punctuation, offset: 1259, content: ，, id: KR3e0002_CHANT_002-bkkpn304}
   - {type: 'tls:seg', offset: 1259, content: '', id: KR3e0002_CHANT_002-5a.72}
@@ -883,10 +873,8 @@ markers:
   - {type: 'tls:seg', offset: 1350, content: '', id: KR3e0002_CHANT_002-5a.92}
   - {type: punctuation, offset: 1352, content: 。, id: KR3e0002_CHANT_002-bkkpn325}
   - {type: 'tls:seg', offset: 1352, content: '', id: KR3e0002_CHANT_002-5a.93}
-  - {type: substitution, offset: 1355, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 1356, content: ，, id: KR3e0002_CHANT_002-bkkpn326}
   - {type: 'tls:seg', offset: 1356, content: '', id: KR3e0002_CHANT_002-5a.94}
-  - {type: substitution, offset: 1357, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 1358, content: ，, id: KR3e0002_CHANT_002-bkkpn327}
   - {type: 'tls:seg', offset: 1358, content: '', id: KR3e0002_CHANT_002-5a.95}
   - {type: punctuation, offset: 1366, content: ，, id: KR3e0002_CHANT_002-bkkpn328}
@@ -973,13 +961,11 @@ markers:
   - {type: variant, offset: 1549, length: 7, content: 關者呿不能欠刺, WYG: 眉救切男内女外難經作男外女内淫濼}
   - {type: punctuation, offset: 1551, content: ，, id: KR3e0002_CHANT_002-bkkpn365}
   - {type: 'tls:seg', offset: 1551, content: '', id: KR3e0002_CHANT_002-6a.35}
-  - {type: substitution, offset: 1554, original: 欠, replacement: 缺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4372}}
   - {type: punctuation, offset: 1555, content: ，, id: KR3e0002_CHANT_002-bkkpn366}
   - {type: 'tls:seg', offset: 1555, content: '', id: KR3e0002_CHANT_002-6a.36}
   - {type: variant, offset: 1557, length: 200, content: 關者欠不能呿刺犢鼻者屈不能伸刺兩關者伸不能屈足陽明挾喉之動脈也其腧在膺中手陽明次在其腧外不至曲頰一寸手太陽當曲頰足少陽在耳下曲頰之後手少陽出耳後上加完骨之上足太陽挾項大筋之中髮際陰尺動脈在五里五腧之禁也肺合大腸大腸者傳道之府心合小腸小腸者受盛之府肝合膽膽者中精之府脾合胃胃者五穀之府腎合膀胱膀胱者津液之府也少陽屬腎腎上連肺故將兩藏三焦者中瀆之府也水道出焉屬膀胱是孤之府也是六府之所與合者春取絡脈諸滎大, WYG: 述各切齒長平聲靈樞}
   - {type: punctuation, offset: 1559, content: ，, id: KR3e0002_CHANT_002-bkkpn367}
   - {type: 'tls:seg', offset: 1559, content: '', id: KR3e0002_CHANT_002-6a.37}
-  - {type: substitution, offset: 1559, original: 欠, replacement: 缺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4372}}
   - {type: punctuation, offset: 1563, content: ，, id: KR3e0002_CHANT_002-bkkpn368}
   - {type: 'tls:seg', offset: 1563, content: '', id: KR3e0002_CHANT_002-6a.38}
   - {type: punctuation, offset: 1567, content: ，, id: KR3e0002_CHANT_002-bkkpn369}
@@ -1110,4 +1096,4 @@ markers:
   - {type: punctuation, offset: 1845, content: 。, id: KR3e0002_CHANT_002-bkkpn425}
   - {type: xml-element, offset: 1845, content: '', id: KR3e0002_CHANT_002-bkkxmlele22}
   back: []
-hash: sha256:8dd10dc2d50ec6e925f69cadd7f4982039ccedc5f121266e3941e74fe111997f
+hash: sha256:980cea3d703b040a1b4c546bc8e75b8a5fa646da082b661b1794533d4d845717

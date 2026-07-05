@@ -91,7 +91,6 @@ markers:
   - {type: variant, offset: 44, length: 4, content: 方少師荅, krp: 道歧伯}
   - {type: punctuation, offset: 45, content: 。, id: KR3e0002_CHANT_006-bkkpn9}
   - {type: 'tls:seg', offset: 45, content: '', id: KR3e0002_CHANT_006-1a.11}
-  - {type: substitution, offset: 47, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 49, content: ：, id: KR3e0002_CHANT_006-bkkpn10}
   - {type: 'tls:seg', offset: 49, content: '', id: KR3e0002_CHANT_006-1a.12}
   - {type: variant, offset: 49, length: 2, content: 陰中, SBCK: 水榖皆入于口其味}
@@ -302,7 +301,6 @@ markers:
   - {type: variant, offset: 310, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 310, length: 2, content: 高荅, WYG: 髙}
   - {type: variant, offset: 310, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 311, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 313, content: ：, id: KR3e0002_CHANT_006-bkkpn68}
   - {type: 'tls:seg', offset: 313, content: '', id: KR3e0002_CHANT_006-2a.8}
   - {type: variant, offset: 313, length: 9, content: 風寒傷形憂恐忿怒傷, SBCK: 臨深決水不用功力而水可竭也循掘決衝而經可通也此言}
@@ -375,7 +373,6 @@ markers:
   - {type: variant, offset: 360, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 360, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 360, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 361, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 363, content: ：, id: KR3e0002_CHANT_006-bkkpn80}
   - {type: 'tls:seg', offset: 363, content: '', id: KR3e0002_CHANT_006-2a.20}
   - {type: variant, offset: 363, length: 3, content: 病九日, SBCK: 瘦人}
@@ -428,7 +425,6 @@ markers:
   - {type: variant, offset: 415, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 415, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 415, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 416, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 418, content: ：, id: KR3e0002_CHANT_006-bkkpn94}
   - {type: 'tls:seg', offset: 418, content: '', id: KR3e0002_CHANT_006-2a.34}
   - {type: variant, offset: 418, length: 7, content: 形先病而未入藏, SBCK: 視其白黒各為調之其端正敦厚}
@@ -487,7 +483,6 @@ markers:
   - {type: variant, offset: 489, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 489, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 489, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 490, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 492, content: ：, id: KR3e0002_CHANT_006-bkkpn107}
   - {type: 'tls:seg', offset: 492, content: '', id: KR3e0002_CHANT_006-3a.11}
   - {type: variant, offset: 492, length: 2, content: 形與, SBCK: 刺壯士眞骨堅肉緩節監監然此人重則}
@@ -561,7 +556,6 @@ markers:
   - {type: variant, offset: 539, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 539, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 539, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 540, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 542, content: ：, id: KR3e0002_CHANT_006-bkkpn117}
   - {type: 'tls:seg', offset: 542, content: '', id: KR3e0002_CHANT_006-3a.21}
   - {type: variant, offset: 542, length: 2, content: 形充, SBCK: 以言導之切}
@@ -688,7 +682,6 @@ markers:
   - {type: variant, offset: 678, length: 36, content: 伯高荅曰牆基卑高不及其地者不滿三十而死其有因加疾者不及二十而死也黃帝曰形, SBCK: 血}
   - {type: variant, offset: 678, length: 36, content: 伯高荅曰牆基卑高不及其地者不滿三十而死其有因加疾者不及二十而死也黃帝曰形, WYG: 血}
   - {type: variant, offset: 678, length: 36, content: 伯高荅曰牆基卑高不及其地者不滿三十而死其有因加疾者不及二十而死也黃帝曰形, krp: 血}
-  - {type: substitution, offset: 680, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 682, content: ：, id: KR3e0002_CHANT_006-bkkpn142}
   - {type: 'tls:seg', offset: 682, content: '', id: KR3e0002_CHANT_006-3a.46}
   - {type: punctuation, offset: 685, content: ，, id: KR3e0002_CHANT_006-bkkpn143}
@@ -719,7 +712,6 @@ markers:
   - {type: variant, offset: 725, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 725, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 725, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 726, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 728, content: ：, id: KR3e0002_CHANT_006-bkkpn151}
   - {type: 'tls:seg', offset: 728, content: '', id: KR3e0002_CHANT_006-3a.55}
   - {type: variant, offset: 728, length: 1, content: 平, SBCK: ''}
@@ -758,7 +750,6 @@ markers:
   - {type: 'tls:seg', offset: 761, content: '', id: KR3e0002_CHANT_006-4a.5}
   - {type: punctuation, offset: 765, content: 。, id: KR3e0002_CHANT_006-bkkpn158}
   - {type: 'tls:seg', offset: 765, content: '', id: KR3e0002_CHANT_006-4a.6}
-  - {type: substitution, offset: 767, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 769, content: ：, id: KR3e0002_CHANT_006-bkkpn159}
   - {type: 'tls:seg', offset: 769, content: '', id: KR3e0002_CHANT_006-4a.7}
   - {type: variant, offset: 770, length: 15, content: 刺營者有刺衛者有刺寒痺之留經者, SBCK: 亂人其合為一耳}
@@ -781,7 +772,6 @@ markers:
   - {type: variant, offset: 792, length: 5, content: 奈何伯高荅, krp: 濁受氣者清清者注隂濁者注陽濁而清者上出于咽清而濁者則下行清濁相干命}
   - {type: punctuation, offset: 794, content: 。, id: KR3e0002_CHANT_006-bkkpn164}
   - {type: 'tls:seg', offset: 794, content: '', id: KR3e0002_CHANT_006-4a.12}
-  - {type: substitution, offset: 796, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 798, content: ：, id: KR3e0002_CHANT_006-bkkpn165}
   - {type: 'tls:seg', offset: 798, content: '', id: KR3e0002_CHANT_006-4a.13}
   - {type: variant, offset: 798, length: 9, content: 刺營者出血刺衛者出, SBCK: 亂}
@@ -813,7 +803,6 @@ markers:
   - {type: variant, offset: 827, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 827, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 827, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 828, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 830, content: ：, id: KR3e0002_CHANT_006-bkkpn171}
   - {type: 'tls:seg', offset: 830, content: '', id: KR3e0002_CHANT_006-4a.19}
   - {type: variant, offset: 830, length: 1, content: 營, SBCK: 氣}
@@ -869,7 +858,6 @@ markers:
   - {type: variant, offset: 893, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 893, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 893, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 894, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 896, content: ：, id: KR3e0002_CHANT_006-bkkpn184}
   - {type: 'tls:seg', offset: 896, content: '', id: KR3e0002_CHANT_006-4a.32}
   - {type: variant, offset: 896, length: 3, content: 刺布衣, SBCK: 手太陽獨受陽之濁手太隂獨受隂之清其清}
@@ -887,7 +875,6 @@ markers:
   - {type: variant, offset: 908, length: 4, content: 以藥熨之, SBCK: 下行諸經諸隂皆清足太隂獨受其濁}
   - {type: variant, offset: 908, length: 4, content: 以藥熨之, WYG: 下行諸經諸經皆清足太隂獨受其濁}
   - {type: variant, offset: 908, length: 4, content: 以藥熨之, krp: 下行諸經諸隂皆清足太隂獨受其濁}
-  - {type: substitution, offset: 910, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: punctuation, offset: 912, content: 。, id: KR3e0002_CHANT_006-bkkpn188}
   - {type: 'tls:seg', offset: 912, content: '', id: KR3e0002_CHANT_006-4a.36}
   - {type: punctuation, offset: 915, content: ：, id: KR3e0002_CHANT_006-bkkpn189}
@@ -898,7 +885,6 @@ markers:
   - {type: variant, offset: 916, length: 1, content: 熨, SBCK: 之}
   - {type: variant, offset: 916, length: 1, content: 熨, WYG: 之}
   - {type: variant, offset: 916, length: 1, content: 熨, krp: 之}
-  - {type: substitution, offset: 916, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: punctuation, offset: 919, content: 。, id: KR3e0002_CHANT_006-bkkpn190}
   - {type: 'tls:seg', offset: 919, content: '', id: KR3e0002_CHANT_006-4a.38}
   - {type: variant, offset: 919, length: 0, content: '', SBCK: 歧}
@@ -908,7 +894,6 @@ markers:
   - {type: variant, offset: 920, length: 2, content: 高荅, SBCK: ''}
   - {type: variant, offset: 920, length: 2, content: 高荅, WYG: ''}
   - {type: variant, offset: 920, length: 2, content: 高荅, krp: ''}
-  - {type: substitution, offset: 921, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 923, content: ：, id: KR3e0002_CHANT_006-bkkpn191}
   - {type: 'tls:seg', offset: 923, content: '', id: KR3e0002_CHANT_006-4a.39}
   - {type: variant, offset: 923, length: 63, content: 用淳酒二十升蜀椒一升乾薑一斤桂心一斤凡四種皆㕮咀漬酒中用綿絮一斤細白布四丈并內酒中置酒馬矢熅中蓋封塗勿使泄五日五夜出布綿絮曝乾, SBCK: 清者其氣滑濁者其氣濇此氣}
@@ -965,8 +950,6 @@ markers:
   - {type: 'tls:seg', offset: 1004, content: '', id: KR3e0002_CHANT_006-4a.60}
   - {type: punctuation, offset: 1010, content: ，, id: KR3e0002_CHANT_006-bkkpn213}
   - {type: 'tls:seg', offset: 1010, content: '', id: KR3e0002_CHANT_006-4a.61}
-  - {type: substitution, offset: 1010, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3873}}
-  - {type: substitution, offset: 1013, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3873}}
   - {type: punctuation, offset: 1015, content: ，, id: KR3e0002_CHANT_006-bkkpn214}
   - {type: 'tls:seg', offset: 1015, content: '', id: KR3e0002_CHANT_006-4a.62}
   - {type: variant, offset: 1017, length: 75, content: 七尺為六七巾則用之生桑炭炙巾以熨寒痺所刺之處令熱入至于病所寒復炙巾以熨之三十遍而止汗出以巾拭身亦三十遍而止起步內中無見風每刺必熨如此病已矣此所謂內熱也, SBCK: ''}
@@ -978,12 +961,10 @@ markers:
   - {type: 'tls:seg', offset: 1023, content: '', id: KR3e0002_CHANT_006-4a.64}
   - {type: punctuation, offset: 1031, content: ，, id: KR3e0002_CHANT_006-bkkpn217}
   - {type: 'tls:seg', offset: 1031, content: '', id: KR3e0002_CHANT_006-4a.65}
-  - {type: substitution, offset: 1032, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: punctuation, offset: 1039, content: ，, id: KR3e0002_CHANT_006-bkkpn218}
   - {type: 'tls:seg', offset: 1039, content: '', id: KR3e0002_CHANT_006-4a.66}
   - {type: punctuation, offset: 1046, content: ，, id: KR3e0002_CHANT_006-bkkpn219}
   - {type: 'tls:seg', offset: 1046, content: '', id: KR3e0002_CHANT_006-4a.67}
-  - {type: substitution, offset: 1051, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: punctuation, offset: 1053, content: ，, id: KR3e0002_CHANT_006-bkkpn220}
   - {type: 'tls:seg', offset: 1053, content: '', id: KR3e0002_CHANT_006-4a.68}
   - {type: punctuation, offset: 1058, content: 。, id: KR3e0002_CHANT_006-bkkpn221}
@@ -996,7 +977,6 @@ markers:
   - {type: 'tls:seg', offset: 1074, content: '', id: KR3e0002_CHANT_006-4a.72}
   - {type: punctuation, offset: 1077, content: 。, id: KR3e0002_CHANT_006-bkkpn225}
   - {type: 'tls:seg', offset: 1077, content: '', id: KR3e0002_CHANT_006-4a.73}
-  - {type: substitution, offset: 1080, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: punctuation, offset: 1081, content: ，, id: KR3e0002_CHANT_006-bkkpn226}
   - {type: 'tls:seg', offset: 1081, content: '', id: KR3e0002_CHANT_006-4a.74}
   - {type: punctuation, offset: 1086, content: ，, id: KR3e0002_CHANT_006-bkkpn227}
@@ -1005,4 +985,4 @@ markers:
   - {type: xml-element, offset: 1092, content: '', id: KR3e0002_CHANT_006-bkkxmlele10}
   - {type: page-break, offset: 1092, content: '', id: KR3e0002_SBCK_006-22b}
   back: []
-hash: sha256:159aea9f64ed6f08facb0fe692d1e82d2f442e7ff110d15116d3ce183a5536e3
+hash: sha256:6ca90ba607f7a9c6521db1b3c915d8bac6f342be875fd379289ae1fce8a8f02f

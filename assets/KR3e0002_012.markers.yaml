@@ -284,7 +284,6 @@ markers:
   - {type: variant, offset: 136, length: 1, content: 歧, WYG: 岐}
   - {type: variant, offset: 136, length: 3, content: 歧伯荅, krp: 少師}
   - {type: variant, offset: 138, length: 1, content: 荅, WYG: 答}
-  - {type: substitution, offset: 138, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 140, content: ：, id: KR3e0002_CHANT_012-bkkpn26}
   - {type: 'tls:seg', offset: 140, content: '', id: KR3e0002_CHANT_012-2a.4}
   - {type: variant, offset: 140, length: 448, content: 善哉問也天至高不可度地至廣不可量此之謂也且夫人生于天地之間六合之內此天之高地之廣也非人力之所能度量而至也若夫八尺之士皮肉在此外可度量切循而得之其死可解剖而視之其藏之堅脆府之大小穀之多少脈之長短血之清濁氣之多少十二經之多血少氣與其少血多氣與其皆多血氣與其皆少血氣皆有大數其治以鍼艾各調其經氣固其常有合乎黃帝曰余聞之快于耳不解于心願卒聞之歧伯荅曰此人之所以參天地而應陰陽也不可不察足太陽外合清水內屬膀胱而通水道焉足少陽外合于渭水內屬于膽足陽明外合于海水內屬于胃足太陰外合于湖水內屬于脾足少陰外合于汝水內屬于腎足厥陰外合于澠水內屬于肝手太陽外合淮水內屬小腸而水道出焉手少陽外合于漯水內屬于三焦手陽明外合于江水內屬于大腸手太陰外合于河水內屬于肺手少陰外合于濟水內屬于心手心主外合于漳水內屬于心包凡此五藏六府十二經水者外有源泉而內有所稟此皆內外相貫如環無端人經亦然故天為陽地為陰腰以上為天腰以下為地故海以北者為陰湖以北者為陰中之陰漳以南者為陽河以北至漳者為陽中之陰漯以南至江者為陽中之太陽此一隅之陰陽也所以, SBCK: ''}
@@ -349,7 +348,6 @@ markers:
   - {type: punctuation, offset: 274, content: 。, id: KR3e0002_CHANT_012-bkkpn52}
   - {type: 'tls:seg', offset: 274, content: '', id: KR3e0002_CHANT_012-2a.30}
   - {type: variant, offset: 277, length: 1, content: 鍼, WYG: 針}
-  - {type: substitution, offset: 277, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0347}}
   - {type: punctuation, offset: 279, content: ，, id: KR3e0002_CHANT_012-bkkpn53}
   - {type: 'tls:seg', offset: 279, content: '', id: KR3e0002_CHANT_012-2a.31}
   - {type: punctuation, offset: 284, content: ，, id: KR3e0002_CHANT_012-bkkpn54}
@@ -375,7 +373,6 @@ markers:
   - {type: 'tls:seg', offset: 307, content: '', id: KR3e0002_CHANT_012-3a.8}
   - {type: variant, offset: 307, length: 1, content: 歧, WYG: 岐}
   - {type: variant, offset: 309, length: 1, content: 荅, WYG: 答}
-  - {type: substitution, offset: 309, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 311, content: ：, id: KR3e0002_CHANT_012-bkkpn61}
   - {type: 'tls:seg', offset: 311, content: '', id: KR3e0002_CHANT_012-3a.9}
   - {type: variant, offset: 321, length: 1, content: 陰, WYG: 隂}
@@ -566,7 +563,6 @@ markers:
   - {type: variant, offset: 628, length: 1, content: 荅, SBCK: ''}
   - {type: variant, offset: 628, length: 1, content: 荅, WYG: 答}
   - {type: variant, offset: 628, length: 1, content: 荅, krp: ''}
-  - {type: substitution, offset: 628, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 630, content: ：, id: KR3e0002_CHANT_012-bkkpn113}
   - {type: 'tls:seg', offset: 630, content: '', id: KR3e0002_CHANT_012-4a.11}
   - {type: variant, offset: 630, length: 3, content: 足陽明, SBCK: 余嘗上於清泠之臺中階而顧匍匐而前則惑余私異之竊内怪之獨瞑獨視安心定氣久而不解獨博獨􅅭披髮長跪俛而視之後久之不已也卒然自上何氣使然歧伯對曰}
@@ -679,7 +675,6 @@ markers:
   - {type: 'tls:seg', offset: 773, content: '', id: KR3e0002_CHANT_012-4a.41}
   - {type: variant, offset: 777, length: 13, content: 骨枯脈濇刺而過此者則脫氣黃, SBCK: 死矣黄}
   - {type: variant, offset: 777, length: 13, content: 骨枯脈濇刺而過此者則脫氣黃, krp: 死矣黄}
-  - {type: substitution, offset: 780, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
   - {type: punctuation, offset: 781, content: ，, id: KR3e0002_CHANT_012-bkkpn144}
   - {type: 'tls:seg', offset: 781, content: '', id: KR3e0002_CHANT_012-4a.42}
   - {type: punctuation, offset: 786, content: ，, id: KR3e0002_CHANT_012-bkkpn145}
@@ -709,7 +704,6 @@ markers:
   - {type: variant, offset: 822, length: 1, content: 荅, SBCK: ''}
   - {type: variant, offset: 822, length: 1, content: 荅, WYG: 答}
   - {type: variant, offset: 822, length: 1, content: 荅, krp: ''}
-  - {type: substitution, offset: 822, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 824, content: ：, id: KR3e0002_CHANT_012-bkkpn154}
   - {type: 'tls:seg', offset: 824, content: '', id: KR3e0002_CHANT_012-4a.52}
   - {type: variant, offset: 824, length: 2, content: 其可, SBCK: 營衛稽留於經脉之中則血泣而不行不行則衛氣從之而不通壅遏而不得行故熱大熱不止熱勝則肉腐肉腐則}
@@ -1062,4 +1056,4 @@ markers:
   - {type: page-break, offset: 887, content: '', id: KR3e0002_WYG_012-15a, image: WYG0733/WYG0733-0428c.png}
   - {type: page-break, offset: 887, content: '', id: KR3e0002_WYG_012-15b, image: WYG0733/WYG0733-0428d.png}
   back: []
-hash: sha256:649ca06e1b29b70dbd81d92fd4566f0ae8263b3fe12def4d9da0e48bd13d2347
+hash: sha256:8c6e82c85039508bf8e88e2c4bb23dc0be57e5344d0581b78255ce6791cea986
