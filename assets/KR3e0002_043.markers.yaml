@@ -72,8 +72,10 @@ markers:
   - {type: 'tls:seg', offset: 142, content: '', id: KR3e0002_CHANT_043-2a.13}
   - {type: punctuation, offset: 147, content: ，, id: KR3e0002_CHANT_043-bkkpn30}
   - {type: 'tls:seg', offset: 147, content: '', id: KR3e0002_CHANT_043-2a.14}
+  - {type: substitution, offset: 148, original: 饑, replacement: 飢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16274}}
   - {type: punctuation, offset: 152, content: ，, id: KR3e0002_CHANT_043-bkkpn31}
   - {type: 'tls:seg', offset: 152, content: '', id: KR3e0002_CHANT_043-2a.15}
+  - {type: substitution, offset: 156, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 157, content: 。, id: KR3e0002_CHANT_043-bkkpn32}
   - {type: 'tls:seg', offset: 157, content: '', id: KR3e0002_CHANT_043-2a.16}
   - {type: punctuation, offset: 160, content: ，, id: KR3e0002_CHANT_043-bkkpn33}
@@ -172,6 +174,7 @@ markers:
   - {type: 'tls:seg', offset: 337, content: '', id: KR3e0002_CHANT_043-3a.31}
   - {type: punctuation, offset: 345, content: ，, id: KR3e0002_CHANT_043-bkkpn78}
   - {type: 'tls:seg', offset: 345, content: '', id: KR3e0002_CHANT_043-3a.32}
+  - {type: substitution, offset: 349, original: 窌, replacement: 窖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19591}}
   - {type: punctuation, offset: 352, content: 。, id: KR3e0002_CHANT_043-bkkpn79}
   - {type: 'tls:seg', offset: 352, content: '', id: KR3e0002_CHANT_043-3a.33}
   - {type: punctuation, offset: 356, content: ，, id: KR3e0002_CHANT_043-bkkpn80}
@@ -187,4 +190,4 @@ markers:
   - {type: punctuation, offset: 384, content: 。, id: KR3e0002_CHANT_043-bkkpn85}
   - {type: xml-element, offset: 384, content: '', id: KR3e0002_CHANT_043-bkkxmlele8}
   back: []
-hash: sha256:b0380dfe93cc7648bb678fbb3bcf2cf7b9bcdf962d8f3336c2c68fcb2e5b4915
+hash: sha256:b2af4db1d4c946aae26781f45455f4a398623d5e60d4c3c6fe68f4bb0621dc79

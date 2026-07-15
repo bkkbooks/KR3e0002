@@ -145,6 +145,7 @@ markers:
   - {type: variant, offset: 93, length: 1, content: 荅, SBCK: ''}
   - {type: variant, offset: 93, length: 1, content: 荅, WYG: ''}
   - {type: variant, offset: 93, length: 1, content: 荅, krp: ''}
+  - {type: substitution, offset: 93, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 95, content: ：, id: KR3e0002_CHANT_008-bkkpn17}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3e0002_CHANT_008-2a.4}
   - {type: variant, offset: 95, length: 0, content: '', SBCK: 願聞人之始生何氣築為基何立而為楯何失而死何得而生歧伯曰以母為基以父為楯失神者死得神者生也黄帝曰何者為神歧伯曰血氣已和榮衛已通五藏已成神氣舍心魂魄畢具乃成為人黄帝曰人之壽夭各不同或夭夀或卒死或病久願聞其道歧伯曰五藏堅固血脉和調肌肉解利皮膚緻密營衛之行不失其常呼吸微徐氣以度行六府化穀津液布􅀭各如其常故能長久黄帝曰人之壽百嵗而死何以致之歧伯曰使道隧以長基牆髙以方通調營衛三部三里起骨髙肉滿百歲乃得終黄帝曰其氣之盛衰以至其死可得聞乎歧伯曰人生十歲五藏始定血氣已通其氣在下故好走二十歲血氣始盛肌肉方長故好趨三十歲五藏大定肌肉堅固血脉盛滿故好步四十歲五藏六府十二經脉皆大盛以平定腠理始踈榮華頽落髪頗斑白平盛不摇故好坐五十歲肝氣始衰肝葉始薄膽汁始滅目始不朙六十歲心氣始衰苦憂悲血氣懈惰故好臥七十歲脾氣虚皮膚枯八十歲肺氣衰魄離故言善悮九十歲腎氣焦四藏經脉空虚百歲五藏皆虚神氣皆去形骸獨居而終矣黄帝曰其不能終壽而死者何如歧伯曰其五藏皆不堅使道不長空外以張喘息㬥疾又卑基牆薄脉少血其肉不石數中風寒血氣虚脉不通真邪相攻亂而相引故中壽而盡也逆順第五十五黄帝問于伯高曰余聞氣有逆順脉有盛衰刺有大約可得聞乎伯高曰氣之逆順者所以應}
@@ -281,6 +282,7 @@ markers:
   - {type: 'tls:seg', offset: 254, content: '', id: KR3e0002_CHANT_008-3a.13}
   - {type: punctuation, offset: 260, content: ，, id: KR3e0002_CHANT_008-bkkpn51}
   - {type: 'tls:seg', offset: 260, content: '', id: KR3e0002_CHANT_008-3a.14}
+  - {type: substitution, offset: 261, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 265, content: ，, id: KR3e0002_CHANT_008-bkkpn52}
   - {type: 'tls:seg', offset: 265, content: '', id: KR3e0002_CHANT_008-3a.15}
   - {type: punctuation, offset: 268, content: ，, id: KR3e0002_CHANT_008-bkkpn53}
@@ -401,6 +403,7 @@ markers:
   - {type: 'tls:seg', offset: 427, content: '', id: KR3e0002_CHANT_008-4a.32}
   - {type: punctuation, offset: 432, content: ，, id: KR3e0002_CHANT_008-bkkpn90}
   - {type: 'tls:seg', offset: 432, content: '', id: KR3e0002_CHANT_008-4a.33}
+  - {type: substitution, offset: 440, original: 俛, replacement: 俯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17159}}
   - {type: punctuation, offset: 444, content: ，, id: KR3e0002_CHANT_008-bkkpn91}
   - {type: 'tls:seg', offset: 444, content: '', id: KR3e0002_CHANT_008-4a.34}
   - {type: variant, offset: 447, length: 77, content: 夭死於季夏恐懼而不解則傷精精傷則骨痠痿厥精時自下是故五藏主藏精者也不可傷傷則失守而陰虛陰虛則無氣無氣則死矣是故用鍼者察觀病人之態以知精神魂魄之存亡得失之意, SBCK: 宜苦白色宜辛凡此}
@@ -430,6 +433,7 @@ markers:
   - {type: 'tls:seg', offset: 495, content: '', id: KR3e0002_CHANT_008-4a.45}
   - {type: punctuation, offset: 500, content: 。, id: KR3e0002_CHANT_008-bkkpn103}
   - {type: 'tls:seg', offset: 500, content: '', id: KR3e0002_CHANT_008-4a.46}
+  - {type: substitution, offset: 503, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 505, content: ，, id: KR3e0002_CHANT_008-bkkpn104}
   - {type: 'tls:seg', offset: 505, content: '', id: KR3e0002_CHANT_008-4a.47}
   - {type: punctuation, offset: 511, content: ，, id: KR3e0002_CHANT_008-bkkpn105}
@@ -444,6 +448,7 @@ markers:
   - {type: variant, offset: 526, length: 7, content: 以傷鍼不可以治, krp: 各有所宜五宜所言五色者脾病者宜食秔米飯牛肉棗葵心病者宜食麥羊肉杏薤腎病者宜食大豆黄巻猪肉栗藿肝病者宜食麻犬肉李韭肺病者宜食黄黍雞肉桃葱五禁肝病禁辛心病禁鹹脾病禁酸腎病禁甘肺病禁苦肝色青宜食甘秔米飯牛肉棗葵皆甘心色赤宜食酸犬肉麻李韭皆酸脾色黄宜食鹹大豆豕肉栗藿皆鹹肺色白宜食苦麥羊肉杏薤皆苦腎色黒宜食辛黄黍雞肉桃葱皆辛黃帝素問靈樞經卷}
   - {type: punctuation, offset: 528, content: ，, id: KR3e0002_CHANT_008-bkkpn108}
   - {type: 'tls:seg', offset: 528, content: '', id: KR3e0002_CHANT_008-4a.51}
+  - {type: substitution, offset: 528, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: variant, offset: 534, length: 118, content: 也肝藏血血舍魂肝氣虛則恐實則怒脾藏營營舍意脾氣虛則四肢不用五藏不安實則腹脹經溲不利心藏脈脈舍神心氣虛則悲實則笑不休肺藏氣氣舍魄肺氣虛則鼻塞不利少氣實則喘喝胸盈仰息腎藏精精舍志腎氣虛則厥實則脹五藏不安必審五藏之病形以知其氣之虛實謹而調之也, SBCK: 八}
   - {type: variant, offset: 534, length: 118, content: 也肝藏血血舍魂肝氣虛則恐實則怒脾藏營營舍意脾氣虛則四肢不用五藏不安實則腹脹經溲不利心藏脈脈舍神心氣虛則悲實則笑不休肺藏氣氣舍魄肺氣虛則鼻塞不利少氣實則喘喝胸盈仰息腎藏精精舍志腎氣虛則厥實則脹五藏不安必審五藏之病形以知其氣之虛實謹而調之也, krp: 八}
   - {type: punctuation, offset: 535, content: 。, id: KR3e0002_CHANT_008-bkkpn109}
@@ -510,4 +515,4 @@ markers:
   - {type: punctuation, offset: 652, content: 。, id: KR3e0002_CHANT_008-bkkpn134}
   - {type: xml-element, offset: 652, content: '', id: KR3e0002_CHANT_008-bkkxmlele12}
   back: []
-hash: sha256:87e3c0a0f2dbc097c0833761d05d58dceb5acf550dfeae0b57eace0637f58ca0
+hash: sha256:8ec21a20aca22ccd59cf760d49d4be1717295ad95cd9e4fb0a0c576939f57e81

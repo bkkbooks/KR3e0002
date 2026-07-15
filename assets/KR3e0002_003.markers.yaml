@@ -16,6 +16,7 @@ markers:
   - {type: variant, offset: 1, length: 3, content: 鍼解第, SBCK: 便數而欠氣虛則肩背痛寒少氣不足以息溺色變為此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大}
   - {type: variant, offset: 1, length: 3, content: 鍼解第, WYG: 便數而欠氣虚則肩背痛寒少氣不足以息溺色變為此諸病盛則寫之虚則補之熱則疾之寒則留之陷下則炙之不盛不虚以經取之盛者寸口大}
   - {type: variant, offset: 1, length: 3, content: 鍼解第, krp: 便數而欠氣虛則肩背痛寒少氣不足以息溺色變為此諸病盛則寫之虛則補之熱則疾之寒則留之䧟下則灸之不盛不虛以經取之盛者寸口大}
+  - {type: substitution, offset: 1, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 3, content: 〉, id: KR3e0002_CHANT_003-bkkpn2}
   - {type: xml-element, offset: 5, content: '', id: KR3e0002_CHANT_003-bkkxmlele1}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3e0002_CHANT_003-1a.1}
@@ -23,6 +24,7 @@ markers:
   - {type: variant, offset: 5, length: 18, content: 小鍼解第三所謂易陳者易言也難入者難著, SBCK: 倍}
   - {type: variant, offset: 5, length: 18, content: 小鍼解第三所謂易陳者易言也難入者難著, WYG: 倍}
   - {type: variant, offset: 5, length: 18, content: 小鍼解第三所謂易陳者易言也難入者難著, krp: 倍}
+  - {type: substitution, offset: 6, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: xml-element, offset: 10, content: '', id: KR3e0002_CHANT_003-bkkxmlele2}
   - {type: xml-element, offset: 10, content: '', id: KR3e0002_CHANT_003-bkkxmlele3}
   - {type: 'tls:seg', offset: 10, content: '', id: KR3e0002_CHANT_003-1a.3}
@@ -42,6 +44,7 @@ markers:
   - {type: page-break, offset: 26, content: '', id: KR3e0002_SBCK_003-2b}
   - {type: variant, offset: 26, length: 3, content: 麤守形, WYG: 大腸手陽明之脈起于大指次指之端循指上亷出合谷兩骨之間上入兩節之中循臂上亷入肘外亷上臑外前亷上肩出髃骨之前亷上出于柱骨之㑹上下入缺盆絡肺下膈屬大腸其支}
   - {type: variant, offset: 26, length: 3, content: 麤守形, krp: 大腸手陽朙之脉起于大指次指之端循指上廉出合谷兩骨之間上入兩筋之中循臂上廉入肘外廉上臑外前廉上肩出髃骨之前廉上出于柱骨之㑹上下入缺盆絡肺下膈屬大腸其支}
+  - {type: substitution, offset: 26, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17356}}
   - {type: punctuation, offset: 30, content: ，, id: KR3e0002_CHANT_003-bkkpn7}
   - {type: 'tls:seg', offset: 30, content: '', id: KR3e0002_CHANT_003-1a.9}
   - {type: variant, offset: 30, length: 4, content: 守刺法也, SBCK: 從缺盆}
@@ -214,6 +217,7 @@ markers:
   - {type: 'tls:seg', offset: 118, content: '', id: KR3e0002_CHANT_003-1a.27}
   - {type: punctuation, offset: 123, content: 。, id: KR3e0002_CHANT_003-bkkpn26}
   - {type: 'tls:seg', offset: 123, content: '', id: KR3e0002_CHANT_003-1a.28}
+  - {type: substitution, offset: 123, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17356}}
   - {type: punctuation, offset: 127, content: ，, id: KR3e0002_CHANT_003-bkkpn27}
   - {type: 'tls:seg', offset: 127, content: '', id: KR3e0002_CHANT_003-1a.29}
   - {type: variant, offset: 135, length: 2, content: 正邪, SBCK: 與其皆少血氣皆有大數其治以鍼艾各調其經氣固其常有合乎黄帝曰余聞}
@@ -240,6 +244,7 @@ markers:
   - {type: variant, offset: 161, length: 14, content: 虛實用鍼之徐疾也空中之機清淨, krp: 所}
   - {type: punctuation, offset: 163, content: ，, id: KR3e0002_CHANT_003-bkkpn33}
   - {type: 'tls:seg', offset: 163, content: '', id: KR3e0002_CHANT_003-1a.35}
+  - {type: substitution, offset: 164, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 169, content: 。, id: KR3e0002_CHANT_003-bkkpn34}
   - {type: 'tls:seg', offset: 169, content: '', id: KR3e0002_CHANT_003-1a.36}
   - {type: punctuation, offset: 173, content: ，, id: KR3e0002_CHANT_003-bkkpn35}
@@ -250,6 +255,7 @@ markers:
   - {type: variant, offset: 176, length: 36, content: 微者鍼以得氣密意守氣勿失也其來不可逢者氣盛不可補也其往不可追者氣虛不可寫, krp: 參天地而應隂陽}
   - {type: punctuation, offset: 178, content: ，, id: KR3e0002_CHANT_003-bkkpn36}
   - {type: 'tls:seg', offset: 178, content: '', id: KR3e0002_CHANT_003-1a.38}
+  - {type: substitution, offset: 178, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 182, content: ，, id: KR3e0002_CHANT_003-bkkpn37}
   - {type: 'tls:seg', offset: 182, content: '', id: KR3e0002_CHANT_003-1a.39}
   - {type: punctuation, offset: 189, content: 。, id: KR3e0002_CHANT_003-bkkpn38}
@@ -268,6 +274,7 @@ markers:
   - {type: page-break, offset: 215, content: '', id: KR3e0002_WYG_003-17b, image: WYG0733/WYG0733-0348d.png}
   - {type: page-break, offset: 215, content: '', id: KR3e0002_WYG_003-18a, image: WYG0733/WYG0733-0349a.png}
   - {type: variant, offset: 215, length: 1, content: 掛, krp: 不察足太陽外合清水内屬膀胱而通水道焉足少陽外合于渭水内屬于膽足陽朙外合于海水内屬于胃足太隂外合于湖水内屬于脾足少隂外合于汝水内屬于腎足厥隂外合于澠水内屬于肝手太陽外合淮水内屬小腸而水道出焉手少陽外合于漯水内屬于三焦手陽朙外合于江水内屬于大腸手太隂外合于河水内屬于肺手少隂外合于濟水内屬于心手心主外合于漳水内屬于心包凡此五藏六府十二經水者外有源泉而内有所禀此皆内外相貫如環無端人經亦然故天爲陽地爲隂腰}
+  - {type: substitution, offset: 215, original: 掛, replacement: 挂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16851}}
   - {type: variant, offset: 217, length: 1, content: 髮, SBCK: 上爲天腰以下爲地故海以北}
   - {type: page-break, offset: 217, content: '', id: KR3e0002_SBCK_003-22a}
   - {type: variant, offset: 217, length: 1, content: 髮, WYG: 上為天腰以下為地故海以北}
@@ -310,12 +317,15 @@ markers:
   - {type: 'tls:seg', offset: 264, content: '', id: KR3e0002_CHANT_003-1a.52}
   - {type: punctuation, offset: 272, content: 。, id: KR3e0002_CHANT_003-bkkpn51}
   - {type: 'tls:seg', offset: 272, content: '', id: KR3e0002_CHANT_003-1a.53}
+  - {type: substitution, offset: 272, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17356}}
+  - {type: substitution, offset: 274, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 276, content: ，, id: KR3e0002_CHANT_003-bkkpn52}
   - {type: 'tls:seg', offset: 276, content: '', id: KR3e0002_CHANT_003-1a.54}
   - {type: punctuation, offset: 285, content: 。, id: KR3e0002_CHANT_003-bkkpn53}
   - {type: 'tls:seg', offset: 285, content: '', id: KR3e0002_CHANT_003-1a.55}
   - {type: punctuation, offset: 292, content: ，, id: KR3e0002_CHANT_003-bkkpn54}
   - {type: 'tls:seg', offset: 292, content: '', id: KR3e0002_CHANT_003-1a.56}
+  - {type: substitution, offset: 294, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 297, content: 。, id: KR3e0002_CHANT_003-bkkpn55}
   - {type: 'tls:seg', offset: 297, content: '', id: KR3e0002_CHANT_003-1a.57}
   - {type: punctuation, offset: 302, content: ，, id: KR3e0002_CHANT_003-bkkpn56}
@@ -409,6 +419,7 @@ markers:
   - {type: variant, offset: 495, length: 19, content: 言補者佖然若有得也寫則怳然若有失也夫氣, krp: 皆無過二分其留皆無過一呼其少長大小肥瘦以心撩}
   - {type: punctuation, offset: 504, content: ，, id: KR3e0002_CHANT_003-bkkpn95}
   - {type: 'tls:seg', offset: 504, content: '', id: KR3e0002_CHANT_003-2a.28}
+  - {type: substitution, offset: 506, original: 怳, replacement: 恍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17020}}
   - {type: punctuation, offset: 512, content: 。, id: KR3e0002_CHANT_003-bkkpn96}
   - {type: xml-element, offset: 512, content: '', id: KR3e0002_CHANT_003-bkkxmlele6}
   - {type: xml-element, offset: 512, content: '', id: KR3e0002_CHANT_003-bkkxmlele7}
@@ -463,6 +474,7 @@ markers:
   - {type: variant, offset: 604, length: 12, content: 清氣在下也鍼陷脈則邪氣出, krp: 其可爲度量}
   - {type: punctuation, offset: 609, content: 。, id: KR3e0002_CHANT_003-bkkpn112}
   - {type: 'tls:seg', offset: 609, content: '', id: KR3e0002_CHANT_003-3a.19}
+  - {type: substitution, offset: 609, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 617, content: ，, id: KR3e0002_CHANT_003-bkkpn113}
   - {type: 'tls:seg', offset: 617, content: '', id: KR3e0002_CHANT_003-3a.20}
   - {type: variant, offset: 618, length: 3, content: 之上鍼, SBCK: 其}
@@ -470,6 +482,7 @@ markers:
   - {type: variant, offset: 618, length: 3, content: 之上鍼, krp: 其}
   - {type: punctuation, offset: 620, content: 。, id: KR3e0002_CHANT_003-bkkpn114}
   - {type: 'tls:seg', offset: 620, content: '', id: KR3e0002_CHANT_003-3a.21}
+  - {type: substitution, offset: 620, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: variant, offset: 622, length: 11, content: 脈則濁氣出者取之陽明合, SBCK: 度}
   - {type: variant, offset: 622, length: 11, content: 脈則濁氣出者取之陽明合, WYG: 度}
   - {type: variant, offset: 622, length: 11, content: 脈則濁氣出者取之陽明合, krp: 度}
@@ -480,6 +493,7 @@ markers:
   - {type: variant, offset: 634, length: 14, content: 鍼大深則邪氣反沉者言淺浮之病, SBCK: ''}
   - {type: variant, offset: 634, length: 14, content: 鍼大深則邪氣反沉者言淺浮之病, WYG: ''}
   - {type: variant, offset: 634, length: 14, content: 鍼大深則邪氣反沉者言淺浮之病, krp: ''}
+  - {type: substitution, offset: 634, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 643, content: ，, id: KR3e0002_CHANT_003-bkkpn117}
   - {type: 'tls:seg', offset: 643, content: '', id: KR3e0002_CHANT_003-3a.24}
   - {type: punctuation, offset: 648, content: ，, id: KR3e0002_CHANT_003-bkkpn118}
@@ -511,6 +525,7 @@ markers:
   - {type: variant, offset: 693, length: 7, content: 足但用鍼盡大寫, krp: 衰也若夫度之人痟瘦而形肉脱者惡可以度量刺乎審切循捫按視}
   - {type: punctuation, offset: 694, content: ，, id: KR3e0002_CHANT_003-bkkpn127}
   - {type: 'tls:seg', offset: 694, content: '', id: KR3e0002_CHANT_003-3a.34}
+  - {type: substitution, offset: 696, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: variant, offset: 701, length: 2, content: 諸陰, SBCK: 寒温盛衰而調}
   - {type: variant, offset: 701, length: 2, content: 諸陰, WYG: 寒温盛衰而調}
   - {type: variant, offset: 701, length: 2, content: 諸陰, krp: 寒温盛衰而調}
@@ -558,6 +573,7 @@ markers:
   - {type: 'tls:seg', offset: 767, content: '', id: KR3e0002_CHANT_003-4a.8}
   - {type: punctuation, offset: 776, content: ，, id: KR3e0002_CHANT_003-bkkpn142}
   - {type: 'tls:seg', offset: 776, content: '', id: KR3e0002_CHANT_003-4a.9}
+  - {type: substitution, offset: 786, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17222}}
   - {type: punctuation, offset: 787, content: ，, id: KR3e0002_CHANT_003-bkkpn143}
   - {type: 'tls:seg', offset: 787, content: '', id: KR3e0002_CHANT_003-4a.10}
   - {type: punctuation, offset: 792, content: 。, id: KR3e0002_CHANT_003-bkkpn144}
@@ -570,6 +586,7 @@ markers:
   - {type: 'tls:seg', offset: 811, content: '', id: KR3e0002_CHANT_003-4a.14}
   - {type: punctuation, offset: 817, content: ，, id: KR3e0002_CHANT_003-bkkpn148}
   - {type: 'tls:seg', offset: 817, content: '', id: KR3e0002_CHANT_003-4a.15}
+  - {type: substitution, offset: 819, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 824, content: 。, id: KR3e0002_CHANT_003-bkkpn149}
   - {type: 'tls:seg', offset: 824, content: '', id: KR3e0002_CHANT_003-4a.16}
   - {type: punctuation, offset: 830, content: ，, id: KR3e0002_CHANT_003-bkkpn150}
@@ -586,12 +603,15 @@ markers:
   - {type: 'tls:seg', offset: 869, content: '', id: KR3e0002_CHANT_003-4a.22}
   - {type: punctuation, offset: 875, content: ，, id: KR3e0002_CHANT_003-bkkpn156}
   - {type: 'tls:seg', offset: 875, content: '', id: KR3e0002_CHANT_003-4a.23}
+  - {type: substitution, offset: 876, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 880, content: ，, id: KR3e0002_CHANT_003-bkkpn157}
   - {type: 'tls:seg', offset: 880, content: '', id: KR3e0002_CHANT_003-4a.24}
+  - {type: substitution, offset: 884, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 887, content: ，, id: KR3e0002_CHANT_003-bkkpn158}
   - {type: 'tls:seg', offset: 887, content: '', id: KR3e0002_CHANT_003-4a.25}
   - {type: punctuation, offset: 899, content: ，, id: KR3e0002_CHANT_003-bkkpn159}
   - {type: 'tls:seg', offset: 899, content: '', id: KR3e0002_CHANT_003-4a.26}
+  - {type: substitution, offset: 901, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 906, content: ，, id: KR3e0002_CHANT_003-bkkpn160}
   - {type: 'tls:seg', offset: 906, content: '', id: KR3e0002_CHANT_003-4a.27}
   - {type: punctuation, offset: 913, content: ，, id: KR3e0002_CHANT_003-bkkpn161}
@@ -606,10 +626,13 @@ markers:
   - {type: 'tls:seg', offset: 927, content: '', id: KR3e0002_CHANT_003-4a.32}
   - {type: punctuation, offset: 933, content: ，, id: KR3e0002_CHANT_003-bkkpn166}
   - {type: 'tls:seg', offset: 933, content: '', id: KR3e0002_CHANT_003-4a.33}
+  - {type: substitution, offset: 934, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 938, content: ，, id: KR3e0002_CHANT_003-bkkpn167}
   - {type: 'tls:seg', offset: 938, content: '', id: KR3e0002_CHANT_003-4a.34}
+  - {type: substitution, offset: 942, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 952, content: ，, id: KR3e0002_CHANT_003-bkkpn168}
   - {type: 'tls:seg', offset: 952, content: '', id: KR3e0002_CHANT_003-4a.35}
+  - {type: substitution, offset: 954, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 960, content: ，, id: KR3e0002_CHANT_003-bkkpn169}
   - {type: 'tls:seg', offset: 960, content: '', id: KR3e0002_CHANT_003-4a.36}
   - {type: punctuation, offset: 968, content: ，, id: KR3e0002_CHANT_003-bkkpn170}
@@ -636,4 +659,4 @@ markers:
   - {type: xml-element, offset: 1013, content: '', id: KR3e0002_CHANT_003-bkkxmlele10}
   - {type: page-break, offset: 1013, content: '', id: KR3e0002_SBCK_003-23b}
   back: []
-hash: sha256:9f5191f490302ba0612b98b6447bed169c1ae61d5ef506f02afa99c9643c3e40
+hash: sha256:c205c9f9e3e3245d36d0728aeb8da803d6e3aba4d20c068e2f5578530592619e
