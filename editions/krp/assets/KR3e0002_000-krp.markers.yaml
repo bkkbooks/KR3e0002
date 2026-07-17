@@ -190,6 +190,7 @@ markers:
   - {type: line-break, offset: 3, content: '', id: KR3e0002_SBCK_000-3a03}
   - {type: indent, offset: 3, content: 　　, id: KR3e0002_krp_000-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR3e0002_krp_000-bkkpn1}
+  - {type: voice, offset: 10, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 12, content: ), id: KR3e0002_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 12, content: '
 
@@ -197,6 +198,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: KR3e0002_SBCK_000-3a04}
   - {type: indent, offset: 12, content: 　　, id: KR3e0002_krp_000-bkkind3}
   - {type: punctuation, offset: 16, content: (, id: KR3e0002_krp_000-bkkpn3}
+  - {type: voice, offset: 16, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 18, content: ), id: KR3e0002_krp_000-bkkpn4}
   - {type: 'kr:newline', offset: 18, content: '
 
@@ -204,6 +206,7 @@ markers:
   - {type: line-break, offset: 18, content: '', id: KR3e0002_SBCK_000-3a05}
   - {type: indent, offset: 18, content: 　　, id: KR3e0002_krp_000-bkkind4}
   - {type: punctuation, offset: 23, content: (, id: KR3e0002_krp_000-bkkpn5}
+  - {type: voice, offset: 23, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 25, content: ), id: KR3e0002_krp_000-bkkpn6}
   - {type: 'kr:newline', offset: 25, content: '
 
@@ -212,6 +215,7 @@ markers:
   - {type: indent, offset: 25, content: 　　, id: KR3e0002_krp_000-bkkind5}
   - {type: punctuation, offset: 33, content: (, id: KR3e0002_krp_000-bkkpn7}
   - {type: variant, offset: 33, length: 561, content: 法時卷之二根結第五法音夀夭剛柔第六法律官鍼第七法星本神第八法風終始第九法野卷之三經脉第十經别第十一經水第十二卷之四經筋第十三骨度第十四五十營第十五營氣第十六脉度第十七營衛生會第十八四時氣第十九卷之五五邪第二十寒熱病第二十一癲狂病第二十二熱病第二十三厥病第二十四病本第二十五雜病第二十六周痺第二十七口問第二十八卷之六師傳第二十九决氣第三十腸胃第三十一平人絶榖第三十二海論第三十三五亂第三十四脹論第三十五五癃津液别第三十六五閱五使第三十七逆順肥瘦第三十八血絡論第三十九隂陽清濁第四十卷之七隂陽繫日月第四十一病傳第四十二滛邪發夢第四十三順氣一日分爲四時第四十四外揣第四十五五變第四十六本藏第四十七卷之八禁服第四十八五色第四十九論勇第五十背腧第五十一衛氣第五十二論痛第五十三天年第五十四逆順第五十五五味第五十六卷之九水脹第五十七賊風第五十八衛風失常第五十九玉版第六十五禁第六十一動輸第六十二五味論第六十三隂陽二十五人第六十四卷之十五音五味第六十五百病始生第六十六行鍼第六十七上膈第六十八憂恚無言第六十九寒熱第七十邪客第七十一通天第七十二卷之十一官能第七十三論疾診尺第七十四剌節眞邪第七十五衛氣行第七十六九宮八風第七十七卷之十二九鍼論第七十八歳露論第七十九大惑論第八十癰疽第八十一元二十四卷今倂爲十二卷計八十一篇黃帝素問靈樞經目錄終, WYG: 庫全書}
+  - {type: voice, offset: 33, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 35, content: ), id: KR3e0002_krp_000-bkkpn8}
   - {type: 'kr:newline', offset: 35, content: '
 
@@ -224,6 +228,7 @@ markers:
   - {type: line-break, offset: 38, content: '', id: KR3e0002_SBCK_000-3a08}
   - {type: indent, offset: 38, content: 　　, id: KR3e0002_krp_000-bkkind7}
   - {type: punctuation, offset: 42, content: (, id: KR3e0002_krp_000-bkkpn9}
+  - {type: voice, offset: 42, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 44, content: ), id: KR3e0002_krp_000-bkkpn10}
   - {type: 'kr:newline', offset: 44, content: '
 
@@ -235,6 +240,7 @@ markers:
   - {type: line-break, offset: 44, content: '', id: KR3e0002_SBCK_000-3b01}
   - {type: indent, offset: 44, content: 　　, id: KR3e0002_krp_000-bkkind8}
   - {type: punctuation, offset: 50, content: (, id: KR3e0002_krp_000-bkkpn11}
+  - {type: voice, offset: 50, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 52, content: ), id: KR3e0002_krp_000-bkkpn12}
   - {type: 'kr:newline', offset: 52, content: '
 
@@ -242,6 +248,7 @@ markers:
   - {type: line-break, offset: 52, content: '', id: KR3e0002_SBCK_000-3b02}
   - {type: indent, offset: 52, content: 　　, id: KR3e0002_krp_000-bkkind9}
   - {type: punctuation, offset: 56, content: (, id: KR3e0002_krp_000-bkkpn13}
+  - {type: voice, offset: 56, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 58, content: ), id: KR3e0002_krp_000-bkkpn14}
   - {type: 'kr:newline', offset: 58, content: '
 
@@ -249,6 +256,7 @@ markers:
   - {type: line-break, offset: 58, content: '', id: KR3e0002_SBCK_000-3b03}
   - {type: indent, offset: 58, content: 　　, id: KR3e0002_krp_000-bkkind10}
   - {type: punctuation, offset: 62, content: (, id: KR3e0002_krp_000-bkkpn15}
+  - {type: voice, offset: 62, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 64, content: ), id: KR3e0002_krp_000-bkkpn16}
   - {type: 'kr:newline', offset: 64, content: '
 
@@ -256,6 +264,7 @@ markers:
   - {type: line-break, offset: 64, content: '', id: KR3e0002_SBCK_000-3b04}
   - {type: indent, offset: 64, content: 　　, id: KR3e0002_krp_000-bkkind11}
   - {type: punctuation, offset: 68, content: (, id: KR3e0002_krp_000-bkkpn17}
+  - {type: voice, offset: 68, length: 2, name: note, id: n9}
   - {type: punctuation, offset: 70, content: ), id: KR3e0002_krp_000-bkkpn18}
   - {type: 'kr:newline', offset: 70, content: '
 
@@ -720,9 +729,10 @@ markers:
       ', id: KR3e0002_krp_000-bkkkrnewl106}
   - {type: line-break, offset: 584, content: '', id: KR3e0002_SBCK_000-8b08}
   - {type: punctuation, offset: 593, content: (, id: KR3e0002_krp_000-bkkpn19}
+  - {type: voice, offset: 593, length: 1, name: note, id: n10}
   - {type: punctuation, offset: 594, content: ), id: KR3e0002_krp_000-bkkpn20}
   - {type: 'kr:newline', offset: 594, content: '
 
       ', id: KR3e0002_krp_000-bkkkrnewl107}
   back: []
-hash: sha256:81582fafee85763f3c857d3f57da637cf9a10836edb5f2ab305cec3e9d4a6167
+hash: sha256:4f68775fa71a407e51d5fb166a2d2e06952c064a2ea0d85801990e34dd1724eb
